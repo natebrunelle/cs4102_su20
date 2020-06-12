@@ -1,0 +1,75 @@
+/* Overall look-and-feel */
+body { margin:0em; font-family: sans-serif; color: #333333; background: #ffffff; line-height: 150%; }
+p { margin: 0em; }
+p + p { margin-top: 1ex; }
+a { color: #0088cc; text-decoration: none; }
+a:hover, a:focus { color: #005580; text-decoration: underline; }
+
+/* extras to help floats work properly */
+.container:after { clear:both; }
+.container:before, .container:after { display: table; content: ""; line-height: 0; }
+
+/* Header and footer */
+.navbar { overflow: visible; }
+.navbar-static-top { position:static; margin:0em; }
+.navbar .nav > li { float: left; padding: 0ex 1ex; list-style: none; }
+.doc-title { font-size:133%; color: #777777; text-shadow:0ex 0.125ex 0ex #ffffff; padding: 1ex 2ex; text-indent: -1em; margin-left:1em; }
+.doc-title, ul.nav { display: block; }
+ul.nav { padding: 1ex; margin: 0em; }
+.navbar .container { display: flex; flex-wrap: wrap; align-items: bottom; }
+.navbar-inner { box-shadow: 0 0.0625ex 0.5ex rgba(0,0,0,.1); background-image: linear-gradient(to bottom, #ffffff, #f2f2f2); padding: 1ex; }
+footer { text-align: center; box-shadow: 0 0.0625ex 0.5ex rgba(0,0,0,.1); background-image: linear-gradient(to top, #ffffff, #f2f2f2); padding: 1ex; }
+
+
+
+/* TOC on side if enough space, else above */
+.row { display: flex; flex-wrap: wrap; align-items: flex-start; }
+#TOC { flex: 1 0 15em; margin: 1em; }
+#TOC + div { flex:10 1 40em; margin: 1em; }
+.row > div:only-child { flex: 1 1 auto; margin: 1em; }
+
+/* TOC styles */
+.well { background: #f5f5f5; border: 0.125ex solid #e3e3e3; min-height: 1em; border-radius: 0.5ex; box-shadow: inset 0 0.0625ex 0.125ex rgba(0,0,0,0.25); }
+.toc ul  { padding: 0em; margin: 0em; list-style: none; }
+.toc ul > li > a { padding: 0.25ex 1ex;  display:block; text-indent: -2em; padding-left: calc(2em + 1ex); line-height:125%; }
+.toc ul > li > a:hover, .toc ul > li > a:focus { background-color: #eeeeee; text-decoration: none; }
+.nav-header { padding: 0.5ex 1ex;  display:block; color: #999999; text-transform: uppercase; font-weight: bold; text-shadow:0ex 0.125ex 0ex rgba(255,255,255,0.5); font-size: 79.43%; }
+
+
+/* Header styles */
+.header-section-number, .toc-section-number { opacity: 0.5; }
+.header-section-number:after, .toc-section-number:after { content: ". "; }
+h1 { font-size: 135%; border-top: 0.125ex solid #999999; padding: 1ex 0ex; margin: 0ex;  }
+h1:nth-child(n+2) { margin-top: 1ex; }
+h2 { font-size: 120%; }
+h3 { font-size: 112%; }
+h4 { font-size: 106%; }
+h5 { font-size: 100%; }
+h6 { font-size: 100%; }
+
+/* Table styles */
+thead > th { font-weight: bold; }
+tr.odd { background-color: #f5f5f5; }
+table { border: 0.0625ex solid rgba(0,0,0,0.125); border-collapse: collapse; max-width: 100%; }
+td,th { padding: 0ex 1ex; }
+
+/* Footnote styles */
+
+.footnotes ol { padding-left: 1em; }
+.footnotes li { margin: 0.5ex 0ex; font-size:95%; }
+
+/* other */
+dt { font-weight: bold; } 
+dd { margin-left: 1em; }
+dd + dt { margin-top: 1ex; }
+.floater { float:right; max-width: 50%; text-align: right; }
+pre { padding: 1ex; margin: 1ex 0ex; word-break: break-all; word-wrap: wrap-word; white-space: pre-wrap;  background: #f5f5f5; border: 0.125ex solid #e3e3e3; min-height: 1em; border-radius: 0.5ex; box-shadow: 0 0.0625ex 0.125ex rgba(0,0,0,0.25); }
+blockquote { border-left: 0.5ex solid rgba(0,0,0,0.125); padding-left: 1.5ex; margin: 1ex 0ex; }
+figure { max-width: 100%; display: table; margin: auto; padding: 1em; }
+figcaption { text-align: center; font-weight: bold; margin-top: 1ex; }
+pre,code { background: #f5f5f5; border: 0.125ex solid #e3e3e3; border-radius: 0.5ex; word-wrap: wrap-word; white-space: pre-wrap; word-break: break-all; }
+pre { padding: 1ex; margin: 1ex 0ex; min-height: 1em; box-shadow: 0 0.0625ex 0.125ex rgba(0,0,0,0.25); }
+code { padding: 0.125ex; }
+pre code { border: none; }
+.floater img, figure img { max-width: 100%; }
+code.gap { background: #ffffff; border: 0.125ex solid #e3e3e3; border-radius: 0.5ex; padding:0.125ex 0.25ex; }
