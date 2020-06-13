@@ -62,7 +62,7 @@ For each of the CS2102 topics, you can view last [semester's lectures](http://ww
 
 
 
-#What to expect
+# What to expect
 
 ## In this Algorithms course
 
