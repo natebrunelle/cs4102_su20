@@ -28,6 +28,20 @@ Now that I've sufficiently warned you, please take comfort that I have done my b
 
 ## In an online course
 
+As I'm sure you're aware, there are challenges presented by the online course format which can make learning more challenging. If there are things I can do to make the course work better for you with this online format, please let me know, and I'll do my best to work in those recommendations. To start with, here are the resources and suggestions that are provided by the course staff.
+
+Course structures:
+
+1. **Lecture**: will be hosted live online via zoom. Recordings will be posted after (sometimes it takes zoom a few hours to master the video). Due to instances of "zoom bombing", you will need a password to join (find it on piazza)
+1. **Office Hours**: There will be instructor and TA office hours 5 days a week hosted via zoom. These will be open chat rooms for you to discuss with course staff and classmates.
+1. **Online submissions**: Problem set solutions must be submitted by pdf. Quizzes may be submitted as either a pdf or a txt file. We do not have a preference for how the pdfs are generated (LaTeX, Microsoft Word, pictures of handwriting are all acceptable) so long as what is submitted is legible, and you use the appropriate mathematical symbols when necessary (please use the equation editor if you're using Word).
+1. **Piazza**: We will be using the Piazza message board. We highly encourage you to post questions or resources that you think could benefit your peers. This is also the best place to post questions outside of office hours.
+
+Some suggestions:
+
+1. **Dedicate time and space** One of the most important things you can do to help yourself is to set aside time and space for your studies. Once you've selected that time and space, try to only do work at that time and in that location. As much as possible, don't use that time or place for anything else. Pick a chair in your bedroom, a spot on the floor, a chair at the kitchen table, or whatever you can do with the space you're in.
+1. **Introduce yourself** If you opt in on the beginning of course questionnaire (little_1a), we will post a short bio about you on the course webpage. This could be helpful in you forming a study/work group for the class. It could also help you to make new friends!
+1. **Attend live lecture** If you're able to, attending live lecture will help to establish your routine, put you in the learning mindset, and remind you that you're learning in a community.
 
 
 # Logistics
