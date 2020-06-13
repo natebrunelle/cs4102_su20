@@ -47,9 +47,9 @@ Lecture attendance is optional, but strongly encouraged. In the event you are un
 | Location | Rice 209 | TBA |
 | Office Hours | TBD | TBA |
 | Phone | 243-3845 | (none) |
-| Email | <a href="mailto:njb2b@virginia.edu?subject=DMT1">njb2b@virginia.edu</a> | use [Piazza](https://piazza.com/virginia/spring2020/20spcs3102/home) |
+| Email | <a href="mailto:njb2b@virginia.edu?subject=DMT1">njb2b@virginia.edu</a> | use [Piazza](https://piazza.com/virginia/summer2020/cs4102) |
 
-For communication about course content, [Piazza](https://piazza.com/virginia/spring2020/20spcs3102/home) is preferred to email.
+For communication about course content, [Piazza](https://piazza.com/virginia/summer2020/cs4102) is preferred to email.
 For communication about personal circumstances, email or in-person visits are preferred.
 If you email, include either "algorithms" or "4102" in the subject line to prevent your email from skipping my inbox and never getting read.
 
