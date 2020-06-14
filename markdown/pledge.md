@@ -4,12 +4,6 @@ title: CS4102 Course Pledge
 
 # Course Pledge
 
-## Honor Expectations
-
-As a student at the University of Virginia, you are trusted to be honorable and expected to behave in ways that merit that trust. We take advantage of this trust to provide a better learning environment for everyone. In particular, students in cs3102 are expected to follow these rules throughout the course:
-
-- **I will not lie, cheat or steal.** If I am unsure whether something would be considered lying, cheating or stealing, I will ask before doing it.
-- **I will carefully read and follow the collaboration policy on each assignment.** I will not abuse resources in ways that would be clearly detrimental to my own learning or unfair to other students. Viewing solutions from previous cs4102 courses is not permitted, except when explicitly allowed.
 
 ## Community Expectations
 
@@ -21,4 +15,12 @@ As a member of an educational community, in CS4102 you are expected to follow th
 - **I grant the course staff permission to reproduce excerpts from my submissions for teaching purposes.** My work will be attributed when it is shown in a postive way, but may be used anonymously if it is used to illustrate common pitfalls or other issues.
 - **I will provide useful feedback.** I realize that this will be attempting many new things, and that it is important that I let the course staff know what they need to improve the course. I will provide feedback either anonymously or by contacting the course staff directly. I will fill out all requested surveys honestly and thoroughly.
 
+
+
+## Honor Expectations
+
+As a student at the University of Virginia, you are trusted to be honorable and expected to behave in ways that merit that trust. We take advantage of this trust to provide a better learning environment for everyone. In particular, students in cs4102 are expected to follow these rules throughout the course:
+
+- **I will not lie, cheat or steal.** If I am unsure whether something would be considered lying, cheating or stealing, I will ask before doing it.
+- **I will carefully read and follow the collaboration policy on each assignment.** I will not abuse resources in ways that would be clearly detrimental to my own learning or unfair to other students. Viewing solutions from previous cs4102 courses is not permitted, except when explicitly allowed.
 
