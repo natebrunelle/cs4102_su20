@@ -114,7 +114,7 @@ This numerical calculation is to be considered a **guideline** on your score in 
 
 ## Deadlines
 
-Deadlines for all assignments are available on the [schedule page](schedule.html). In general, you will have little assignments due every Tuesday, Wednesday, and Thursday, big assignments due Monday, and a quiz every Friday.
+Deadlines for all assignments are available on the [schedule page](schedule.html). In general, you will have "little" assignments due every Tuesday, Wednesday, and Thursday, "big" assignments due Monday, and a quiz every Friday.
 
 Due to the rapid pace of summer courses, late submissions of assignments will not be allowed by default. If you feel that extenuating circumstances justify late submission for any assignment, please request a deadline extension. You can do that on the same page where you would submit an assignment. There is no upper bound on the number of assignment extensions you may be granted, but please don't exploit this. 
 
