@@ -97,7 +97,7 @@ summary { margin-left: -1em; }
 
 </style>
 
-Lectures will be live-streamed via zoom. [Please join us!]( https://virginia.zoom.us/j/95450131346
+Lectures will be live-streamed via zoom. [Please join us!](https://virginia.zoom.us/j/95450131346)
 
 <p>View as 
 <label><input type="radio" name="viewmode" onchange="viewmode(this)" checked value="calendar" id="viewmode=calendar"> calendar</label>
