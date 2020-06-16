@@ -33,3 +33,11 @@ This assignment is intended for getting you acquainted with the course. There ar
 
 1. **Beginning of course questionnaire**. Please complete this [google form](https://forms.gle/5fVBZLavoU1Zjy6p6). There is nothing else to submit for this task
 1. **Discrete Math and Data Structures review**. Please answer the questions on [this worksheet](files/littles/little1a_blank.pdf) ([tex source](files/littles/little1a_2020.zip)). Submit your answers as a pdf.
+
+### Little 1b
+
+Due 11:59pm Wednesday June 17
+
+This assignment will help you to become acquainted with the kinds of arguments we'll need to make when evaluating divide-and-conquer algorithms. It includes an exercise in determining the recursion depth of such algorithms, and how to make arguments to demonstrate asymptotic complexities.
+
+Please answer the questions on [this worksheet](files/littles/little1b_blank.pdf) ([tex source](files/littles/little1b_2020.zip)). Submit your answers as a pdf.
