@@ -41,3 +41,11 @@ Due 11:59pm Wednesday June 17
 This assignment will help you to become acquainted with the kinds of arguments we'll need to make when evaluating divide-and-conquer algorithms. It includes an exercise in determining the recursion depth of such algorithms, and how to make arguments to demonstrate asymptotic complexities.
 
 Please answer the questions on [this worksheet](files/littles/little1b_blank.pdf) ([tex source](files/littles/little1b_2020.zip)). Submit your answers as a pdf.
+
+### Little 1c
+
+Due 11:59pm Thursday June 18
+
+This assignment asks you to solve some recurrence relations and to design an analyze a divide-and-conquer algorithms.
+
+Please answer the questions on [this worksheet](files/littles/little1c_blank.pdf) ([tex source](files/littles/little1c_2020.zip)). Submit your answers as a pdf.
