@@ -11,13 +11,12 @@ We will have scheduled office hours times. If you have questions outside of offi
 <div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[Join Brunelle's Office Hours](https://virginia.zoom.us/j/2191769718)</div>
 
 
-**TA office hours** will be conducted using the [office hours queue](https://kytos.cs.virginia.edu/ohq/?c=cs3102). To get help, add yourself to the queue, putting a link to your zoom personal meeting room. A TA will join your meeting room when it's your turn. 
+**TA office hours** will be conducted using the [office hours queue](https://kytos.cs.virginia.edu/ohq/?c=cs3102) (yes, I know that says CS3102, we'll be hijacking the queue for that class). To get help, add yourself to the queue, putting a link to your zoom personal meeting room. A TA will join your meeting room when it's your turn. 
 
 <div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[Get TA Help](https://kytos.cs.virginia.edu/ohq/?c=cs3102)</div>
 
 TAs will be helping you off the queue at the following times:
 
-
-<iframe src="https://calendar.google.com/calendar/embed?src=kmf2gjk9ne5f6odf9t126a1gjs%40group.calendar.google.com&ctz=America%2FNew_York&amp;mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=do3p214dhtddi97rgiok5p6ha4%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
