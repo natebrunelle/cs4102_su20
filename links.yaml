@@ -2,3 +2,8 @@
     slides(pptx): files/slides/lecture1_welcome_runtime.pptx
     slides(pdf): files/slides/lecture1_welcome_runtime.pdf
     video: https://virginia.zoom.us/rec/share/usVpBaztzlhJbauKylvmUbxmObjMeaa80yEf_fcEz0vE8Zo3yt7IcT70CtcqpJtT
+
+2020-06-16:
+    slides(pptx): files/slides/lecture2_divide_and_conquer.pptx
+    slides(pdf): files/slides/lecture2_divide_and_conquer.pdf
+    math: files/recurrence_math.pdf
