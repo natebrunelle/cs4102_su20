@@ -20,7 +20,7 @@ We will have scheduled office hours times. If you have questions outside of offi
 1. This Discord server is replacing face to face Office Hours. If you have a question that you would put into text and get a text response, please put it on Piazza rather than #general or #need-help-queue. That way others don't have to look in multiple places to see if their question has been answered. 
 1. TAs will usually work with single students or small groups. If there is a single problem stumping lots of students a TA might enter the "TA Lecture" channel and give a lecture. 
 1. We are figuring things out. If there is a feature you want or confusion you have you can put it in the general chat and we will see if we can address it. 
-1. You may DM me any other questions you may have. You can also put them in #general .
+1. You may DM a TA or make a piazza post with any other questions you may have. You can also put them in #general .
 
 <div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[Link to Discord](https://piazza.com/class/kbdxeo5ub5d2n4?cid=11)</div>
 
