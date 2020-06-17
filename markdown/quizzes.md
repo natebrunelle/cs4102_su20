@@ -25,4 +25,4 @@ Quizzes may be submitted as either a pdf or a txt file. We do not have a prefere
 
 ## Quiz 1
 
-Due at 11:59pm Friday June 19. Will be posted no later than 1pm Thursday Jun 18.
+Due at 11:59pm Tuesday June 23. Will be posted no later than 1pm Thursday Jun 18.
