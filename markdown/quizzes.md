@@ -25,4 +25,8 @@ Quizzes may be submitted as either a pdf or a txt file. We do not have a prefere
 
 ## Quiz 1
 
-Due at 11:59pm Tuesday June 23. Will be posted no later than 1pm Thursday Jun 18.
+Due at 11:59pm Monday June 22.
+
+This quiz covers divide and conquer an solving recurrence relations.
+
+Please answer the questions in [this worksheet](files/quizzes/quiz1_blank.pdf) ([tex source](files/quizzes/quiz1_su2020.zip)). Submit your answers as a pdf or as a txt file.

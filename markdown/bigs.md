@@ -25,7 +25,7 @@ Unless otherwise indicated, each problem set will be submitted as a pdf on the [
 
 ## Big 1
 
-Due 11:59pm Monday June 22. 
+Due 11:59pm Tuesday June 23. 
 
 This assignment is intended to give you experience with the design and analysis of divide-and-conquer algorithms. The problems will derive from content learned during the first week of lecture.
 
