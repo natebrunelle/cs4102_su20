@@ -18,4 +18,8 @@
     slides(pptx): files/slides/lecture4_master_closestpair.pptx
     slides(pdf): files/slides/lecture4_master_closestpair.pdf
     video: https://virginia.zoom.us/rec/share/3tVcd_Lx2W9JWrPu60DEeukYRYjpT6a8g3Ud-fEExBnHCI2gXGyiRCJdTzILUhT8
+
+2020-06-22:
+    slides(pptx): files/slides/lecture5_strassens_quicksort.pptx
+    slides(pdf): files/slides/lecture5_strassens_quicksort.pdf
     
