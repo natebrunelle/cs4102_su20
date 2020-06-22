@@ -49,3 +49,13 @@ Due 11:59pm Thursday June 18
 This assignment asks you to solve some recurrence relations and to design an analyze a divide-and-conquer algorithms.
 
 Please answer the questions on [this worksheet](files/littles/little1c_blank.pdf) ([tex source](files/littles/little1c_2020.zip)). Submit your answers as a pdf.
+
+## Week 2
+
+### Little 2a
+
+Due 11:59pm Wednesday June 24
+
+This assignment is intended to give you experience with randomized algorithm analysis and decision trees.
+
+Please answer the questions on [this worksheet](files/littles/little2a_blank.pdf) ([tex source](files/littles/little2a_2020.zip)). Submit your answers as a pdf.
