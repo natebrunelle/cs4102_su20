@@ -59,3 +59,11 @@ Due 11:59pm Wednesday June 24
 This assignment is intended to give you experience with randomized algorithm analysis and decision trees.
 
 Please answer the questions on [this worksheet](files/littles/little2a_blank.pdf) ([tex source](files/littles/little2a_2020.zip)). Submit your answers as a pdf.
+
+### Little 2b
+
+Due 11:59pm Thursday June 25
+
+This assignment is intended to give you experience with linear-time sorting algorithms.
+
+Please answer the questions on [this worksheet](files/littles/little2b_blank.pdf) ([tex source](files/littles/little2b_2020.zip)). Submit your answers as a pdf.
