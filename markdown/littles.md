@@ -67,3 +67,11 @@ Due 11:59pm Thursday June 25
 This assignment is intended to give you experience with linear-time sorting algorithms.
 
 Please answer the questions on [this worksheet](files/littles/little2b_blank.pdf) ([tex source](files/littles/little2b_2020.zip)). Submit your answers as a pdf.
+
+### Little 2c
+
+Due 11:59pm Friday June 26
+
+This assignment is intended to give you acquainted with dynamic programming algorithms.
+
+Please answer the questions on [this worksheet](files/littles/little2c_blank.pdf) ([tex source](files/littles/little2c_2020.zip)). Submit your answers as a pdf.
