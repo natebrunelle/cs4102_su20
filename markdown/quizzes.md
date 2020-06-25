@@ -30,3 +30,11 @@ Due at 11:59pm Monday June 22.
 This quiz covers divide and conquer an solving recurrence relations.
 
 Please answer the questions in [this worksheet](files/quizzes/quiz1_blank.pdf) ([tex source](files/quizzes/quiz1_su2020.zip)). Submit your answers as a pdf or as a txt file.
+
+## Quiz 2
+
+Due at 11:59pm Saturday June 27.
+
+This quiz covers sorting algorithms.
+
+Please complete the table in [this worksheet](files/quizzes/quiz2_blank.pdf) ([tex source](files/quizzes/quiz2_su2020.zip)). Submit your answers as a pdf or as a txt file.
