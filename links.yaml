@@ -38,4 +38,8 @@
     slides(pptx): files/slides/lecture8_dynamic_programming.pptx
     slides(pdf): files/slides/lecture8_dynamic_programming.pdf
     video: https://virginia.zoom.us/rec/share/5_YqCevv2FJOe6PIzUTNZLYdHJzPeaa82yAY_vMOmkYMiSxgz2AtFcAafOsrV98M
+    
+2020-06-26:
+    slides(pptx): files/slides/lecture9_dp2.pptx
+    slides(pdf): files/slides/lecture9_dp2.pdf
         
