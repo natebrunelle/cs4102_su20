@@ -75,3 +75,14 @@ Due 11:59pm Friday June 26
 This assignment is intended to give you acquainted with dynamic programming algorithms.
 
 Please answer the questions on [this worksheet](files/littles/little2c_blank.pdf) ([tex source](files/littles/little2c_2020.zip)). Submit your answers as a pdf.
+
+## Week 3
+
+### Little 3a
+
+Due 11:59pm Wednesday July 1
+
+This assignment is intended to be an exercise in the design of dynamic programming algorithms.
+
+Please answer the questions on [this worksheet](files/littles/little3a_blank.pdf) ([tex source](files/littles/little3a_2020.zip)). Submit your answers as a pdf.
+
