@@ -86,7 +86,7 @@ This assignment is intended to be an exercise in the design of dynamic programmi
 
 Please answer the questions on [this worksheet](files/littles/little3a_blank.pdf) ([tex source](files/littles/little3a_2020.zip)). Submit your answers as a pdf.
 
-### Little 3a
+### Little 3b
 
 Due 11:59pm Thursday July 2
 
