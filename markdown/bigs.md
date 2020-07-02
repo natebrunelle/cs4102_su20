@@ -38,3 +38,11 @@ Due 11:59pm Monday June 29.
 This assignment is intended to give you experience with designing and modifying sorting algorithms and dynamic programming. The problems will derive from content learned during the second week of lecture.
 
 Please answer the questions on [this worksheet](files/bigs/big2_blank.pdf) ([tex source](files/bigs/big2_su2020.zip)). Submit your answers as a pdf.
+
+## Big 3
+
+Due 11:59pm Tuesday July 7. 
+
+This assignment is intended to give you experience with designing and modifying sorting algorithms and dynamic programming. The problems will derive from content learned during the second week of lecture.
+
+Please answer the questions on [this worksheet](files/bigs/big3_blank.pdf) ([tex source](files/bigs/big3_su2020.zip)). Submit your answers as a pdf.
