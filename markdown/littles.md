@@ -96,7 +96,7 @@ Please answer the questions on [this worksheet](files/littles/little3b_blank.pdf
 
 ### Little 3c
 
-Due 11:59pm Friday July 3
+Due 11:59pm Monday July 6
 
 This assignment is intended to be an exercise in designing and proving the correctness of greedy algorithms.
 
