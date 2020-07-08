@@ -43,6 +43,14 @@ Please answer the questions on [this worksheet](files/bigs/big2_blank.pdf) ([tex
 
 Due 11:59pm Tuesday July 7. 
 
-This assignment is intended to give you experience with designing and modifying sorting algorithms and dynamic programming. The problems will derive from content learned during the second week of lecture.
+This assignment is intended to give you experience with designing and modifying greedy algorithms and graph algorithms. The problems will derive from content learned during the third week of lecture
 
 Please answer the questions on [this worksheet](files/bigs/big3_blank.pdf) ([tex source](files/bigs/big3_su2020.zip)). Submit your answers as a pdf.
+
+## Big 4
+
+Due 11:59pm Saturday July 11. 
+
+This assignment is intended to give you experience with reductions, and you should use reductions on all problems.
+
+Please answer problem 1 and your choice from problems 2 and 3 presented in [this worksheet](files/bigs/big4_blank.pdf) ([tex source](files/bigs/big4_su2020.zip)). Submit your answers as a pdf.
