@@ -48,7 +48,7 @@ This quiz covers Dynamic Programming and Greedy algorithms.
 
 Please complete the table in [this worksheet](files/quizzes/quiz3_blank.pdf) ([tex source](files/quizzes/quiz3_su2020.zip)). Submit your answers as a pdf or as a txt file.
 
-## Quiz 3
+## Quiz 4
 
 Due at 11:59pm Friday July 10.
 
