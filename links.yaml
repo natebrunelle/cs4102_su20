@@ -78,3 +78,7 @@
     slides(pptx): files/slides/lecture16_reductions2.pptx
     slides(pdf): files/slides/lecture16_reductions2.pdf
     video: https://virginia.zoom.us/rec/share/7PF6DbG3y3pLa9Lo-GDUfJQ5XYe1T6a80XQY-vtemkb0gvqMziCQ7waPhOHdksCE
+
+2020-07-09:
+    slides(pptx): files/slides/lecture17_np_complete.pptx
+    slides(pdf): files/slides/lecture17_np_complete.pdf
