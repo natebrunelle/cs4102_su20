@@ -4,7 +4,7 @@ here="$(dirname "$(readlink -m "$0")")/"
 self="$(readlink -m "$0")"
 cd "$here"
 target="$(readlink -f "$here""/demo_site/")/"
-remote=njb2b@portal.cs.virginia.edu:public_html/cs4102/su20
+remote=njb2b@portal.cs.virginia.edu:public_html/cs4102/f20
 mkdir -p "$target"files
 
 if ls ~/.local/pandoc*/bin/pandoc
@@ -115,8 +115,8 @@ if [ cal.yaml -nt schedule.html ] \
 then
     echo "doing schedule"
     python3 cal2html.py
-    scp "assignments.json" "kytos:/var/www/html/cs4102_summer20/meta/"
-    scp "coursegrade.json" "kytos:/var/www/html/cs4102_summer20/meta/"
+    scp "assignments.json" "kytos:/var/www/html/cs4102/meta/"
+    scp "coursegrade.json" "kytos:/var/www/html/cs4102/meta/"
 fi
 if [ schedule.html -nt markdown/schedule.md ]
 then
