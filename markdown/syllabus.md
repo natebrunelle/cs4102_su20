@@ -6,20 +6,19 @@ title: Syllabus
 
 ## Meetings
 
-Live zoom lectures will be held Monday, Tuesday, Wednesday, Thursday, Friday 10:30am–12:45PM
+Live zoom lectures will be held Tuesdays at 12:30pm and Thursdays at 2pm. Live problem solving sessions will be held Tuesdays at 2pm and Thursdays at 12:30 pm.
 
-Lecture attendance is optional, but strongly encouraged. In the event you are unable to attend a lecture, recordings of lectures are provided on the [schedule page](schedule.html).
+Attending lecture or viewing a recording is expected. Attending problem solving sessions or viewing a recording is optional but recommended. Recordings of lectures and problems solving sessions are provided on the [schedule page](schedule.html).
 
 
 ## Contact
 
-|        | Instructor | TAs |
-|--------|------------|-----|
-| Name | Nathan Brunelle | TBA |
-| Location | Rice 209 | TBA |
-| Office Hours | TBD | TBA |
-| Phone | 243-3845 | (none) |
-| Email | <a href="mailto:njb2b@virginia.edu?subject=DMT1">njb2b@virginia.edu</a> | use [Piazza](https://piazza.com/virginia/summer2020/cs4102) |
+|        | Nate Brunelle | David Wu | TAs |
+|--------|---------------|----------|-----|
+| Location | Rice 209    |   TBD    |TBA |
+| Office Hours | TBD     |   TBD    |TBA |
+| Phone | TBA            |   TBD    |(none) |
+| Email | <a href="mailto:njb2b@virginia.edu?subject=DMT1">njb2b@virginia.edu</a> | | <a href="mailto:dwu4@virginia.edu?subject=DMT1">dwu4@virginia.edu</a>  use [Piazza](https://piazza.com/virginia/summer2020/cs4102) |
 
 For communication about course content, [Piazza](https://piazza.com/virginia/summer2020/cs4102) is preferred to email.
 For communication about personal circumstances, email or in-person visits are preferred.
@@ -40,15 +39,10 @@ Readings corresponding to each lecture will be posted on the course schedule.
 
 ## Lectures
 
-I do my best to make lectures as valuable, engaging, and enlightening as possible for all
+We do our best to make lectures as valuable, engaging, and enlightening as possible for all
 students. For a schedule of lecture topics, please see the [course webpage](schedule.html).
-Although we believe nearly all students will benefit from attending all classes, we also respect that as
-mature (ideally) college students, you are entrusted to figure out how best to learn and
-make use of your time here. Hence, I will not assess attendance or impose any penalties for missing
-class. 
-I will make a best effort to post all lecture materials (recordings, slides documents, etc.) on the course
-webpage, including video recordings of lectures. Be advised that there are occasional technical difficulties which sometimes cause the recordings to fail, and even when they do succeed these recordings are not an adequate substitute for
-attending class live.
+We will post all lecture materials (recordings, slides documents, etc.) on the course
+webpage, including video recordings of lectures. Be advised that there are occasional technical difficulties which sometimes cause the recordings to fail, in these situations we will post an equivalent recording from a previous semester.
 
 
 
@@ -58,16 +52,15 @@ You will be expected to read instructional material and either understand it or 
 
 You will be asked to perform three kinds of evaluations:
 
-- **Quizzes**: open-resource assessments of your understanding of broad course topics. These are intended to verify that you develop and maintain an intuitive understanding of the course concepts. These must be completed independently.
-- **Little Problem Sets**: problems for you to solve. These may require that your design novel algorithms or compose formal mathematical arguments. These are to provide opportunities for you to develop working familiarity with course concepts. You are encouraged to work on these with a small work group of up to 5 people (yourself plus 4). These problem sets are short, and the tasks are more "bit-sized" in that they're expected to be completable in 1-2 sittings.
-- **Big Problem Sets**: problems for you to solve. These may require that your design novel algorithms or compose formal mathematical arguments. These are to provide opportunities for you exercise and hone your skills with course concepts. You are encouraged to work on these with a small work group of up to 5 people (yourself plus 4). These problem sets are longer, and the tasks typically require deeper insight than those on the little problem sets. You are given longer to do them mostly to allow you time for more sittings. I suggest working on the problems in frequent 1-2 hours sessions, rather than trying to "cram" a solution.
+- **Assessments**: open-resource assessments of your understanding of broad course topics. These are intended to verify that you develop and maintain an understanding of the course concepts. These must be completed independently.
+- **Exercises**: problems for you to solve. These may require that your design novel algorithms or compose formal mathematical arguments. These are to provide opportunities for you to develop working familiarity with course concepts. You are encouraged to work on these with a small work group of up to 5 people (yourself plus 4). We suggest working on the problems in frequent 1-2 hours sessions, rather than trying to "cram" a solution.
 
 
 
 # Grading
 
-In February 2019 the CS faculty approved [a definition](http://ugrads.cs.virginia.edu/grading-guidelines.html) of what we believe grades mean.
-It is my intent to approximate that definition in this course.
+In February 2019 the CS faculty approved [a definition](http://ugrads.cs.virginia.edu/grading-guidelines.html) of what it believe grades mean.
+It is our intent to approximate that definition in this course.
 As a brief summary,
 
 Letter  Student demonstrated                Recommendation re future courses[^future]
@@ -85,9 +78,8 @@ We will consider the grade assigned by the following point-based breakdown to be
 
 Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
-Quizzes                     12%     Due each Friday. There will be 4 total, each worth 3% of your grade
-Little Problem sets         48%     Due each Tuesday, Wednesday, and Thursday. There will be 12 total, each worth 4% of your grade
-Big Problem sets            40%     Due Each Monday (except the for Big4, which is due on Saturday July 11 in lieue of a final exam). There will be 4 total, each worth 10% of your grade
+Assessments                     40%     TBD
+Exercises         60%     TBD
 Professionalism Penalty    0--100%  Excessive missed classes, rude behavior toward instructor or classmates, unauthorized homework assistance, contacting TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
 
 Your final letter grade will then be assigned as follows:
@@ -114,17 +106,15 @@ This numerical calculation is to be considered a **guideline** on your score in 
 
 ## Deadlines
 
-Deadlines for all assignments are available on the [schedule page](schedule.html). In general, you will have "little" assignments due every Tuesday, Wednesday, and Thursday, "big" assignments due Monday, and a quiz every Friday.
+Deadlines for all assignments are available on the [schedule page](schedule.html). In general, you will have "little" deadlines and "big" deadlines. A small number of problems will be due on the "little" deadline, and the remainder will be due on the "big" deadline
 
-Due to the rapid pace of summer courses, late submissions of assignments will not be allowed by default. If you feel that extenuating circumstances justify late submission for any assignment, please request a deadline extension. You can do that on the same page where you would submit an assignment. There is no upper bound on the number of assignment extensions you may be granted, but please don't exploit this. 
+Late submissions of a problem will receive a 20% penalty per 24 hours. If you feel that extenuating circumstances justify late submission for any assignment, please request a deadline extension. You can do that on the same page where you would submit an assignment. There is no upper bound on the number of assignment extensions you may be granted, but please don't exploit this. 
 
 ## Regrades
 
-We acknowledge that professors and TAs are people, and people make mistakes. For this reason, you are able to request regrades on assignments within 48 hours of your grade being returned.
+We acknowledge that professors and TAs are people, and people make mistakes. For this reason, you are able to request regrades on assignments within 5 days of your grade being returned.
 
-For **problem sets** (both **big** and **little**), please only submit a regrade request if you believe the rubric was misapplied to your submission. In your request, identify specifically what in your submission demonstrates the misapplication.
-
-The goal of **quizzes** is to help you to form a better conceptual understanding of course materials, and therefore we consider them primarily as an opportunity to identify and correct misconceptions. For this reason, you may submit one regrade request per quiz to revise your answers.
+Please only submit a regrade request if you believe the rubric was misapplied to your submission. In your request, identify specifically what in your submission demonstrates the misapplication.
 
 # Miscellanea
 
@@ -151,14 +141,14 @@ if you do something you regret, the sooner you tell me the sooner (and more leni
 
 ### No plagiarism (nor anything like it)
 
-**Quizzes**: You must complete quizzes entirely on your own, do not discuss the contents of a quiz with anyone outside the course staff prior to its deadline. You may use only officially-provided or personally-created materials when completing at-home quizzes. This means you may only use:
+**Assessments**: You must complete assessments entirely on your own, do not discuss the contents of a quiz with anyone outside the course staff prior to its deadline. You may use only officially-provided or personally-created materials when completing at-home quizzes. This means you may only use:
 
 - The course textbook
 - Anything on the course webpage or linked to from the course webpage
 - Your personal notes (or those of a note-taker if you receive them as accommodation)
 - Lecture recordings
 
-**Problem Sets**: You may collaborate with up to 4 other people (i.e. a group of up to 5 total) when completing exercises. You may additionally use external materials with following restrictions:
+**Exercises**: You may collaborate with up to 4 other people (i.e. a group of up to 5 total) when completing exercises. You may additionally use external materials with following restrictions:
 
 - Your write-ups must be done entirely independently. You may take notes while meeting with your collaborators, but we expect that the answers you submit be expressed in your own words. 
 - You must understand everything you submit. Do not submit anything you could not explain to a member of the course staff.
@@ -168,8 +158,8 @@ if you do something you regret, the sooner you tell me the sooner (and more leni
 
 ### Consequences of Dishonesty
 
-If I believe you have acted dishonestly, I will communicate this fact to you and propose a penalty.
-If you have information I lack, please share that with me; I may thereafter change my belief and/or proposed penalty.
+If we believe you have acted dishonestly, we will communicate this fact to you and propose a penalty.
+If you have information we lack, please share that with us; we may thereafter change our beliefs and/or proposed penalty.
 
 
 ## Personal accommodations
