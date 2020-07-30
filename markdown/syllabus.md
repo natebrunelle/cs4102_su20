@@ -18,7 +18,7 @@ Attending lecture or viewing a recording is expected. Attending problem solving 
 | Location | Rice 209    |   TBD    |TBA |
 | Office Hours | TBD     |   TBD    |TBA |
 | Phone | TBA            |   TBD    |(none) |
-| Email | <a href="mailto:njb2b@virginia.edu?subject=DMT1">njb2b@virginia.edu</a> | | <a href="mailto:dwu4@virginia.edu?subject=DMT1">dwu4@virginia.edu</a>  use [Piazza](https://piazza.com/virginia/summer2020/cs4102) |
+| Email | <a href="mailto:njb2b@virginia.edu?subject=DMT1">njb2b@virginia.edu</a> | <a href="mailto:dwu4@virginia.edu?subject=DMT1">dwu4@virginia.edu</a>  use [Piazza](https://piazza.com/virginia/summer2020/cs4102) |
 
 For communication about course content, [Piazza](https://piazza.com/virginia/summer2020/cs4102) is preferred to email.
 For communication about personal circumstances, email or in-person visits are preferred.
