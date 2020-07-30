@@ -202,7 +202,7 @@ which means that I am required by University policy and federal law to report wh
 University’s Title IX Coordinator. The Title IX Coordinator’s job is to ensure that the reporting student
 receives the resources and support that they need, while also reviewing the information presented to
 determine whether further action is necessary to ensure survivor safety and the safety of the University
-community. If you would rather keep this information confidential, there are [Confidential Employees you can talk to on Grounds](http://www.virginia.edu/justreportit/confidential_resources.pdf). The worst possible
+community. If you would rather keep this information confidential, there are [Confidential Employees you can talk to on Grounds](https://eocr.virginia.edu/chart-confidential-resources). The worst possible
 situation would be for you or your friend to remain silent when there are so many here willing and able
 to help.
 
