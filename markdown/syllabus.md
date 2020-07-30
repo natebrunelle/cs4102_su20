@@ -53,7 +53,7 @@ webpage, including video recordings of each session.
 
 You will be expected to watch lectures, read the text, and any other provided instructional materials and either understand them or ask questions to clarify what you found confusing. We strongly recommend forming study groups that meet at least weekly all semester long to discuss course concepts, as even if they appear simple at first they will often contain nuances that will only emerge with conversions.
 
-You will be asked to perform three kinds of evaluations:
+You will be asked to perform two kinds of evaluations:
 
 - **Assessments**: open-resource assessments of your understanding of broad course topics. These are intended to verify that you develop and maintain an understanding of the course concepts. These must be completed independently.
 - **Exercises**: problems for you to solve. These may require that your design novel algorithms or compose formal mathematical arguments. These are to provide opportunities for you to develop working familiarity with course concepts. You are encouraged to work on these with a small work group of up to 5 people (yourself plus 4). We suggest working on the problems in frequent 1-2 hours sessions, rather than trying to "cram" a solution.
