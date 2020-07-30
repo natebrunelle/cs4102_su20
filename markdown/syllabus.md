@@ -82,7 +82,7 @@ We will consider the grade assigned by the following point-based breakdown to be
 Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
 Assessments                     40%     TBD
-Exercises         60%     TBD
+Exercises                       60%     TBD
 Professionalism Penalty    0--100%  Excessive missed classes, rude behavior toward instructor or classmates, unauthorized homework assistance, contacting TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
 
 Your final letter grade will then be assigned as follows:
@@ -144,7 +144,7 @@ if you do something you regret, the sooner you tell me the sooner (and more leni
 
 ### No plagiarism (nor anything like it)
 
-**Assessments**: You must complete assessments entirely on your own, do not discuss the contents of a quiz with anyone outside the course staff prior to its deadline. You may use only officially-provided or personally-created materials when completing at-home quizzes. This means you may only use:
+**Assessments**: You must complete assessments entirely on your own, do not discuss the contents of an assessment with anyone outside the course staff prior to its deadline. You may use only officially-provided or personally-created materials when completing at-home assessments. This means you may only use:
 
 - The course textbook
 - Anything on the course webpage or linked to from the course webpage
