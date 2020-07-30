@@ -34,8 +34,8 @@ At the conclusion of this course, a successful student will be able to:
 
 You should take this course if and only if
 
-1. You earned at least a C- CS 2150 (or an equivalent data structures course)
-1. You earned at least a C- CS 2102 (or an equivalent discrete math course)
+1. You earned at least a C- in CS 2150 (or an equivalent data structures course)
+1. You earned at least a C- in CS 2102 (or an equivalent discrete math course)
 
 
 ### Background
