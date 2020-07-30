@@ -51,7 +51,7 @@ webpage, including video recordings of each session.
 
 ## Tasks {#tasks}
 
-You will be expected to read instructional material and either understand it or ask questions to clarify what you found confusing. We strongly recommend forming study groups that meet at least weekly all semester long to discuss readings, as even if they appear simple at first they will often contain nuances that will only emerge with conversions.
+You will be expected to watch lectures, read the text, and any other provided instructional matieral and either understand them or ask questions to clarify what you found confusing. We strongly recommend forming study groups that meet at least weekly all semester long to discuss course concepts, as even if they appear simple at first they will often contain nuances that will only emerge with conversions.
 
 You will be asked to perform three kinds of evaluations:
 
