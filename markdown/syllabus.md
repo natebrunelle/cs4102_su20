@@ -55,8 +55,8 @@ You will be expected to watch lectures, read the text, and any other provided in
 
 You will be asked to perform two kinds of evaluations:
 
-- **Assessments**: open-resource assessments of your understanding of broad course topics. These are intended to verify that you develop and maintain an understanding of the course concepts. These must be completed independently.
-- **Exercises**: problems for you to solve. These may require that your design novel algorithms or compose formal mathematical arguments. These are to provide opportunities for you to develop working familiarity with course concepts. You are encouraged to work on these with a small work group of up to 5 people (yourself plus 4). We suggest working on the problems in frequent 1-2 hours sessions, rather than trying to "cram" a solution.
+- **Assessments**: open-resource assessments of your understanding of broad course topics. These are intended to verify that you develop and maintain an understanding of the course concepts. These must be completed independently. They will occur after each major unit throughout the semester. You will be alotted up to 3 attempts at each assessment. Your last grade per each assessment is kept as your final grade.
+- **Exercises**: problems for you to solve. These may require that your design novel algorithms or compose formal mathematical arguments. These are to provide opportunities for you to develop working familiarity with course concepts. You are encouraged to work on these with a small work group of up to 5 people (yourself plus 4). We suggest working on the problems in frequent 1-2 hours sessions, rather than trying to "cram" a solution. There is no opportunity for revising/re-attempting exercises (though you are allowed unlimited re-submissions up until the deadline).
 
 
 
