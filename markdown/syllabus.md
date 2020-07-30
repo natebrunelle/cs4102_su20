@@ -44,7 +44,10 @@ students. For a schedule of lecture topics, please see the [course webpage](sche
 We will post all lecture materials (recordings, slides documents, etc.) on the course
 webpage, including video recordings of lectures. Be advised that there are occasional technical difficulties which sometimes cause the recordings to fail, in these situations we will post an equivalent recording from a previous semester.
 
+## Problem Solving Sessions
 
+Problem solving sessions are optional and intended to reinforce lecture content through thorough discussion of example problems. These might include mathematical derivations of topics mentioned in class, example proofs similar to those you might see in your exercises, or a live walk-through of how to develop an algorithm. Each session will have a 1-lecture delay, so topics discussed in Tuesday's lecture will be reinforced in Thursday's problem solving session; topics discussed in Thursday's lecture will be reinforced in Tuesdays session. We will post all associated materials (recordings, slides, documents, etc.) on the course
+webpage, including video recordings of each session.
 
 ## Tasks {#tasks}
 
