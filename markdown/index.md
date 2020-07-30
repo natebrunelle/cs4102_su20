@@ -60,6 +60,15 @@ In particular, we assume knowledge of (with recommended resources for review):
 
 For each of the CS2102 topics, you can view last [semester's lectures](http://www.cs.virginia.edu/luther/DMT1/S2020/schedule.html) for more information
 
+## Course Constructs
+
+You will see the following components in this course this semester. Look in the syllabus for the details on each:
+
+- Lectures (via Zoom): Introduces new concepts, we expect all students to participate/view lectures
+- Problem Solving Sessions (via Zoom): Gives additional examples and deeper discussions of topics discussed in lecture, this is optional for all students, but you may find it helpful
+- Exercises: Develops your skill with course concepts
+- Assessments: Evaluates your individual fluency with course concepts
+
 
 
 
@@ -79,6 +88,8 @@ Since developing a skill is a much more substantial undertaking than understandi
 1. Don't expect homework to match lecture perfectly: Lecture is designed to introduce topics/concepts/strategies, and show how they operate. To maximize the future usefulness of this course, the course covers ideas whose applications are broad. Almost always, the homework directions will tell you which ideas to employ. It will probably not be obvious how or why that idea is relevant, but we promise it is. The goal of the assignment is to broaden your understanding of the idea so that it will be more useful to you when you complete this class.
 
 
+
+
 ## In an online course
 
 As you're likely aware, there are challenges presented by the online course format which can make learning more challenging. If there are things we can do to make the course work better for you with this online format, please let us know, and we'll do our best to work in those recommendations. To start with, here are the resources and suggestions that are provided by the course staff.
@@ -94,7 +105,7 @@ Some suggestions:
 
 1. **Dedicate time and space** One of the most important things you can do to help yourself is to set aside time and space for your studies. Once you've selected that time and space, try to only do work at that time and in that location. As much as possible, don't use that time or place for anything else. Pick a chair in your bedroom, a spot on the floor, a chair at the kitchen table, or whatever you can do with the space you're in.
 1. **Introduce yourself** Come to office hours, turn on your video, and introduce yourself to your classmates. This could be helpful in you forming a study/work group for the class. It could also help you to make new friends!
-1. **Attend live lecture** If you're able to, attending live lecture will help to establish your routine, put you in the learning mindset, and remind you that you're learning in a community. If you're not able to attend live lecture, then try to view the lecture at the same time every day, and please ask questions about lecture on piazza to (at least somewhat) mimic the interactions present in a live setting.
+1. **Attend live meetings** If you're able to, attending live lectures and problem-solving-sessions will help to establish your routine, put you in the learning mindset, and remind you that you're learning in a community. If you're not able to attend live lecture, then try to view the lecture at the same time every day, and please ask questions about lecture on piazza to (at least somewhat) mimic the interactions present in a live setting.
 
 
 
