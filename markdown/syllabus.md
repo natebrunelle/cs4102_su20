@@ -90,10 +90,19 @@ F       less than minimal competence        retake this course first
 
 We will consider the grade assigned by the following point-based breakdown to be a **guideline** for the grade earned according to the definitions above.
 
+Letter  Student demonstrated                Requirement for that grade
+------  ---------------------------         ------------------------------------
+A       mastery of all topics               At least 85% in all units
+B       competence in significant topics    At least 80% in units 1, 3, 4, and 6. At least 70% in units 2 and 5
+C       sufficient competence               At least 65% in all units
+D       minimal competence                  At least 65% in units 1, 3, 4, and 6
+F       less than minimal competence        Less than 65% in one of units 1, 3, 4, and 6
+
+
 Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
-Quizzes                     40%     1 per unit, 6 total. You may make up to 3 attempts at each, with only the last attempt counting toward your course grade
-Exercises                       60%     Approximately 2 per unit, 12 total. Expect roughly 1/3 of effort to be programming exercises, 2/3 will be written (i.e. proof-based)
+Quizzes                     40%     1 per unit, 6 total, 6% each. You may make up to 3 attempts at each, with only the last attempt counting toward your course grade
+Exercises                   60%     Approximately 2 per unit, 12 total. Expect roughly 1/3 of effort to be programming exercises, 2/3 will be written (i.e. proof-based)
 Professionalism Penalty    0--100%  Excessive missed classes, rude behavior toward instructor or classmates, unauthorized homework assistance, contacting TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
 
 Your final letter grade will then be assigned as follows:
