@@ -8,21 +8,21 @@ title: Syllabus
 
 Live zoom lectures will be held Tuesdays at 12:30pm and Thursdays at 2pm. Live problem solving sessions will be held Tuesdays at 2pm and Thursdays at 12:30 pm.
 
-Attending lecture or viewing a recording is expected. Attending problem solving sessions or viewing a recording is optional but recommended. Recordings of lectures and problems solving sessions are provided on the [schedule page](schedule.html).
+Attending lecture or viewing a recording is expected. Attending problem solving sessions or viewing a recording is optional but recommended. Recordings of lectures and problems solving sessions are provided on the [schedule page](schedule.html) (click for more information under the appropriate date).
 
 
 ## Contact
 
 |        | Nate Brunelle | David Wu | TAs |
 |--------|---------------|----------|-----|
-| Location | Rice 209    |   TBD    |TBA |
+| Location | Zoom    |   Zoom   |TBA |
 | Office Hours | TBD     |   TBD    |TBA |
 | Phone | TBA            |   TBD    |(none) |
 | Email | <a href="mailto:njb2b@virginia.edu?subject=DMT1">njb2b@virginia.edu</a> | <a href="mailto:dwu4@virginia.edu?subject=DMT1">dwu4@virginia.edu</a> | use [Piazza](https://piazza.com/virginia/summer2020/cs4102) |
 
 For communication about course content, [Piazza](https://piazza.com/virginia/summer2020/cs4102) is preferred to email.
 For communication about personal circumstances, email or in-person visits are preferred.
-If you email, include either "algorithms" or "4102" in the subject line to prevent your email from skipping my inbox and never getting read.
+If you email, include either "algorithms" or "4102" in the subject line to prevent your email from skipping the inbox and never getting read.
 
 Our TAs are students too, with duties and work outside of their TAing. Please do not ask them to act as your TA except at the scheduled on-the-clock times they have listed as their office hours. They are also kind people; please don't put them in the position of having to say no or (worse) being nice to you at the expense of their own schooling.
 
@@ -41,12 +41,12 @@ Readings corresponding to each lecture will be posted on the course schedule.
 
 We do our best to make lectures as valuable, engaging, and enlightening as possible for all
 students. For a schedule of lecture topics, please see the [course webpage](schedule.html).
-We will post all lecture materials (recordings, slides documents, etc.) on the course
+We will post all lecture materials (recordings, slides, documents, etc.) on the course
 webpage, including video recordings of lectures. Be advised that there are occasional technical difficulties which sometimes cause the recordings to fail, in these situations we will post an equivalent recording from a previous semester.
 
-## Problem Solving Sessions
+## Workshops
 
-Problem solving sessions are optional and intended to reinforce lecture content through thorough discussion of example problems. These might include mathematical derivations of topics mentioned in class, example proofs similar to those you might see in your exercises, or a live walk-through of how to develop an algorithm. Each session will have a 1-lecture delay, so topics discussed in Tuesday's lecture will be reinforced in Thursday's problem solving session; topics discussed in Thursday's lecture will be reinforced in Tuesdays session. We will post all associated materials (recordings, slides, documents, etc.) on the course
+Workshops are optional and intended to reinforce lecture content through thorough discussion of example problems. These might include mathematical derivations of topics mentioned in class, example proofs similar to those you might see in your exercises, or a live walk-through of how to develop an algorithm. Each session will have a 1-lecture delay, so topics discussed in Tuesday's lecture will be reinforced in Thursday's workshop; topics discussed in Thursday's lecture will be reinforced in Tuesday's workshop. We will post all associated materials (recordings, slides, documents, etc.) on the course
 webpage, including video recordings of each session.
 
 ## Tasks {#tasks}
@@ -55,8 +55,8 @@ You will be expected to watch lectures, read the text, and any other provided in
 
 You will be asked to perform two kinds of evaluations:
 
-- **Assessments**: open-resource assessments of your understanding of broad course topics. These are intended to verify that you develop and maintain an understanding of the course concepts. These must be completed independently. They will occur after each major unit throughout the semester. You will be alotted up to 3 attempts at each assessment. Your last grade per each assessment is kept as your final grade.
-- **Exercises**: problems for you to solve. These may require that your design novel algorithms or compose formal mathematical arguments. These are to provide opportunities for you to develop working familiarity with course concepts. You are encouraged to work on these with a small work group of up to 5 people (yourself plus 4). We suggest working on the problems in frequent 1-2 hours sessions, rather than trying to "cram" a solution. There is no opportunity for revising/re-attempting exercises (though you are allowed unlimited re-submissions up until the deadline).
+- **Quizzes**: open-resource assessments of your understanding of broad course topics. These are intended to verify that you develop and maintain an understanding of the course concepts. These must be completed independently. They will occur after each major unit throughout the semester. You will be alotted up to 3 attempts at each assessment. Only the grade from your last attempt per each assessment is is used in your final grade calculation.
+- **Exercises**: homework problems for you to solve. These may require that your design novel algorithms or compose formal mathematical arguments. These are to provide opportunities for you to develop working familiarity with course concepts. You are encouraged to work on these with a small work group of up to 5 people (yourself plus 4). We suggest working on the problems in frequent 1-2 hours sessions, rather than trying to "cram" a solution. There is no opportunity for revising/re-attempting exercises (though you are allowed unlimited re-submissions up until the deadline).
 
 
 
@@ -81,8 +81,8 @@ We will consider the grade assigned by the following point-based breakdown to be
 
 Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
-Assessments                     40%     TBD
-Exercises                       60%     TBD
+Quizzes                     40%     1 per unit, 6 total. You may make up to 3 attempts at each, with only the last attempt counting toward your course grade
+Exercises                       60%     Approximately 2 per unit, 12 total. Expect roughly 1/3 of effort to be programming exercises, 2/3 will be written (i.e. proof-based)
 Professionalism Penalty    0--100%  Excessive missed classes, rude behavior toward instructor or classmates, unauthorized homework assistance, contacting TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
 
 Your final letter grade will then be assigned as follows:
@@ -111,13 +111,13 @@ This numerical calculation is to be considered a **guideline** on your score in 
 
 Deadlines for all assignments are available on the [schedule page](schedule.html). In general, you will have "little" deadlines and "big" deadlines. A small number of problems will be due on the "little" deadline, and the remainder will be due on the "big" deadline
 
-Late submissions of a problem will receive a 20% penalty per 24 hours. If you feel that extenuating circumstances justify late submission for any assignment, please request a deadline extension. You can do that on the same page where you would submit an assignment. There is no upper bound on the number of assignment extensions you may be granted, but please don't exploit this. 
+Late submissions of a problem will generally not be accepted. If you feel that extenuating circumstances justify late submission for any assignment, please request a deadline extension. You can do that on the same page where you would submit an assignment. There is no upper bound on the number of assignment extensions you may be granted, but past extensions may influence our decision on whether to grant future extensions. 
 
 ## Regrades
 
 We acknowledge that professors and TAs are people, and people make mistakes. For this reason, you are able to request regrades on assignments within 5 days of your grade being returned.
 
-Please only submit a regrade request if you believe the rubric was misapplied to your submission. In your request, identify specifically what in your submission demonstrates the misapplication.
+Please only submit a regrade request if you believe the rubric was misapplied to your submission. In your request, identify specifically which rubric item was erroneously assessed, and where in your submission we can find the evidence of this.
 
 # Miscellanea
 
@@ -144,16 +144,16 @@ if you do something you regret, the sooner you tell me the sooner (and more leni
 
 ### No plagiarism (nor anything like it)
 
-**Assessments**: You must complete assessments entirely on your own, do not discuss the contents of an assessment with anyone outside the course staff prior to its deadline. You may use only officially-provided or personally-created materials when completing at-home assessments. This means you may only use:
+**Quizzes**: You must complete quizzes entirely on your own, do not discuss the contents of a quiz with anyone outside the course staff prior to its deadline. You may use only officially-provided or personally-created materials when completing at-home assessments. This means you may only use:
 
 - The course textbook
 - Anything on the course webpage or linked to from the course webpage
-- Your personal notes (or those of a note-taker if you receive them as accommodation)
+- Your personal notes (or those of a note-taker if you receive them as official accommodation)
 - Lecture recordings
 
 **Exercises**: You may collaborate with up to 4 other people (i.e. a group of up to 5 total) when completing exercises. You may additionally use external materials with following restrictions:
 
-- Your write-ups must be done entirely independently. You may not reference any artifacts from your collaborations when writing up your solution/code, and so we expect that the answers you submit be expressed in your own words/implementation. 
+- Your write-ups must be done entirely independently. You may not reference the web or any artifacts from your collaborations when writing up your solution/code, and so we expect that the answers you submit be expressed in your own words/implementation. 
 - You must understand everything you submit. Do not submit anything you could not explain to a member of the course staff.
 - You **must** cite any and every source you consult beyond officially-provided materials (see list above). Included in your citation, you must identify which components of your submission came from each source (it will be understood that content with no citation is your own exclusive work). Your collaborators are considered to be sources, and so should be cited. An example citation might look like: "I collaborated with David Evans on the pdf style, I consulted \url{https://www.overleaf.com/learn/latex/Aligning\%20equations\%20with\%20amsmath} for help with the align environment, Robbie Hott helped me to debug the for loop on line 107 of my code."
 - Do not seek "hints" or entire solutions to the problems. Limit your searching to background information only. Don't use Chegg.

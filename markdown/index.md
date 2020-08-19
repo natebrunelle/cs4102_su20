@@ -65,7 +65,7 @@ For each of the CS2102 topics, you can view last [semester's lectures](http://ww
 You will see the following components in this course this semester. Look in the syllabus for the details on each:
 
 - **Lectures**: Introduces new concepts, we expect all students to participate/view lectures
-- **Problem Solving Sessions**: Gives additional examples and deeper discussions of topics discussed in lecture, this is optional for all students, but you may find it helpful
+- **Workshops**: Gives additional examples and deeper discussions of topics discussed in lecture, this is optional for all students, but you may find it helpful
 - **Exercises**: Collaborative work to develop your skills with course concepts
 - **Quizzes**: Individual work to evaluate your fluency with course concepts
 - **Office Hours**: Opportunity for individualized assistance with course concepts
