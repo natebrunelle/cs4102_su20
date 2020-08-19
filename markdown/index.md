@@ -67,8 +67,8 @@ You will see the following components in this course this semester. Look in the 
 - **Lectures**: Introduces new concepts, we expect all students to participate/view lectures
 - **Problem Solving Sessions**: Gives additional examples and deeper discussions of topics discussed in lecture, this is optional for all students, but you may find it helpful
 - **Exercises**: Collaborative work to develop your skills with course concepts
-- **Assessments**: Individual work to evaluate your fluency with course concepts
-- **Office hours**: Opportunity for individualized assistance with course concepts
+- **Quizzes**: Individual work to evaluate your fluency with course concepts
+- **Office Hours**: Opportunity for individualized assistance with course concepts
 - **Piazza**: A forum to ask questions that you think might be valuable for other students to see answered, that could be answered by other students, or that you prefer to ask outside of an office-hours/lecture environment.
 
 
