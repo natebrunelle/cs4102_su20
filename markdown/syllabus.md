@@ -7,7 +7,7 @@ title: Syllabus
 The course will be divided into 6 units:
 
 1. Design and Analysis of Divide and Conquer Algorithms
-1. Design and Analysis of Randomized Algorithms, with a Survey of Sorting Algorithms
+1. Survey of Sorting Algorithms, including an Intro to Randomized Algorithms
 1. Design and Analysis of Dynamic Programming Algorithms
 1. Design and Analysis of Greedy Algorithms
 1. Survey of Graph Algorithms
