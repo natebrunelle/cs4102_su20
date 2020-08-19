@@ -6,9 +6,9 @@ title: Syllabus
 
 ## Meetings
 
-Live zoom lectures will be held Tuesdays at 12:30pm and Thursdays at 2pm. Live problem solving sessions will be held Tuesdays at 2pm and Thursdays at 12:30 pm.
+Live zoom lectures will be held Tuesdays at 12:30pm and Thursdays at 2pm. Live workshops will be held Tuesdays at 2pm and Thursdays at 12:30 pm.
 
-Attending lecture or viewing a recording is expected. Attending problem solving sessions or viewing a recording is optional but recommended. Recordings of lectures and problems solving sessions are provided on the [schedule page](schedule.html) (click for more information under the appropriate date).
+Attending lecture or viewing a recording is expected. Attending workshops or viewing a recording is optional but recommended. Recordings of lectures and workshops are provided on the [schedule page](schedule.html) (click for more information under the appropriate date).
 
 
 ## Contact
