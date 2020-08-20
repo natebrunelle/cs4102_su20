@@ -93,10 +93,10 @@ We will consider the grade assigned by the following point-based breakdown to be
 Letter  Student demonstrated                Requirement for that grade
 ------  ---------------------------         ------------------------------------
 A       mastery of all topics               At least 85% in all units
-B       competence in significant topics    At least 80% in units 1, 3, 4, and 6. At least 70% in units 2 and 5
-C       sufficient competence               At least 65% in all units
-D       minimal competence                  At least 65% in units 1, 3, 4, and 6
-F       less than minimal competence        Less than 65% in one of units 1, 3, 4, and 6
+B       competence in significant topics    At least 75% in all units
+C       sufficient competence               At least 70% average across all units
+D       minimal competence                  At least 60% average across all units
+F       less than minimal competence        average across all units less than 60%
 
 
 Task                        Weight  Comments
