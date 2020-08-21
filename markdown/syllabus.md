@@ -17,7 +17,7 @@ The course will be divided into 6 units:
 
 ## Meetings
 
-Live zoom lectures will be held Tuesdays at 12:30pm and Thursdays at 2pm. Live workshops will be held Tuesdays at 2pm and Thursdays at 12:30 pm.
+Live zoom lectures will be held Tuesdays and Thursdays at 2pm. Live workshops will be held Tuesdays and Thursdays at 12:30 pm.
 
 Attending lecture or viewing a recording is expected. Attending workshops or viewing a recording is optional but recommended. Recordings of lectures and workshops are provided on the [schedule page](schedule.html) (click for more information under the appropriate date).
 
@@ -55,10 +55,14 @@ students. For a schedule of lecture topics, please see the [course webpage](sche
 We will post all lecture materials (recordings, slides, documents, etc.) on the course
 webpage, including video recordings of lectures. Be advised that there are occasional technical difficulties which sometimes cause the recordings to fail, in these situations we will post an equivalent recording from a previous semester.
 
+Lectures will be held via [Zoom](https://virginia.zoom.us/j/95047118539)
+
 ## Workshops
 
 Workshops are optional and intended to reinforce lecture content through thorough discussion of example problems. These might include mathematical derivations of topics mentioned in class, example proofs similar to those you might see in your exercises, or a live walk-through of how to develop an algorithm. Each session will have a 1-lecture delay, so topics discussed in Tuesday's lecture will be reinforced in Thursday's workshop; topics discussed in Thursday's lecture will be reinforced in Tuesday's workshop. We will post all associated materials (recordings, slides, documents, etc.) on the course
 webpage, including video recordings of each session.
+
+Workshops will be held via Lectures will be held via [Zoom](https://virginia.zoom.us/j/95047118539).
 
 ## Tasks {#tasks}
 
@@ -99,33 +103,25 @@ D       minimal competence                  At least 60% average across all unit
 F       less than minimal competence        average across all units less than 60%
 
 
+Each unit's grade will be determined by equal weight of Quizzes and Exercises. You grade per unit will be calculated using the following formula:
+
+
 Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
-Quizzes                     40%     1 per unit, 6 total, 6% each. You may make up to 3 attempts at each, with only the last attempt counting toward your course grade
-Exercises                   60%     Approximately 2 per unit, 12 total. Expect roughly 1/3 of effort to be programming exercises, 2/3 will be written (i.e. proof-based)
-Professionalism Penalty    0--100%  Excessive missed classes, rude behavior toward instructor or classmates, unauthorized homework assistance, contacting TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
-
-Your final letter grade will then be assigned as follows:
-
-You get  if you score  GPA value
--------- ------------- ---------
-A+       near the top  4.0
-A        ≥ 93%         4.0
-A−       ≥ 90%         3.7
-B+       ≥ 86%         3.3
-B        ≥ 83%         3.0
-B−       ≥ 80%         2.7
-C+       ≥ 76%         2.3
-C        ≥ 73%         2.0
-C−       ≥ 70%         1.7
-D+       ≥ 66%         1.3
-D        ≥ 63%         1.0
-D−       ≥ 60%         0.7
-F        otherwise     0.0
+Quizzes                     50%     1 per unit, 6 total. You may make up to 2 attempts at each and 3 attempts at any one quiz, with only the last attempt counting toward your unit grade
+Exercises                   50%     Approximately 2 per unit, 12 total. Expect roughly 1/3 of effort to be programming exercises, 2/3 will be written (i.e. proof-based). Your excercise score for each unit is determined by the average score on exercises associated with that unit.
+Professionalism Penalty    0--100%  Rude behavior toward instructor or classmates, unauthorized homework assistance, contacting TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
 
 **Rounding:** By default, grades will not be rounded in this course.
 
-This numerical calculation is to be considered a **guideline** on your score in the course. Final letter grades may take other factors into account so that your grade is the most accurate reflection of your understanding of course materials. I expect that qualitative adjustments will only result in a student's grade increasing (though in extreme circumstances I reserve the right to decrease grades).
+This numerical calculation is to be considered a **guideline** on your score in the course. Final letter grades may take other factors into account so that your grade is the most accurate reflection of your understanding of course materials. We expect that qualitative adjustments will only result in a student's grade increasing.
+
+As a warning, since there is a discontinuity in grade calculation (i.e. we go from grades being determined by your lowest unit to your average across all units) it is possible for some of you to see small perturbations in your grading result in a change of up to 2 letter grades. We do not see this as being a likely scenario, but you find yourself in that situation, let us know so we can ensure you're assessed fairly.
+
+## Bonus Points
+
+Bonus points are the main way for you to earn a grade above the mathematical calculation above. These can be earned by excpetional participation in workshops, lecture, or office hours. They can also be earned by engagement with algorithms topics beyond the course expectation. To submit extra credit, please email both of Professors Brunelle and Wu.
+
 
 ## Deadlines
 
@@ -168,7 +164,7 @@ if you do something you regret, the sooner you tell me the sooner (and more leni
 
 - The course textbook
 - Anything on the course webpage or linked to from the course webpage
-- Your personal notes (or those of a note-taker if you receive them as official accommodation)
+- Your *personal* notes (or those of a note-taker if you receive them as official accommodation)
 - Lecture recordings
 
 **Exercises**: You may collaborate with up to 4 other people (i.e. a group of up to 5 total) when completing exercises. You may additionally use external materials with following restrictions:
