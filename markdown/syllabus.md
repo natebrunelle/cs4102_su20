@@ -29,9 +29,9 @@ Attending lecture or viewing a recording is expected. Attending workshops or vie
 | Location | Zoom    |   Zoom   |TBA |
 | Office Hours | TBD     |   TBD    |TBA |
 | Phone | TBA            |   TBD    |(none) |
-| Email | <a href="mailto:njb2b@virginia.edu?subject=DMT1">njb2b@virginia.edu</a> | <a href="mailto:dwu4@virginia.edu?subject=DMT1">dwu4@virginia.edu</a> | use [Piazza](https://piazza.com/virginia/summer2020/cs4102) |
+| Email | <a href="mailto:njb2b@virginia.edu?subject=DMT1">njb2b@virginia.edu</a> | <a href="mailto:dwu4@virginia.edu?subject=DMT1">dwu4@virginia.edu</a> | use [Piazza](https://piazza.com/virginia/fall2020/cs4102) |
 
-For communication about course content, [Piazza](https://piazza.com/virginia/summer2020/cs4102) is preferred to email.
+For communication about course content, [Piazza](https://piazza.com/virginia/fall2020/cs4102) is preferred to email.
 For communication about personal circumstances, email or in-person visits are preferred.
 If you email, include either "algorithms" or "4102" in the subject line to prevent your email from skipping the inbox and never getting read.
 

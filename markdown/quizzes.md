@@ -2,11 +2,11 @@
 title: Quizzes
 ...
 
-All quizzes will be posted here as they are released (at least 34 hours before the deadline).
+All quizzes will be posted here as they are released (by end of day Thursday before each deadline).
 
 # Instructions
 
-Quizzes are designed to evaluate your intuitive understanding of course concepts, and you fluency with the vocabulary introduced. Ideally, if you've been following along in class, quizzes should not require very much time at all. If there is a gap in understanding somewhere, then the quiz should expose that gap, and the time spend filling it in will be time saved when working on subsequent problem sets.
+Quizzes are designed to assess your understanding of course concepts. Each one is worth 50% of the grade in each unit. You may re-attempt each quiz once, with the last grade being used in your grade calculations. You will have the opportunity to re-re-attempt any one quiz at the very end of the semester.
 
 # Policies
 
@@ -15,43 +15,30 @@ You must complete quizzes entirely on your own, do not discuss the contents of a
 - The course textbook
 - Anything on the course webpage or linked to from the course webpage
 - Your personal notes (or those of a note-taker if you receive them as accommodation)
-- Lecture recordings
+- Lecture/workshop recordings
 
 # Deliverables
 
-Quizzes may be submitted as either a pdf or a txt file. We do not have a preference for how the pdfs are generated (LaTeX, Microsoft Word, pictures of handwriting are all acceptable) so long as what is submitted is legible, and you use the appropriate mathematical symbols when necessary (please use the equation editor if you're using Word).
+Quizzes may be submitted as a pdf file generated using LaTeX.
 
 # Quizzes
 
-## Quiz 1
-
-Due at 11:59pm Monday June 22.
-
-This quiz covers divide and conquer an solving recurrence relations.
-
-Please answer the questions in [this worksheet](files/quizzes/quiz1_blank.pdf) ([tex source](files/quizzes/quiz1_su2020.zip)). Submit your answers as a pdf or as a txt file.
-
-## Quiz 2
-
-Due at 11:59pm Saturday June 27.
-
-This quiz covers sorting algorithms.
-
-Please complete the table in [this worksheet](files/quizzes/quiz2_blank.pdf) ([tex source](files/quizzes/quiz2_su2020.zip)). Submit your answers as a pdf or as a txt file.
+## Divide and Conquer
 
 
-## Quiz 3
 
-Due at 11:59pm Monday July 6.
+## Hashing and Sorting
 
-This quiz covers Dynamic Programming and Greedy algorithms.
 
-Please complete the table in [this worksheet](files/quizzes/quiz3_blank.pdf) ([tex source](files/quizzes/quiz3_su2020.zip)). Submit your answers as a pdf or as a txt file.
 
-## Quiz 4
+## Dynamic Programming
 
-Due at 11:59pm Friday July 10.
 
-This quiz covers Reductions.
 
-Please complete the table in [this worksheet](files/quizzes/quiz4_blank.pdf) ([tex source](files/quizzes/quiz4_su2020.zip)). Submit your answers as a pdf or as a txt file.
+## Greedy
+
+## Graphs
+
+## Reductions and NP-Completeness
+
+## Re-re Attempt
