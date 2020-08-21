@@ -2,7 +2,7 @@
 title: Office Hours
 ...
 
-During our move to online, we will be conducting instructor office hours via [Zoom](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=65496792dbce6384a6ddc19115961912). To get started, please create a Zoom account and install a zoom client.
+We will be conducting instructor office hours via [Zoom](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=65496792dbce6384a6ddc19115961912). To get started, please create a Zoom account and install a zoom client.
 
 We will have scheduled office hours times. If you have questions outside of office hours, please use the [course piazza](https://piazza.com/class/k5e7rb8cjk23ml).
 
@@ -10,7 +10,7 @@ We will have scheduled office hours times. If you have questions outside of offi
 **Professor offices hours** will be held via zoom. Simply join and hang out during office hours!
 <div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[Join Brunelle's Office Hours](https://virginia.zoom.us/j/2191769718)</div>
 
-<div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[Join Wu's Office Hours](https://virginia.zoom.us/j/2191769718)</div>
+<div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[Join Wu's Office Hours](https://virginia.zoom.us/j/97533277456?pwd=T1p6bERZRTFmQklZZktuWnVNTnNxUT09)</div>
 
 
 **TA office hours** Will be conducted over discord. Please read these rules carefully before attending your first office hours:
@@ -24,7 +24,7 @@ We will have scheduled office hours times. If you have questions outside of offi
 1. We are figuring things out. If there is a feature you want or confusion you have you can put it in the general chat and we will see if we can address it. 
 1. You may DM a TA or make a piazza post with any other questions you may have. You can also put them in #general .
 
-<div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[Link to Discord](https://piazza.com/class/kbdxeo5ub5d2n4?cid=11)</div>
+<div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[Link to Discord](TODO)</div>
 
 TAs will be helping you off the queue at the following times:
 

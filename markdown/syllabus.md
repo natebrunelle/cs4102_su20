@@ -26,8 +26,8 @@ Attending lecture or viewing a recording is expected. Attending workshops or vie
 
 |        | Nate Brunelle | David Wu | TAs |
 |--------|---------------|----------|-----|
-| Location | Zoom    |   Zoom   |TBA |
-| Office Hours | TBD     |   TBD    |TBA |
+| Location | Zoom    |   [Zoom](https://virginia.zoom.us/j/97533277456?pwd=T1p6bERZRTFmQklZZktuWnVNTnNxUT09)   |TBA |
+| Office Hours | TBD     |   Tues 3:15-4:45pm    |TBA |
 | Phone | TBA            |   TBD    |(none) |
 | Email | <a href="mailto:njb2b@virginia.edu?subject=DMT1">njb2b@virginia.edu</a> | <a href="mailto:dwu4@virginia.edu?subject=DMT1">dwu4@virginia.edu</a> | use [Piazza](https://piazza.com/virginia/fall2020/cs4102) |
 
