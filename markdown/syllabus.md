@@ -62,7 +62,7 @@ Lectures will be held via [Zoom](https://virginia.zoom.us/j/95047118539)
 Workshops are optional and intended to reinforce lecture content through thorough discussion of example problems. These might include mathematical derivations of topics mentioned in class, example proofs similar to those you might see in your exercises, or a live walk-through of how to develop an algorithm. Each session will have a 1-lecture delay, so topics discussed in Tuesday's lecture will be reinforced in Thursday's workshop; topics discussed in Thursday's lecture will be reinforced in Tuesday's workshop. We will post all associated materials (recordings, slides, documents, etc.) on the course
 webpage, including video recordings of each session.
 
-Workshops will be held via Lectures will be held via [Zoom](https://virginia.zoom.us/j/95047118539).
+Workshops will be held via [Zoom](https://virginia.zoom.us/j/95047118539).
 
 ## Tasks {#tasks}
 
@@ -112,6 +112,24 @@ Quizzes                     50%     1 per unit, 6 total. You may make up to 2 at
 Exercises                   50%     Approximately 2 per unit, 12 total. Expect roughly 1/3 of effort to be programming exercises, 2/3 will be written (i.e. proof-based). Your excercise score for each unit is determined by the average score on exercises associated with that unit.
 Professionalism Penalty    0--100%  Rude behavior toward instructor or classmates, unauthorized homework assistance, contacting TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
 
+More precisely, your final letter grade will be determined by the following:
+
+You get  if you score  GPA value
+-------- ------------- ---------
+A+       near the top  4.0
+A        ≥ 85% on all units         4.0
+A−       ≥ 83% on all units         3.7
+B+       ≥ 80% on all units         3.3
+B        ≥ 75% on all units         3.0
+B−       ≥ 73% on all units         2.7
+C+       ≥ 73% average across units        2.3
+C        ≥ 70% average across units        2.0
+C−       ≥ 68% average across units        1.7
+D+       ≥ 63% average across units        1.3
+D        ≥ 60% average across units        1.0
+D−       ≥ 58% average across units        0.7
+F        otherwise     0.0
+
 **Rounding:** By default, grades will not be rounded in this course.
 
 This numerical calculation is to be considered a **guideline** on your score in the course. Final letter grades may take other factors into account so that your grade is the most accurate reflection of your understanding of course materials. We expect that qualitative adjustments will only result in a student's grade increasing.
@@ -125,7 +143,7 @@ Bonus points are the main way for you to earn a grade above the mathematical cal
 
 ## Deadlines
 
-Deadlines for all assignments are available on the [schedule page](schedule.html). In general, you will have "little" deadlines and "big" deadlines. A small number of problems will be due on the "little" deadline, and the remainder will be due on the "big" deadline
+Deadlines for all assignments are available on the [schedule page](schedule.html).
 
 Late submissions of a problem will generally not be accepted. If you feel that extenuating circumstances justify late submission for any assignment, please request a deadline extension. You can do that on the same page where you would submit an assignment. There is no upper bound on the number of assignment extensions you may be granted, but past extensions may influence our decision on whether to grant future extensions. 
 
