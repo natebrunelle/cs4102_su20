@@ -26,8 +26,8 @@ Attending lecture or viewing a recording is expected. Attending workshops or vie
 
 |        | Nate Brunelle | David Wu | TAs |
 |--------|---------------|----------|-----|
-| Location | Zoom    |   [Zoom](https://virginia.zoom.us/j/97533277456?pwd=T1p6bERZRTFmQklZZktuWnVNTnNxUT09)   |TBA |
-| Office Hours | TBD     |   Tues 3:15-4:45pm    |TBA |
+| Location | [Zoom](virginia.zoom.us/my/profnateb)  |   [Zoom](https://virginia.zoom.us/j/97533277456?pwd=T1p6bERZRTFmQklZZktuWnVNTnNxUT09)   |TBA |
+| Office Hours | MW 2pm-4pm     |   Tues 3:15-4:45pm    |TBA |
 | Phone | TBA            |   TBD    |(none) |
 | Email | <a href="mailto:njb2b@virginia.edu?subject=DMT1">njb2b@virginia.edu</a> | <a href="mailto:dwu4@virginia.edu?subject=DMT1">dwu4@virginia.edu</a> | use [Piazza](https://piazza.com/virginia/fall2020/cs4102) |
 
@@ -116,12 +116,12 @@ More precisely, your final letter grade will be determined by the following:
 
 You get  if you score  GPA value
 -------- ------------- ---------
-A+       near the top  4.0
-A        ≥ 85% on all units         4.0
-A−       ≥ 83% on all units         3.7
-B+       ≥ 80% on all units         3.3
-B        ≥ 75% on all units         3.0
-B−       ≥ 73% on all units         2.7
+A+       near the top                      4.0
+A        ≥ 85% on all units                4.0
+A−       ≥ 83% on all units                3.7
+B+       ≥ 80% on all units                3.3
+B        ≥ 75% on all units                3.0
+B−       ≥ 73% on all units                2.7
 C+       ≥ 73% average across units        2.3
 C        ≥ 70% average across units        2.0
 C−       ≥ 68% average across units        1.7
