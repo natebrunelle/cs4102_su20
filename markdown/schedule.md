@@ -2,7 +2,7 @@
 title: Fall 2020 Schedule
 ...
 
-<div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[Join Lecture (Weekdays at 10:30am)]( https://virginia.zoom.us/j/95450131346)</div>
+<div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[Join Lecture (Links to Piazza for security)](https://piazza.com/class/ke4kba81aay39?cid=6)</div>
 
 Since this is a course in active re-development, I expect to change the flow and pacing of topics as the semester progresses.
 The past, and my best guess of the future, is reflected below.
