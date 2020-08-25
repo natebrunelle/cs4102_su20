@@ -114,8 +114,8 @@ Professionalism Penalty    0--100%  Rude behavior toward instructor or classmate
 
 More precisely, your final letter grade will be determined by the following:
 
-You get  if you score  GPA value
--------- ------------- ---------
+You get  if you score                     GPA value
+-------- -------------------------  ---------
 A+       near the top                      4.0
 A        ≥ 85% on all units                4.0
 A−       ≥ 83% on all units                3.7
@@ -128,7 +128,7 @@ C−       ≥ 68% average across units        1.7
 D+       ≥ 63% average across units        1.3
 D        ≥ 60% average across units        1.0
 D−       ≥ 58% average across units        0.7
-F        otherwise     0.0
+F        otherwise                         0.0
 
 **Rounding:** By default, grades will not be rounded in this course.
 
