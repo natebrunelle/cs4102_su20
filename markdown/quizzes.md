@@ -44,7 +44,7 @@ The first attempt at the divide and conquer quiz is due on Tuesday September 22 
 
 ### Attempt 2
 
-The optional second attempt at the divide and conquer quiz is due on Tuesday September 22 at 11:59pm.
+The optional second attempt at the divide and conquer quiz is due on Wednesday September 30 at 11:59pm.
 
 - The [quiz pdf](files/quizzes/dandc_quiz2_blank.pdf)
 - The [quiz zip folder](files/quizzes/dandc_quiz2.zip) suitable for uploading to Overleaf
