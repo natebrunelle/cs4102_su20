@@ -37,10 +37,19 @@ You may additionally be asked to answer a small number of other questions relate
 
 ### Attempt 1
 
-The first attempt at you divide and conquer quiz is due on Tuesday September 22 at 11:59pm.
+The first attempt at the divide and conquer quiz is due on Tuesday September 22 at 11:59pm.
 
 - The [quiz pdf](files/quizzes/dandc_quiz1_blank.pdf)
 - The [quiz zip folder](files/quizzes/dandc_quiz1.zip) suitable for uploading to Overleaf
+
+### Attempt 2
+
+The optional second attempt at the divide and conquer quiz is due on Tuesday September 22 at 11:59pm.
+
+- The [quiz pdf](files/quizzes/dandc_quiz2_blank.pdf)
+- The [quiz zip folder](files/quizzes/dandc_quiz2.zip) suitable for uploading to Overleaf
+
+Keep in mind that only the last quiz submitted will count towards your grade, and receiving an 85% average in a unit puts you on track for an A in the course.
 
 
 
