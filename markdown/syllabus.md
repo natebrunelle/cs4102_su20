@@ -114,7 +114,7 @@ Professionalism Penalty    0--100%  Rude behavior toward instructor or classmate
 
 More precisely, your final letter grade will be determined by the following:
 
-You get (CR/GC/NC)  if you score                           GPA value
+You get (CR/GC/NC) if you score                           GPA value
 ------- ---------- -------------------------------------  ---------
 A+      (CR)       near the top                            4.0
 A       (CR)       ≥ 85% on all units                      4.0
