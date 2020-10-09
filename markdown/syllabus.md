@@ -114,10 +114,10 @@ Professionalism Penalty    0--100%  Rude behavior toward instructor or classmate
 
 More precisely, your final letter grade will be determined by the following:
 
-You get (CR/GC/NC)  if you score    GPA value
+You get (CR/GC/NC)  if you score                           GPA value
 ------- ---------- -------------------------------------  ---------
-A+      (CR)       near the top                           4.0
-A       (CR)       ≥ 85% on all units                     4.0
+A+      (CR)       near the top                            4.0
+A       (CR)       ≥ 85% on all units                      4.0
 A−      (CR)       ≥ 83% on all units                      3.7
 B+      (CR)       ≥ 80% on all units                      3.3
 B       (CR)       ≥ 75% on all units                      3.0
@@ -127,7 +127,7 @@ C       (CR)       ≥ 68% average across units[^noCminus]   2.0
 D+      (GC)       ≥ 63% average across units              1.3
 D       (GC)       ≥ 60% average across units              1.0
 D−      (GC)       ≥ 58% average across units              0.7
-F       (NC)      otherwise                               0.0
+F       (NC)       otherwise                                0.0
 
 [^noCminus]: Since the CS department uses C- as the lower threshold for prerequisites, the university guidelines say that GC cannot be used to satisfy re-requisites, and C- being categorized as GC by the university, we feel the most fair thing to do is to remove the C- level from the grading scale entirely, instead rounding up all C- grades to a C.
 
