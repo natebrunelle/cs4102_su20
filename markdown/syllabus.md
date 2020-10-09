@@ -98,7 +98,7 @@ Letter  Student demonstrated                Requirement for that grade
 ------  ---------------------------         ------------------------------------
 A       mastery of all topics               At least 85% in all units
 B       competence in significant topics    At least 75% in all units
-C       sufficient competence               At least 70% average across all units
+C       sufficient competence               At least 68% average across all units
 D       minimal competence                  At least 60% average across all units
 F       less than minimal competence        average across all units less than 60%
 
