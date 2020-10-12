@@ -55,7 +55,14 @@ Keep in mind that only the last quiz submitted will count towards your grade, an
 
 ## Hashing and Sorting
 
+This quiz is evaluating your ability to design and analyze algorithms utilizing randomness and to reason about various sorting algorithms. 
 
+### Attempt 1
+
+The first attempt at the divide and conquer quiz is due on Tuesday October 13 at 11:59pm.
+
+- The [quiz pdf](files/quizzes/hashsort_quiz1_blank.pdf)
+- The [quiz zip folder](files/quizzes/hashsort_quiz1.zip) suitable for uploading to Overleaf
 
 ## Dynamic Programming
 
