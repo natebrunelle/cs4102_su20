@@ -64,16 +64,21 @@ The first attempt at the divide and conquer quiz is due on Tuesday October 13 at
 - The [quiz pdf](files/quizzes/hashsort_quiz1_blank.pdf)
 - The [quiz zip folder](files/quizzes/hashsort_quiz1.zip) suitable for uploading to Overleaf
 
-### Attempt 1
+### Attempt 2
 
-The first attempt at the divide and conquer quiz is due on Tuesday October 20 at 11:59pm.
+The second attempt at the hashing and sorting quiz is due on Tuesday October 20 at 11:59pm.
 
 - The [quiz pdf](files/quizzes/hashsort_quiz2_blank.pdf)
 - The [quiz zip folder](files/quizzes/hashsort_quiz2.zip) suitable for uploading to Overleaf
 
 ## Dynamic Programming
 
+### Attempt 2
 
+The first attempt at the dynamic programming quiz is due on Wednesday October 28 at 11:59pm.
+
+- The [quiz pdf](files/quizzes/do_quiz1_blank.pdf)
+- The [quiz zip folder](files/quizzes/dp_quiz1.zip) suitable for uploading to Overleaf
 
 ## Greedy
 
