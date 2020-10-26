@@ -77,7 +77,7 @@ The second attempt at the hashing and sorting quiz is due on Tuesday October 20 
 
 The first attempt at the dynamic programming quiz is due on **Wednesday October 28 at 11:59pm**.
 
-- The [quiz pdf](files/quizzes/do_quiz1_blank.pdf)
+- The [quiz pdf](files/quizzes/dp_quiz1_blank.pdf)
 - The [quiz zip folder](files/quizzes/dp_quiz1.zip) suitable for uploading to Overleaf
 
 ## Greedy
