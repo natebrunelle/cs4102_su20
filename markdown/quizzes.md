@@ -89,6 +89,13 @@ The first attempt at the dynamic programming quiz is due on **Tuesday November 3
 
 ## Greedy
 
+### Attempt 1
+
+The first attempt at the dynamic programming quiz is due on **Wednesday November 1 at 11:59pm**.
+
+- The [quiz pdf](files/quizzes/greedy_quiz1_blank.pdf)
+- The [quiz zip folder](files/quizzes/greedy_quiz1.zip) suitable for uploading to Overleaf
+
 ## Graphs
 
 ## Reductions and NP-Completeness
