@@ -105,6 +105,13 @@ The first attempt at the dynamic programming quiz is due on **Tuesday November 1
 
 ## Graphs
 
+### Attempt 1
+
+The first attempt at the graphs quiz is due on **Tuesday November 24 at 11:59pm**.
+
+- The [quiz pdf](files/quizzes/graphs_quiz1_blank.pdf)
+- The [quiz zip folder](files/quizzes/graphs_quiz1.zip) suitable for uploading to Overleaf
+
 ## Reductions and NP-Completeness
 
 ## Re-re Attempt
