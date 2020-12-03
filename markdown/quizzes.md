@@ -121,4 +121,11 @@ The first attempt at the graphs quiz is due on **Wednesday December 2 at 11:59pm
 
 ## Reductions and NP-Completeness
 
+### Attempt 1
+
+The first attempt at the graphs quiz is due on **Friday December 4 at 11:59pm**.
+
+- The [quiz pdf](files/quizzes/reductions_quiz1_blank.pdf)
+- The [quiz zip folder](files/quizzes/reductions_quiz1.zip) suitable for uploading to Overleaf
+
 ## Re-re Attempt
