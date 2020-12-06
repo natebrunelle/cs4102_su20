@@ -119,9 +119,9 @@ You get (CR/GC/NC) if you score                           GPA value
 A+      (CR)       near the top                            4.0
 A       (CR)       ≥ 85% on all units                      4.0
 A−      (CR)       ≥ 83% on all units                      3.7
-B+      (CR)       ≥ 80% on all units                      3.3
-B       (CR)       ≥ 75% on all units                      3.0
-B−      (CR)       ≥ 73% on all units                      2.7
+B+      (CR)       ≥ 83% average across units              3.3
+B       (CR)       ≥ 80% average across units              3.0
+B−      (CR)       ≥ 78% average across units              2.7
 C+      (CR)       ≥ 73% average across units              2.3
 C       (CR)       ≥ 68% average across units[^noCminus]   2.0
 D+      (GC)       ≥ 63% average across units              1.3
