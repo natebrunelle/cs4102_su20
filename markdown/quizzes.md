@@ -135,4 +135,42 @@ The first attempt at the graphs quiz is due on **Monday December 7 at 11:59pm**.
 - The [quiz pdf](files/quizzes/reductions_quiz2_blank.pdf)
 - The [quiz zip folder](files/quizzes/reductions_quiz2.zip) suitable for uploading to Overleaf
 
-## Re-re Attempt
+## Re-re Attempts
+
+All third attempts are due **Wednesday December 9 at 11:59pm**
+
+Everyone may take 1 third attempt if they choose. As with previous reattempts, submitting a third attempt will cause your previous quiz grade from that unit to be cancelled. Your grade on the third attempt will replace it for better or for worse.
+
+If you completed exercise 0, you may take a second third attempt if you wish. If you submit less than 2 third attempts then we will add 2 points to the grade of your lowest unit.
+
+### Divide and Conquer
+
+- The [quiz pdf](files/quizzes/dandc_quiz3_blank.pdf)
+- The [quiz zip folder](files/quizzes/dandc_quiz3.zip) suitable for uploading to Overleaf
+
+### Hashing and Sorting
+
+- The [quiz pdf](files/quizzes/hashsort_quiz3_blank.pdf)
+- The [quiz zip folder](files/quizzes/hashsort_quiz3.zip) suitable for uploading to Overleaf
+
+### Dynamic Programming
+
+- The [quiz pdf](files/quizzes/dp_quiz3_blank.pdf)
+- The [quiz zip folder](files/quizzes/dp_quiz3.zip) suitable for uploading to Overleaf
+
+### Greedy
+
+- The [quiz pdf](files/quizzes/greedy_quiz3_blank.pdf)
+- The [quiz zip folder](files/quizzes/greedy_quiz3.zip) suitable for uploading to Overleaf
+
+### Graphs
+
+- The [quiz pdf](files/quizzes/graphs_quiz3_blank.pdf)
+- The [quiz zip folder](files/quizzes/graphs_quiz3.zip) suitable for uploading to Overleaf
+
+### Reductions and NP-Completeness
+
+- The [quiz pdf](files/quizzes/reductions_quiz3_blank.pdf)
+- The [quiz zip folder](files/quizzes/reductions_quiz3.zip) suitable for uploading to Overleaf
+
+
