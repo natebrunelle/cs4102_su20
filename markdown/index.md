@@ -9,6 +9,11 @@ I have no upper bound on course size, but I do have an upper bound on the ratio 
 I will add seats so long as I am permitted and able to recruit TAs to keep the ratio sufficiently small. If you're interested in enrolling in the class then the best thing to do is to join the waiting list. This will signal to me the number of additional people who intend to enroll, so I know to recruit additional TAs.
 
 
+# The waitlist is full, will more spots be added?
+
+My goal is to keep the waitlist larger than the anticipated maximum capacity of the course. The initial waitlist capacity was 20, but I've sent in a request to increase that. Keep checking back for that to take effect.
+
+
 # The course is listed as online synchronous, must I be available during the meeting times?
 
 My current plan (and I'm still working out the details) is to hold and record synchronous lectures during the official meeting times. This means that if you are unable to attend the meeting times you will still be able to catch up by viewing the recording. There will be no traditional exams for this course.
