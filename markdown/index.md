@@ -6,7 +6,7 @@ title: FAQ
 
 I have no upper bound on course size, but I do have an upper bound on the ratio of students to course staff, as this has a major impact on the timeliness of help, feedback, and grading. Timeliness is especially important for summer courses, since they're accelerated compared to a typical semester. 
 
-I will add seats so long as I am permitted and able to recruit TAs to keep the ratio sufficiently small. If your interested in enrolling in the class then the best thing to do is to join the waiting list. This will signal to me the number of additional people who intend to enroll, so I know to recruit additional TAs.
+I will add seats so long as I am permitted and able to recruit TAs to keep the ratio sufficiently small. If you're interested in enrolling in the class then the best thing to do is to join the waiting list. This will signal to me the number of additional people who intend to enroll, so I know to recruit additional TAs.
 
 
 # The course is listed as online synchronous, must I be available during the meeting times?
