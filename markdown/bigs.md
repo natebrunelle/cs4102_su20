@@ -19,38 +19,24 @@ You may collaborate with up to 4 other people (i.e. a group of up to 5 total) wh
 
 # Deliverables
 
-Unless otherwise indicated, each problem set will be submitted as a pdf on the [Assignments page](https://www.kytos.cs.virginia.edu/cs4102). We do not have a preference for how the pdfs are generated (LaTeX, Microsoft Word, pictures of handwriting are all acceptable) so long as what is submitted is legible, and you use the appropriate mathematical symbols when necessary (please use the equation editor if you're using Word).
+Unless otherwise indicated, each problem set will be submitted as either a pdf on the [Assignments page](https://www.kytos.cs.virginia.edu/cs4102), or as a python or java file as appropriate.
 
-# Problem Sets
+# Exercises
 
-## Big 1
+## Divide and Conquer
 
-Due 11:59pm Tuesday June 23. 
 
-This assignment is intended to give you experience with the design and analysis of divide-and-conquer algorithms. The problems will derive from content learned during the first week of lecture.
 
-Please answer the questions on [this worksheet](files/bigs/big1_blank.pdf) ([tex source](files/bigs/big1_su2020.zip)). Submit your answers as a pdf.
+## Hashing and Sorting
 
-## Big 2
 
-Due 11:59pm Monday June 29. 
 
-This assignment is intended to give you experience with designing and modifying sorting algorithms and dynamic programming. The problems will derive from content learned during the second week of lecture.
+## Dynamic Programming
 
-Please answer the questions on [this worksheet](files/bigs/big2_blank.pdf) ([tex source](files/bigs/big2_su2020.zip)). Submit your answers as a pdf.
 
-## Big 3
 
-Due 11:59pm Tuesday July 7. 
+## Greedy
 
-This assignment is intended to give you experience with designing and modifying greedy algorithms and graph algorithms. The problems will derive from content learned during the third week of lecture
+## Graphs
 
-Please answer the questions on [this worksheet](files/bigs/big3_blank.pdf) ([tex source](files/bigs/big3_su2020.zip)). Submit your answers as a pdf.
-
-## Big 4
-
-Due 11:59pm Saturday July 11. 
-
-This assignment is intended to give you experience with reductions, and you should use reductions on all problems.
-
-Please answer problem 1 and your choice from problems 2 and 3 presented in [this worksheet](files/bigs/big4_blank.pdf) ([tex source](files/bigs/big4_su2020.zip)). Submit your answers as a pdf.
+## Reductions and NP-Completeness

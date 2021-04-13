@@ -1,89 +1,190 @@
-2020-06-15:
-    slides(pptx): files/slides/lecture1_welcome_runtime.pptx
-    slides(pdf): files/slides/lecture1_welcome_runtime.pdf
-    video: https://virginia.zoom.us/rec/share/usVpBaztzlhJbauKylvmUbxmObjMeaa80yEf_fcEz0vE8Zo3yt7IcT70CtcqpJtT
+2020-08-25:
+    2pm slides(pptx): files/slides/lecture1_welcome.pptx
+    2pm slides(pdf): files/slides/lecture1_welcome.pdf
+    2pm video: https://virginia.zoom.us/rec/share/55JFA4PQtW9OG4GQxk3cYpUlB4a_aaa81CdI8_MNxUmJm50uRTb48LE5LgbDxVNx?startTime=1598378501000
+    1230 slides(pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/L1.pdf
+    1230 video: https://virginia.zoom.us/rec/share/55JFA4PQtW9OG4GQxk3cYpUlB4a_aaa81CdI8_MNxUmJm50uRTb48LE5LgbDxVNx?startTime=1598373079000
 
-2020-06-16:
-    slides(pptx): files/slides/lecture2_divide_and_conquer.pptx
-    slides(pdf): files/slides/lecture2_divide_and_conquer.pdf
-    video: https://virginia.zoom.us/rec/share/6OBbFq2tr1lIW5GQ5xyFc6sKPtvoeaa803dKq6ALyRlok6dzjA3KqyPDAI64Mt7M
-
-2020-06-17:
-    math: files/recurrence_math.pdf
-    slides(pptx): files/slides/lecture3_recurrences.pptx
-    slides(pdf): files/slides/lecture3_recurrences.pdf
-    video: https://virginia.zoom.us/rec/share/55d4LJjZtVFIZJ3B4VD6GbBxGtzseaa81ncX-6cJz0plX-tJTK9njTRSmzii5ma4
+2020-08-27:
+    lecture slides(pptx): files/slides/lecture2_divide_and_conquer.pptx
+    lecture slides(pdf): files/slides/lecture2_divide_and_conquer.pdf
+    workshop video: https://virginia.zoom.us/rec/share/uOxoP_LM7T9IUs-W6hH0C5EeDqm8T6a81yUWr_ALxUx5guCHIFFQ4_iZAaFfJ7vQ?startTime=1598545530000
+    lecture video: https://virginia.zoom.us/rec/share/uOxoP_LM7T9IUs-W6hH0C5EeDqm8T6a81yUWr_ALxUx5guCHIFFQ4_iZAaFfJ7vQ?startTime=1598551272000
+    workshop slides(pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/W2.pdf
     
-2020-06-18:
-    slides(pptx): files/slides/lecture4_master_closestpair.pptx
-    slides(pdf): files/slides/lecture4_master_closestpair.pdf
-    video: https://virginia.zoom.us/rec/share/3tVcd_Lx2W9JWrPu60DEeukYRYjpT6a8g3Ud-fEExBnHCI2gXGyiRCJdTzILUhT8
-
-2020-06-22:
-    slides(pptx): files/slides/lecture5_strassens_quicksort.pptx
-    slides(pdf): files/slides/lecture5_strassens_quicksort.pdf
-    video: https://virginia.zoom.us/rec/share/tNMlbJvd-n9IYY3c2Xr_dKweN93kX6a8hCga86INzRug4RxfE-F6EIVmEMO3rBKQ
+2020-09-01:
+    workshop slides(pdf): files/slides/workshop2_recurrences.pdf
+    workshop video: https://virginia.zoom.us/rec/share/T6gJSL-Upq2F-deMlEudvlvn4-PNmqKIgDlIsU7lIM9Z9lpEixtp4uiJ1hGGxfAM.lNPFL4LJY7t-2Cwn?startTime=1598976880000
+    lecture slides(pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/L3.pdf
+    lecture video: https://virginia.zoom.us/rec/share/T6gJSL-Upq2F-deMlEudvlvn4-PNmqKIgDlIsU7lIM9Z9lpEixtp4uiJ1hGGxfAM.lNPFL4LJY7t-2Cwn?startTime=1598983241000
     
-2020-06-23:
-    slides(pptx): files/slides/lecture6_random_sorting.pptx
-    slides(pdf): files/slides/lecture6_random_sorting.pdf
-    video: https://virginia.zoom.us/rec/share/9JwuJrao9X5OTK_B1H_EZ6EtQ4v7X6a8gHUaq_FYnk_Ddsr3OIkigQWEj-oYifm0
-    
-2020-06-24:
-    slides(pptx): files/slides/lecture7_linear_sorting.pptx
-    slides(pdf): files/slides/lecture7_linear_sorting.pdf
-    video: https://virginia.zoom.us/rec/share/1ZIrCbrM9E5OaJHs4XHVCu0hLorVT6a81ShP__JczxpscgNYigzaTbqT5b0nX5hN
-    
-2020-06-25:
-    slides(pptx): files/slides/lecture8_dynamic_programming.pptx
-    slides(pdf): files/slides/lecture8_dynamic_programming.pdf
-    video: https://virginia.zoom.us/rec/share/5_YqCevv2FJOe6PIzUTNZLYdHJzPeaa82yAY_vMOmkYMiSxgz2AtFcAafOsrV98M
-    
-2020-06-26:
-    slides(pptx): files/slides/lecture9_dp2.pptx
-    slides(pdf): files/slides/lecture9_dp2.pdf
-    video: https://virginia.zoom.us/rec/share/65ZJPYDw2XpOWpXX5EqAfaw5P6_YT6a8hyJIq6BYz0jX1do5Oi-T198SKd3Ykc41
+2020-09-03:
+    lecture slides (pptx): files/slides/lecture4_karatsuba.pptx
+    lecture slides (pdf): files/slides/lecture4_karatsuba.pdf
+    lecture recording: https://virginia.zoom.us/rec/share/AmpqgbgYsOB-Ugr5LYHOKTR3JkW5jMuxVwM6NIn91CwWoRG6lwUuYN5HUGk9U-Uq.MzT8QDnLDlDdNPWh?startTime=1599156075000
+    reurrence math: files/recurrence_math.pdf
+    workshop slides(pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/W4.pdf
+    workshop recording: https://virginia.zoom.us/rec/share/AmpqgbgYsOB-Ugr5LYHOKTR3JkW5jMuxVwM6NIn91CwWoRG6lwUuYN5HUGk9U-Uq.MzT8QDnLDlDdNPWh?startTime=1599150681000
 
-2020-06-29:
-    slides(pptx): files/slides/lecture10_gerrymander_greedy.pptx
-    slides(pdf): files/slides/lecture10_gerrymander_greedy.pdf
-    video: https://virginia.zoom.us/rec/share/wNUrH5ro6lNOfYWS5hz0UYggI6m6aaa81HMX8_NYmEfO3XD1gcisIRR5ZpCUglPa
-
-2020-06-30:
-    slides(pptx): files/slides/lecture11_greedy.pptx
-    slides(pdf): files/slides/lecture11_greedy.pdf
-    video: https://virginia.zoom.us/rec/share/ovJwI7Trrn9OXY2Txn_fdqEaEbn3eaa8h3IXrqFYyhtYwmI1GPd8yEaNqMKIYikO
-
-2020-07-01:
-    slides(pptx): files/slides/lecture12_more_greedy.pptx
-    slides(pdf): files/slides/lecture12_more_greedy.pdf
-    video: https://virginia.zoom.us/rec/share/uJVJIJHo2ExIY42K8kLaCpEqG6-iT6a8hikerPEKyx2HpU3YyRrfXxlGvnMpEYEQ
+2020-09-08:
+    workshop slides(pdf): files/slides/workshop4_max_sum_subarray.pdf
+    workshop video: https://virginia.zoom.us/rec/share/0cC6NrlotG-atiyMWCFXcDNcjTmSYMwvyFOxdF1E1Vsts0IShfaCfudir3MdJzr1.xPBvLD-Hte9VPex4?startTime=1599582154000
+    lecture slides(pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/L5.pdf
+    lecture video: https://virginia.zoom.us/rec/share/0cC6NrlotG-atiyMWCFXcDNcjTmSYMwvyFOxdF1E1Vsts0IShfaCfudir3MdJzr1.xPBvLD-Hte9VPex4?startTime=1599588048000
     
-2020-07-02:
-    slides(pptx): files/slides/lecture13_mst_dijkstra.pptx
-    slides(pdf): files/slides/lecture13_mst_dijkstra.pdf
-    video: https://virginia.zoom.us/rec/share/-u8tBaPW0l9LW5WR-kHcB7QfIry4X6a80HIe_PVbyRyKWwB1OXGCXpiihaziHgJJ
+2020-09-10:
+    lecture slides (pptx): files/slides/lecture6_closestpair.pptx
+    lecture slides (pdf): files/slides/lecture6_closestpair.pdf
+    lecture video: https://virginia.zoom.us/rec/share/a0yP0uI2udnvHHNpEeWyn79pXn84a40UjN1VkYCEGPgmPZ4tNAJFOPcCLqppXGqy.x_kOY2m-1_iS5P61?startTime=1599760787000
+    workshop slides(pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/W6.pdf
+    workshop video: https://virginia.zoom.us/rec/share/a0yP0uI2udnvHHNpEeWyn79pXn84a40UjN1VkYCEGPgmPZ4tNAJFOPcCLqppXGqy.x_kOY2m-1_iS5P61?startTime=1599755432000
 
-2020-07-06:
-    slides(pptx): files/slides/lecture14_allpairs_maxflow.pptx
-    slides(pdf): files/slides/lecture14_allpairs_maxflow.pdf
-    video: https://virginia.zoom.us/rec/share/_Jx8BbWppjNJHtKUxX2AR_UZNK2mT6a80XcY-acKy0wfn1qKeb3ThH8WkVDHNXSe
+2020-09-15:
+    workshop slides(pdf): files/slides/workshop7_strassens_sub.pdf
+    workshop slides(pptx): files/slides/workshop7_strassens_sub.pptx
+    workshop video: https://virginia.zoom.us/rec/share/2rpAFauUbFEq4CZoIXuo3mNiqZUqK6YF2c1pwlWt_10V21O8AdaIzqHukfsgEUeq.0mwOmIka0-lp9EhI?startTime=1600187492000
+    lecture slides(pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/L7.pdf
+    lecture video: https://virginia.zoom.us/rec/share/2rpAFauUbFEq4CZoIXuo3mNiqZUqK6YF2c1pwlWt_10V21O8AdaIzqHukfsgEUeq.0mwOmIka0-lp9EhI?startTime=1600192810000
     
-2020-07-07:
-    slides(pptx): files/slides/lecture15_reductions.pptx
-    slides(pdf): files/slides/lecture15_reductions.pdf
-    video: https://virginia.zoom.us/rec/share/9O11A4Hb0lJLQbPMtXPCQoV4Q4-4X6a823cY-_IEmUgMeQirlx7jZySsy9nemmoI
+2020-09-17:
+    workshop slides(pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/W8.pdf
+    workshop video: https://virginia.zoom.us/rec/share/F43tOr_I7K40WiOBsLVi-EdgOjKVsewhA6dhe3TahTc4dOsMTL1Crglq12jLoncW.lmrlN1YnnNTqtUzK?startTime=1600360233000
+    lecture slides (pptx): files/slides/lecture8_hashing.pptx
+    lecture slides (pdf): files/slides/lecture8_hashing.pdf
+    lecture video: https://virginia.zoom.us/rec/share/F43tOr_I7K40WiOBsLVi-EdgOjKVsewhA6dhe3TahTc4dOsMTL1Crglq12jLoncW.lmrlN1YnnNTqtUzK?startTime=1600365608000
     
-2020-07-08:
-    slides(pptx): files/slides/lecture16_reductions2.pptx
-    slides(pdf): files/slides/lecture16_reductions2.pdf
-    video: https://virginia.zoom.us/rec/share/7PF6DbG3y3pLa9Lo-GDUfJQ5XYe1T6a80XQY-vtemkb0gvqMziCQ7waPhOHdksCE
+2020-09-22:
+    workshop slides (pptx): files/slides/workshop9_birthday.pptx
+    workshop slides (pdf): files/slides/workshop9_birthday.pdf
+    workshop video: https://virginia.zoom.us/rec/share/57Bsdu2DjpyU1hNKblxdJSgrXesrl4hJjTvHoSNilVdKIi-WU7wijcJ-TjyjbsZR.gSkr6GhxDU65CBAr?startTime=1600792221000
+    lecture slides(pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/L9.pdf
+    lecture video: https://virginia.zoom.us/rec/share/57Bsdu2DjpyU1hNKblxdJSgrXesrl4hJjTvHoSNilVdKIi-WU7wijcJ-TjyjbsZR.gSkr6GhxDU65CBAr?startTime=1600797610000
+    
+2020-09-24:
+    workshop slides(pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/W10.pdf
+    workshop video: https://virginia.zoom.us/rec/share/61_c62l3kJIKRs6etwvc0c2dGu1CrVGPEYuhapxSksGh1ebSa2trlL6BRLtpjXQ.j7dgQ4d5fUgt_hlM?startTime=1600965027000
+    lecture slides (pptx): files/slides/lecture10_medofmed_rand_quicksort.pptx
+    lecture slides (pdf): files/slides/lecture10_medofmed_rand_quicksort.pdf
+    lecture video: https://virginia.zoom.us/rec/share/61_c62l3kJIKRs6etwvc0c2dGu1CrVGPEYuhapxSksGh1ebSa2trlL6BRLtpjXQ.j7dgQ4d5fUgt_hlM?startTime=1600970417000
 
-2020-07-09:
-    slides(pptx): files/slides/lecture17_np_complete.pptx
-    slides(pdf): files/slides/lecture17_np_complete.pdf
-    video: https://virginia.zoom.us/rec/share/uMV3FJPpsSBOaM-O0R7jBKkhQ8fVX6a81iZIqPMIxUn6J8EGg3eBFV0EQi0NvrUr
+2020-09-29:
+    workshop video: https://virginia.zoom.us/rec/share/fz0Py0Yp2Bm128LxdrBntbqtn_BopetSbwJ4sCmUhvwIXrH1o8GpWJKLN-STefLX.Cpgy98cq1D6gXdi3?startTime=1601396904000
+    workshop slides (pptx): /files/slides/workshop11_medofmed_revisit.pptx
+    workshop slides (pdf): /files/slides/workshop11_medofmed_revisit.pdf
+    lecture slides (pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/L11.pdf
+    lecture video: https://virginia.zoom.us/rec/share/fz0Py0Yp2Bm128LxdrBntbqtn_BopetSbwJ4sCmUhvwIXrH1o8GpWJKLN-STefLX.Cpgy98cq1D6gXdi3?startTime=1601402449000
+    
+2020-10-01:
+    workshop slides(pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/W12.pdf
+    workshop video: https://virginia.zoom.us/rec/share/54XcW_eZkIUG_AGjEC_hYCt6I3NsPbPEpbCa1hYTD7pc3PU0lumHPC9GepSdW1GR.an9jLW5eaRpDaiB3?startTime=1601569869000
+    lecture slides (pptx): /files/slides/lecture12_lots_of_sorts.pptx
+    lecture slides (pdf): /files/slides/lecture12_lots_of_sorts.pdf
+    lecture video: https://virginia.zoom.us/rec/share/54XcW_eZkIUG_AGjEC_hYCt6I3NsPbPEpbCa1hYTD7pc3PU0lumHPC9GepSdW1GR.an9jLW5eaRpDaiB3?startTime=1601575187000
 
-2020-07-10:
-    slides(pptx): files/slides/lecture18_finale.pptx
-    slides(pdf): files/slides/lecture18_finale.pdf
+2020-10-06:
+    workshop slides (pptx): /files/slides/workshop13_inplace_heap.pptx
+    workshop slides (pdf): /files/slides/workshop13_inplace_heap.pdf
+    workshop code (python): /files/sort_explorer.zip
+    workshop video: https://virginia.zoom.us/rec/share/KA2k3M0dNp_bilmknfN0pD10NRPEVFb7rb4S-IyAbSw3EHKNY_gQDqdMr5JjROIc.thxb5muDvNmgGxAZ?startTime=1602001822000
+    lecture slides (pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/L13.pdf
+    lecture video: https://virginia.zoom.us/rec/share/KA2k3M0dNp_bilmknfN0pD10NRPEVFb7rb4S-IyAbSw3EHKNY_gQDqdMr5JjROIc.thxb5muDvNmgGxAZ?startTime=1602007206000
+    
+2020-10-08:
+    lecture slides (pdf): /files/slides/lecture14_intro_dp.pdf
+    lecture slides (pptx): /files/slides/lecture14_intro_dp.pptx
+    lecture video: https://virginia.zoom.us/rec/share/IyMzsOD_3DehtR0ViIppxznG7htr3DZDwo9q9rBPhxOKbEoucm-1I6flCkvP6m_d.A18RE4SHbsIPp0bu?startTime=1602180055000
+    workshop slides(pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/W14.pdf
+    workshop video: https://virginia.zoom.us/rec/share/IyMzsOD_3DehtR0ViIppxznG7htr3DZDwo9q9rBPhxOKbEoucm-1I6flCkvP6m_d.A18RE4SHbsIPp0bu?startTime=1602174612000
+    log cutting video: https://virginia.zoom.us/rec/share/QfmrIbggilvoJMAxFgntJBVYj_Cvg67bHPSi9-isVjff7fKCnF-A9W3btEaS_gFP.2WedWJihKd2KmAP_?startTime=1602258567000
+
+2020-10-13:
+    workshop slides (pdf): /files/slides/workshop15_optimal_substructure.pdf
+    workshop slides (pptx): /files/slides/workshop15_optimal_substructure.pptx
+    workshop video: https://virginia.zoom.us/rec/share/1p2EIrirDBWVGpXcofMFLEPRuP1YYwBgsE-rT6pU5tncXCxA6SrulwTP1lm8WHFv.qMX5AKm4jHo5M6_V?startTime=1602606635000
+    lecture slides (pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/L15.pdf
+    lecture video: https://virginia.zoom.us/rec/share/1p2EIrirDBWVGpXcofMFLEPRuP1YYwBgsE-rT6pU5tncXCxA6SrulwTP1lm8WHFv.qMX5AKm4jHo5M6_V?startTime=1602612026000
+    
+2020-10-15:
+    lecture slides (pdf): /files/slides/lecture16_gerrymander.pdf
+    lecture slides (pptx): /files/slides/lecture16_gerrymander.pptx
+    lecture video: https://virginia.zoom.us/rec/share/j7yXxHKbzhUmjsAiQf_f9859JEKgHHu0ocg7T8DbqWvzf83ptdIjzbvOXUnDiaF1.5BUfygYzywdqz0WO?startTime=1602784832000
+    workshop slides(pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/W16.pdf
+    workshop video: https://virginia.zoom.us/rec/share/j7yXxHKbzhUmjsAiQf_f9859JEKgHHu0ocg7T8DbqWvzf83ptdIjzbvOXUnDiaF1.5BUfygYzywdqz0WO?startTime=1602779447000
+    
+2020-10-20:
+    workshop slides (pdf): /files/slides/workshop17_knapsack.pdf
+    workshop slides (pptx): /files/slides/workshop17_knapsack.pptx
+    workshop video: https://virginia.zoom.us/rec/share/Xt09txH1BjINBQJN9Lr5oqWp5StZE9IQTAPPRNBp-AkZRQgrMi5oWbZC9769T6K4.ievimUmaDvuSNQdu?startTime=1603210807000
+    lecture slides (pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/L17.pdf
+    lecture video: https://virginia.zoom.us/rec/share/Xt09txH1BjINBQJN9Lr5oqWp5StZE9IQTAPPRNBp-AkZRQgrMi5oWbZC9769T6K4.ievimUmaDvuSNQdu?startTime=1603216855000
+
+2020-10-22:
+    lecture slides (pdf): /files/slides/lecture18_huffman.pdf
+    lecture slides (pptx): /files/slides/lecture18_huffman.pptx
+    lecture video: https://virginia.zoom.us/rec/share/sOD4GmbIllURxeX7Kwe51JVsXlpKDhrUTqWUBJNVIHELYKjiz3xeIRIJUB52Rt66.x7nEr9-KNNxp49oZ?startTime=1603389608000
+    workshop slides(pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/W18.pdf
+    workshop video: https://virginia.zoom.us/rec/share/sOD4GmbIllURxeX7Kwe51JVsXlpKDhrUTqWUBJNVIHELYKjiz3xeIRIJUB52Rt66.x7nEr9-KNNxp49oZ?startTime=1603384214000
+    
+2020-10-27:
+    workshop slides(pptx): /files/slides/workshop19_unit_sched.pptx
+    workshop slides(pdf): /files/slides/workshop19_unit_sched.pdf
+    workshop video: https://virginia.zoom.us/rec/share/PMmOfFsm8gddR0rmLJAToANqF72Tl-lts-Qh12zaRGFd2VYvBaChSwdBX-6-sqCX.GLCMnbQm34VQUF8c?startTime=1603815364000
+    lecture slides (pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/L19.pdf
+    lecture video: https://virginia.zoom.us/rec/share/PMmOfFsm8gddR0rmLJAToANqF72Tl-lts-Qh12zaRGFd2VYvBaChSwdBX-6-sqCX.GLCMnbQm34VQUF8c?startTime=1603821633000
+
+2020-10-29:
+    lecture slides(pptx): files/slides/lecture20_mst_dijkstra.pptx
+    lecture slides(pdf): files/slides/lecture20_mst_dijkstra.pdf
+    lecture video: https://virginia.zoom.us/rec/share/p-4av6a8kohHRF-j8OTahVzRtuRHiMcYrc7Y6HkakItSyFw9lDICCrNn7od92RAR.uArynb0KuOB7RaH0?startTime=1603994424000
+    workshop video: https://virginia.zoom.us/rec/share/p-4av6a8kohHRF-j8OTahVzRtuRHiMcYrc7Y6HkakItSyFw9lDICCrNn7od92RAR.uArynb0KuOB7RaH0?startTime=1603989065000
+    workshop slides(pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/W20.pdf
+
+2020-11-03:
+    workshop slides(pptx): files/slides/workshop21_graphs_code.pptx
+    workshop slides(pdf): files/slides/workshop21_graphs_code.pdf
+    workshop code: files/graphs_code.zip
+    workshop video: https://virginia.zoom.us/rec/share/LLNu971K3HuRqbCFICNnppiECF5ItWCPnBgtnTOEgvqy_plGA7c8NioyP4X2Hux8.kwVqAgCdvvdxxEzB?startTime=1604424222000
+    lecture slides (pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/L21.pdf
+    lecture video: https://virginia.zoom.us/rec/share/LLNu971K3HuRqbCFICNnppiECF5ItWCPnBgtnTOEgvqy_plGA7c8NioyP4X2Hux8.kwVqAgCdvvdxxEzB?startTime=1604430094000
+
+2020-11-05:
+    lecture slides(pptx): files/slides/lecture22_maxflow.pptx
+    lecture slides(pdf): files/slides/lecture22_maxflow.pdf
+    lecture video: https://virginia.zoom.us/rec/share/vSZO7Qmv-uf3vlf5bo1woNrxJPVW8rdRbUaoonWurLoKjb6d7w5eWXJ1Sz9-kRkD.wC116kmZdgp0UDKR?startTime=1604602827000
+    workshop video: https://virginia.zoom.us/rec/share/vSZO7Qmv-uf3vlf5bo1woNrxJPVW8rdRbUaoonWurLoKjb6d7w5eWXJ1Sz9-kRkD.wC116kmZdgp0UDKR?startTime=1604597512000
+    workshop slides(pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/W22.pdf
+    
+2020-11-10:
+    workshop slides(pptx): files/slides/workshop23_edmunds_karp.pptx
+    workshop slides(pdf): files/slides/workshop23_edmunds_karp.pdf
+    workshop video: https://virginia.zoom.us/rec/share/5wv0PDaIPKo1W_IE9NOe2Z-nzns0PzVwrlTzHbz6bO3XmHwLqQLTaoO47QRiESOx.pqRODM8Mmx2dZwzP?startTime=1605029007000
+    lecture video: https://virginia.zoom.us/rec/share/5wv0PDaIPKo1W_IE9NOe2Z-nzns0PzVwrlTzHbz6bO3XmHwLqQLTaoO47QRiESOx.pqRODM8Mmx2dZwzP?startTime=1605034838000
+    lecture slides (pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/L23.pdf
+
+2020-11-12:
+    lecture slides (pptx): files/slides/lecture24_reductions.pptx
+    lecture slides (pdf): files/slides/lecture24_reductions.pdf
+    lecture video: https://virginia.zoom.us/rec/share/P0xtSs_8mD1nttg9jTVvPM9Sn6StUdYO0Plvd1XCr2tJhWW5WlakBlFVBjezMwUq.EWtD61-bP5W62ksp?startTime=1605207639000
+    workshop slides(pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/W24.pdf
+    workshop video: https://virginia.zoom.us/rec/share/P0xtSs_8mD1nttg9jTVvPM9Sn6StUdYO0Plvd1XCr2tJhWW5WlakBlFVBjezMwUq.EWtD61-bP5W62ksp?startTime=1605202228000
+
+2020-11-17:
+    workshop slides(pptx): files/slides/workshop25_3sum.pptx
+    workshop slides(pdf): files/slides/workshop25_3sum.pdf
+    workshop video: https://virginia.zoom.us/rec/share/fjcxEOOga8uZjbfQ70ajquwpB6xCS46qBonjhq_WfAtiAiS7OjcEaYlA0yoeLkYc.z7Prn60XDC1j1ZX9?startTime=1605634013000
+    lecture slides (pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/L25.pdf
+    lecture video: https://virginia.zoom.us/rec/share/fjcxEOOga8uZjbfQ70ajquwpB6xCS46qBonjhq_WfAtiAiS7OjcEaYlA0yoeLkYc.z7Prn60XDC1j1ZX9?startTime=1605639633000
+    
+2020-11-19:
+    lecture slides(pdf):  files/slides/lecture26_np_complete.pdf
+    lecture slides(pptx):  files/slides/lecture26_np_complete.pptx
+    lecture video: https://virginia.zoom.us/rec/share/w2T0zcNb5Fnzcx0fjGPWTM69FOQ0ZJuHc4PIZ2CmdMw024ek9dfHqqcJnVyXXJal.mt0zKWCq_r9aqg76?startTime=1605812415000
+    workshop slides(pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/W26.pdf
+    workshop video: https://virginia.zoom.us/rec/share/w2T0zcNb5Fnzcx0fjGPWTM69FOQ0ZJuHc4PIZ2CmdMw024ek9dfHqqcJnVyXXJal.mt0zKWCq_r9aqg76?startTime=1605807069000
+
+2020-11-24:
+    workshop slides(pptx): files/slides/workshop27_fiveworlds.pptx
+    workshop slides(pdf): files/slides/workshop27_fiveworlds.pdf
+    workshop video: https://virginia.zoom.us/rec/share/jnLhJakBf4nfzVGESzkaeCMz0YUUlHotjb3is_P6Js8xqsTwD49ZNGHBXaakUQl6.pH7BcU_u0P6kPM3A?startTime=1606238669000
+    lecture slides (pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/L27.pdf
+    lecture video: https://virginia.zoom.us/rec/share/jnLhJakBf4nfzVGESzkaeCMz0YUUlHotjb3is_P6Js8xqsTwD49ZNGHBXaakUQl6.pH7BcU_u0P6kPM3A?startTime=1606244493000

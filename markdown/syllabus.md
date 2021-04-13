@@ -2,28 +2,38 @@
 title: Syllabus
 ...
 
+# Units
+
+The course will be divided into 6 units:
+
+1. Design and Analysis of Divide and Conquer Algorithms
+1. Survey of Sorting Algorithms, including an Introduction to Randomized Algorithms
+1. Design and Analysis of Dynamic Programming Algorithms
+1. Design and Analysis of Greedy Algorithms
+1. Survey of Graph Algorithms
+1. Design and Analysis of Algorithms using Reductions, including NP-Completeness
+
 # Logistics
 
 ## Meetings
 
-Live zoom lectures will be held Monday, Tuesday, Wednesday, Thursday, Friday 10:30am–12:45PM
+Live zoom lectures will be held Tuesdays and Thursdays at 2pm. Live workshops will be held Tuesdays and Thursdays at 12:30 pm.
 
-Lecture attendance is optional, but strongly encouraged. In the event you are unable to attend a lecture, recordings of lectures are provided on the [schedule page](schedule.html).
+Attending lecture or viewing a recording is expected. Attending workshops or viewing a recording is optional but recommended. Recordings of lectures and workshops are provided on the [schedule page](schedule.html) (click for more information under the appropriate date).
 
 
 ## Contact
 
-|        | Instructor | TAs |
-|--------|------------|-----|
-| Name | Nathan Brunelle | TBA |
-| Location | Rice 209 | TBA |
-| Office Hours | TBD | TBA |
-| Phone | 243-3845 | (none) |
-| Email | <a href="mailto:njb2b@virginia.edu?subject=DMT1">njb2b@virginia.edu</a> | use [Piazza](https://piazza.com/virginia/summer2020/cs4102) |
+|        | Nate Brunelle | David Wu | TAs |
+|--------|---------------|----------|-----|
+| Location | [Zoom](https://virginia.zoom.us/my/profnateb)  |   [Zoom](https://virginia.zoom.us/j/97533277456?pwd=T1p6bERZRTFmQklZZktuWnVNTnNxUT09)   |TBA |
+| Office Hours | MW 2pm-4pm     |   Tues 3:15-4:45pm    |TBA |
+| Phone | TBA            |   TBD    |(none) |
+| Email | <a href="mailto:njb2b@virginia.edu?subject=DMT1">njb2b@virginia.edu</a> | <a href="mailto:dwu4@virginia.edu?subject=DMT1">dwu4@virginia.edu</a> | use [Piazza](https://piazza.com/virginia/fall2020/cs4102) |
 
-For communication about course content, [Piazza](https://piazza.com/virginia/summer2020/cs4102) is preferred to email.
+For communication about course content, [Piazza](https://piazza.com/virginia/fall2020/cs4102) is preferred to email.
 For communication about personal circumstances, email or in-person visits are preferred.
-If you email, include either "algorithms" or "4102" in the subject line to prevent your email from skipping my inbox and never getting read.
+If you email, include either "algorithms" or "4102" in the subject line to prevent your email from skipping the inbox and never getting read.
 
 Our TAs are students too, with duties and work outside of their TAing. Please do not ask them to act as your TA except at the scheduled on-the-clock times they have listed as their office hours. They are also kind people; please don't put them in the position of having to say no or (worse) being nice to you at the expense of their own schooling.
 
@@ -40,34 +50,35 @@ Readings corresponding to each lecture will be posted on the course schedule.
 
 ## Lectures
 
-I do my best to make lectures as valuable, engaging, and enlightening as possible for all
+We do our best to make lectures as valuable, engaging, and enlightening as possible for all
 students. For a schedule of lecture topics, please see the [course webpage](schedule.html).
-Although we believe nearly all students will benefit from attending all classes, we also respect that as
-mature (ideally) college students, you are entrusted to figure out how best to learn and
-make use of your time here. Hence, I will not assess attendance or impose any penalties for missing
-class. 
-I will make a best effort to post all lecture materials (recordings, slides documents, etc.) on the course
-webpage, including video recordings of lectures. Be advised that there are occasional technical difficulties which sometimes cause the recordings to fail, and even when they do succeed these recordings are not an adequate substitute for
-attending class live.
+We will post all lecture materials (recordings, slides, documents, etc.) on the course
+webpage, including video recordings of lectures. Be advised that there are occasional technical difficulties which sometimes cause the recordings to fail, in these situations we will post an equivalent recording from a previous semester.
 
+Lectures will be held via [Zoom](https://virginia.zoom.us/j/95047118539)
 
+## Workshops
+
+Workshops are optional and intended to reinforce lecture content through thorough discussion of example problems. These might include mathematical derivations of topics mentioned in class, example proofs similar to those you might see in your exercises, or a live walk-through of how to develop an algorithm. Each session will have a 1-lecture delay, so topics discussed in Tuesday's lecture will be reinforced in Thursday's workshop; topics discussed in Thursday's lecture will be reinforced in Tuesday's workshop. We will post all associated materials (recordings, slides, documents, etc.) on the course
+webpage, including video recordings of each session.
+
+Workshops will be held via [Zoom](https://virginia.zoom.us/j/95047118539).
 
 ## Tasks {#tasks}
 
-You will be expected to read instructional material and either understand it or ask questions to clarify what you found confusing. We strongly recommend forming study groups that meet at least weekly all semester long to discuss readings, as even if they appear simple at first they will often contain nuances that will only emerge with conversions.
+You will be expected to watch lectures, read the text, and any other provided instructional materials and either understand them or ask questions to clarify what you found confusing. We strongly recommend forming study groups that meet at least weekly all semester long to discuss course concepts, as even if they appear simple at first they will often contain nuances that will only emerge with conversions.
 
-You will be asked to perform three kinds of evaluations:
+You will be asked to perform two kinds of evaluations:
 
-- **Quizzes**: open-resource assessments of your understanding of broad course topics. These are intended to verify that you develop and maintain an intuitive understanding of the course concepts. These must be completed independently.
-- **Little Problem Sets**: problems for you to solve. These may require that your design novel algorithms or compose formal mathematical arguments. These are to provide opportunities for you to develop working familiarity with course concepts. You are encouraged to work on these with a small work group of up to 5 people (yourself plus 4). These problem sets are short, and the tasks are more "bit-sized" in that they're expected to be completable in 1-2 sittings.
-- **Big Problem Sets**: problems for you to solve. These may require that your design novel algorithms or compose formal mathematical arguments. These are to provide opportunities for you exercise and hone your skills with course concepts. You are encouraged to work on these with a small work group of up to 5 people (yourself plus 4). These problem sets are longer, and the tasks typically require deeper insight than those on the little problem sets. You are given longer to do them mostly to allow you time for more sittings. I suggest working on the problems in frequent 1-2 hours sessions, rather than trying to "cram" a solution.
+- **Quizzes**: open-resource assessments of your understanding of broad course topics. These are intended to verify that you develop and maintain an understanding of the course concepts. These must be completed independently. They will occur after each major unit throughout the semester. You will be alotted up to 3 attempts at each assessment. Only the grade from your last attempt per each assessment is is used in your final grade calculation.
+- **Exercises**: homework problems for you to solve. These may require that your design novel algorithms or compose formal mathematical arguments. These are to provide opportunities for you to develop working familiarity with course concepts. You are encouraged to work on these with a small work group of up to 5 people (yourself plus 4). We suggest working on the problems in frequent 1-2 hours sessions, rather than trying to "cram" a solution. There is no opportunity for revising/re-attempting exercises (though you are allowed unlimited re-submissions up until the deadline).
 
 
 
 # Grading
 
-In February 2019 the CS faculty approved [a definition](http://ugrads.cs.virginia.edu/grading-guidelines.html) of what we believe grades mean.
-It is my intent to approximate that definition in this course.
+In February 2019 the CS faculty approved [a definition](http://ugrads.cs.virginia.edu/grading-guidelines.html) of what it believe grades mean.
+It is our intent to approximate that definition in this course.
 As a brief summary,
 
 Letter  Student demonstrated                Recommendation re future courses[^future]
@@ -83,48 +94,66 @@ F       less than minimal competence        retake this course first
 
 We will consider the grade assigned by the following point-based breakdown to be a **guideline** for the grade earned according to the definitions above.
 
+Letter  Student demonstrated                Requirement for that grade
+------  ---------------------------         ------------------------------------
+A       mastery of all topics               At least 85% in all units
+B       competence in significant topics    At least 75% in all units
+C       sufficient competence               At least 68% average across all units
+D       minimal competence                  At least 60% average across all units
+F       less than minimal competence        average across all units less than 60%
+
+
+Each unit's grade will be determined by equal weight of Quizzes and Exercises. You grade per unit will be calculated using the following formula:
+
+
 Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
-Quizzes                     12%     Due each Friday. There will be 4 total, each worth 3% of your grade
-Little Problem sets         48%     Due each Tuesday, Wednesday, and Thursday. There will be 12 total, each worth 4% of your grade
-Big Problem sets            40%     Due Each Monday (except the for Big4, which is due on Saturday July 11 in lieue of a final exam). There will be 4 total, each worth 10% of your grade
-Professionalism Penalty    0--100%  Excessive missed classes, rude behavior toward instructor or classmates, unauthorized homework assistance, contacting TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
+Quizzes                     50%     1 per unit, 6 total. You may make up to 2 attempts at each and 3 attempts at any one quiz, with only the last attempt counting toward your unit grade
+Exercises                   50%     Approximately 2 per unit, 12 total. Expect roughly 1/3 of effort to be programming exercises, 2/3 will be written (i.e. proof-based). Your excercise score for each unit is determined by the average score on exercises associated with that unit.
+Professionalism Penalty    0--100%  Rude behavior toward instructor or classmates, unauthorized homework assistance, contacting TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
 
-Your final letter grade will then be assigned as follows:
+More precisely, your final letter grade will be determined by the following:
 
-You get  if you score  GPA value
--------- ------------- ---------
-A+       near the top  4.0
-A        ≥ 93%         4.0
-A−       ≥ 90%         3.7
-B+       ≥ 86%         3.3
-B        ≥ 83%         3.0
-B−       ≥ 80%         2.7
-C+       ≥ 76%         2.3
-C        ≥ 73%         2.0
-C−       ≥ 70%         1.7
-D+       ≥ 66%         1.3
-D        ≥ 63%         1.0
-D−       ≥ 60%         0.7
-F        otherwise     0.0
+You get (CR/GC/NC) if you score                           GPA value
+------- ---------- -------------------------------------  ---------
+A+      (CR)       near the top                            4.0
+A       (CR)       ≥ 85% on all units                      4.0
+A−      (CR)       ≥ 83% on all units                      3.7
+B+      (CR)       ≥ 83% average across units              3.3
+B       (CR)       ≥ 80% average across units              3.0
+B−      (CR)       ≥ 78% average across units              2.7
+C+      (CR)       ≥ 73% average across units              2.3
+C       (CR)       ≥ 68% average across units[^noCminus]   2.0
+D+      (GC)       ≥ 63% average across units              1.3
+D       (GC)       ≥ 60% average across units              1.0
+D−      (GC)       ≥ 58% average across units              0.7
+F       (NC)       otherwise                                0.0
+
+[^noCminus]: Since the CS department uses C- as the lower threshold for prerequisites, the university guidelines say that GC cannot be used to satisfy re-requisites, and C- being categorized as GC by the university, we feel the most fair thing to do is to remove the C- level from the grading scale entirely, instead rounding up all C- grades to a C.
+
 
 **Rounding:** By default, grades will not be rounded in this course.
 
-This numerical calculation is to be considered a **guideline** on your score in the course. Final letter grades may take other factors into account so that your grade is the most accurate reflection of your understanding of course materials. I expect that qualitative adjustments will only result in a student's grade increasing (though in extreme circumstances I reserve the right to decrease grades).
+This numerical calculation is to be considered a **guideline** on your score in the course. Final letter grades may take other factors into account so that your grade is the most accurate reflection of your understanding of course materials. We expect that qualitative adjustments will only result in a student's grade increasing.
+
+As a warning, since there is a discontinuity in grade calculation (i.e. we go from grades being determined by your lowest unit to your average across all units) it is possible for some of you to see small perturbations in your grading result in a change of up to 2 letter grades. We do not see this as being a likely scenario, but you find yourself in that situation, let us know so we can ensure you're assessed fairly.
+
+## Bonus Points
+
+Bonus points are the main way for you to earn a grade above the mathematical calculation above. These can be earned by excpetional participation in workshops, lecture, or office hours. They can also be earned by engagement with algorithms topics beyond the course expectation. To submit extra credit, please email both of Professors Brunelle and Wu.
+
 
 ## Deadlines
 
-Deadlines for all assignments are available on the [schedule page](schedule.html). In general, you will have "little" assignments due every Tuesday, Wednesday, and Thursday, "big" assignments due Monday, and a quiz every Friday.
+Deadlines for all assignments are available on the [schedule page](schedule.html).
 
-Due to the rapid pace of summer courses, late submissions of assignments will not be allowed by default. If you feel that extenuating circumstances justify late submission for any assignment, please request a deadline extension. You can do that on the same page where you would submit an assignment. There is no upper bound on the number of assignment extensions you may be granted, but please don't exploit this. 
+Late submissions of a problem will generally not be accepted. If you feel that extenuating circumstances justify late submission for any assignment, please request a deadline extension. You can do that on the same page where you would submit an assignment. There is no upper bound on the number of assignment extensions you may be granted, but past extensions may influence our decision on whether to grant future extensions. 
 
 ## Regrades
 
-We acknowledge that professors and TAs are people, and people make mistakes. For this reason, you are able to request regrades on assignments within 48 hours of your grade being returned.
+We acknowledge that professors and TAs are people, and people make mistakes. For this reason, you are able to request regrades on assignments within 5 days of your grade being returned.
 
-For **problem sets** (both **big** and **little**), please only submit a regrade request if you believe the rubric was misapplied to your submission. In your request, identify specifically what in your submission demonstrates the misapplication.
-
-The goal of **quizzes** is to help you to form a better conceptual understanding of course materials, and therefore we consider them primarily as an opportunity to identify and correct misconceptions. For this reason, you may submit one regrade request per quiz to revise your answers.
+Please only submit a regrade request if you believe the rubric was misapplied to your submission. In your request, identify specifically which rubric item was erroneously assessed, and where in your submission we can find the evidence of this.
 
 # Miscellanea
 
@@ -151,25 +180,25 @@ if you do something you regret, the sooner you tell me the sooner (and more leni
 
 ### No plagiarism (nor anything like it)
 
-**Quizzes**: You must complete quizzes entirely on your own, do not discuss the contents of a quiz with anyone outside the course staff prior to its deadline. You may use only officially-provided or personally-created materials when completing at-home quizzes. This means you may only use:
+**Quizzes**: You must complete quizzes entirely on your own, do not discuss the contents of a quiz with anyone outside the course staff prior to its deadline. You may use only officially-provided or personally-created materials when completing at-home assessments. This means you may only use:
 
 - The course textbook
 - Anything on the course webpage or linked to from the course webpage
-- Your personal notes (or those of a note-taker if you receive them as accommodation)
+- Your *personal* notes (or those of a note-taker if you receive them as official accommodation)
 - Lecture recordings
 
-**Problem Sets**: You may collaborate with up to 4 other people (i.e. a group of up to 5 total) when completing exercises. You may additionally use external materials with following restrictions:
+**Exercises**: You may collaborate with up to 4 other people (i.e. a group of up to 5 total) when completing exercises. You may additionally use external materials with following restrictions:
 
-- Your write-ups must be done entirely independently. You may take notes while meeting with your collaborators, but we expect that the answers you submit be expressed in your own words. 
+- Your write-ups must be done entirely independently. You may not reference the web or any artifacts from your collaborations when writing up your solution/code, and so we expect that the answers you submit be expressed in your own words/implementation. 
 - You must understand everything you submit. Do not submit anything you could not explain to a member of the course staff.
 - You **must** cite any and every source you consult beyond officially-provided materials (see list above). Included in your citation, you must identify which components of your submission came from each source (it will be understood that content with no citation is your own exclusive work). Your collaborators are considered to be sources, and so should be cited. An example citation might look like: "I collaborated with David Evans on the pdf style, I consulted \url{https://www.overleaf.com/learn/latex/Aligning\%20equations\%20with\%20amsmath} for help with the align environment, Robbie Hott helped me to debug the for loop on line 107 of my code."
-- Do not seek "hints" or entire solutions to the problems. Limit your searching to background information only.
+- Do not seek "hints" or entire solutions to the problems. Limit your searching to background information only. Don't use Chegg.
 
 
 ### Consequences of Dishonesty
 
-If I believe you have acted dishonestly, I will communicate this fact to you and propose a penalty.
-If you have information I lack, please share that with me; I may thereafter change my belief and/or proposed penalty.
+If we believe you have acted dishonestly, we will communicate this fact to you and propose a penalty.
+If you have information we lack, please share that with us; we may thereafter change our beliefs and/or proposed penalty.
 
 
 ## Personal accommodations
@@ -209,7 +238,7 @@ which means that I am required by University policy and federal law to report wh
 University’s Title IX Coordinator. The Title IX Coordinator’s job is to ensure that the reporting student
 receives the resources and support that they need, while also reviewing the information presented to
 determine whether further action is necessary to ensure survivor safety and the safety of the University
-community. If you would rather keep this information confidential, there are [Confidential Employees you can talk to on Grounds](http://www.virginia.edu/justreportit/confidential_resources.pdf). The worst possible
+community. If you would rather keep this information confidential, there are [Confidential Employees you can talk to on Grounds](https://eocr.virginia.edu/chart-confidential-resources). The worst possible
 situation would be for you or your friend to remain silent when there are so many here willing and able
 to help.
 
