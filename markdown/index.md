@@ -20,7 +20,7 @@ In summary, you don't need to be available at the time listed in SIS, but you wi
 
 # Am I able to take more than one course in a single summer session?
 
-There is no policy which prevents you from doing this, but I strongly discourage it. Consider this. A summer course meets for about 4 weeks. A typical semester lasts about 14 weeks. This means that a summer course is accelerated by almost 4 times a normal semester. If you are taking one 3 credit course over the summer, and that course is accelerated by 4 times, then the weekly workload and content coverage by that one course roughly matches that from *all* courses during a normal 12-credit hour semester. Taking two summer courses is like taking 24 credits during the spring/fall.
+There is no policy which prevents you from doing this, but I strongly discourage it. Consider this. A summer course meets for about 4 weeks. A typical semester lasts about 15 weeks. This means that a summer course is accelerated by almost 4 times a normal semester. If you are taking one 3 credit course over the summer, and that course is accelerated by 4 times, then the weekly workload and content coverage by that one course roughly matches that from *all* courses during a normal 12-credit hour semester. Taking two summer courses is like taking 24 credits during the spring/fall.
 
 
 # I heard that due to COVID, students can take a summer course for free. How's that work?
