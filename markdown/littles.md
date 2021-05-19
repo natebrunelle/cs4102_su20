@@ -26,7 +26,7 @@ Unless otherwise indicated, each problem set will be submitted as a pdf on the [
 
 ### Little 1a
 
-Due 11:59pm Tuesday June 16
+Due 11:59pm Tuesday May 25
 
 This assignment is intended for getting you acquainted with the course. There are two tasks for this assignment. 
 
