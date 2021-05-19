@@ -115,8 +115,9 @@ if [ cal.yaml -nt schedule.html ] \
 then
     echo "doing schedule"
     python3 cal2html.py
-    scp "assignments.json" "kytos:/var/www/html/cs4102/meta/"
-    scp "coursegrade.json" "kytos:/var/www/html/cs4102/meta/"
+    scp "*.json" "kytos:/var/www/html/cs4102/meta/"
+    #scp "assignments.json" "kytos:/var/www/html/cs4102/meta/"
+    #scp "coursegrade.json" "kytos:/var/www/html/cs4102/meta/"
 fi
 if [ schedule.html -nt markdown/schedule.md ]
 then
