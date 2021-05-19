@@ -30,8 +30,8 @@ Due 11:59pm Tuesday May 25
 
 This assignment is intended for getting you acquainted with the course. There are two tasks for this assignment. 
 
-1. **Beginning of course questionnaire**. Please complete this [google form](https://forms.gle/5fVBZLavoU1Zjy6p6). There is nothing else to submit for this task
-1. **Discrete Math and Data Structures review**. Please answer the questions on [this worksheet](files/littles/little1a_blank.pdf) ([tex source](files/littles/little1a_2020.zip)). Submit your answers as a pdf.
+1. **Beginning of course questionnaire**. Please complete this [google form](https://forms.gle/qV5XMy3GUd6rhsgc9).
+1. **Discrete Math and Data Structures review**. Please answer the questions on [this worksheet](files/littles/little1a_blank.pdf) ([tex source](files/littles/little1a.zip)). Submit your answers as a pdf.
 
 <!---
 ### Little 1b
