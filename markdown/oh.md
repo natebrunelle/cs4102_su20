@@ -7,13 +7,7 @@ We will be conducting instructor office hours via [Zoom](https://virginia.servic
 We will have scheduled office hours times. If you have questions outside of office hours, please use the [course piazza](https://piazza.com/class/k5e7rb8cjk23ml).
 
 
-**Professor offices hours** will be held via zoom. Simply join and hang out during office hours!
-<div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[Join Brunelle's Office Hours](https://virginia.zoom.us/j/2191769718)</div>
-
-<div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[Join Wu's Office Hours](https://virginia.zoom.us/j/97533277456?pwd=T1p6bERZRTFmQklZZktuWnVNTnNxUT09)</div>
-
-
-**TA office hours** Will be conducted over discord. Please read these rules carefully before attending your first office hours:
+**Office hours** Will be conducted over discord. Please read these rules carefully before attending your first office hours:
 
 1. This server is for instructional use of the TAs and help with Algorithms in Fall of 2020. Anything that is irrelevant to the class should not be talked about on this channel. Please make your username something that is identifiable as you personally (i.e. it should resemble your name).
 1. Once you join our server you will be able to connect to the "Student Discussion Room" voice channels. You can use these to chat about problems with other students. We're going to leave it up to the community to determine how to best use those.
