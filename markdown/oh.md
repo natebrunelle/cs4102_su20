@@ -2,9 +2,7 @@
 title: Office Hours
 ...
 
-We will be conducting instructor office hours via [Zoom](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=65496792dbce6384a6ddc19115961912). To get started, please create a Zoom account and install a zoom client.
-
-We will have scheduled office hours times. If you have questions outside of office hours, please use the [course piazza](https://piazza.com/class/k5e7rb8cjk23ml).
+We will have scheduled office hours times. If you have questions outside of office hours, please ask on discord.
 
 
 **Office hours** Will be conducted over discord. Please read these rules carefully before attending your first office hours:
