@@ -2,15 +2,16 @@
 title: Big Problem sets
 ...
 
-All "Big" problem sets will be posted here as they are released (at least 5 days before the deadline).
+All "Big" problem sets will be posted here as they are released (no later than 5pm on the Thursday before the deadline).
 
 # Instructions
 
-Big problem sets are due every Monday. These problems are typically more challenging, so I recommend you start them early. In my experience with solving tricky problems, it is more productive to work on them in short bursts, with breaks in between. To solve a hard problem, it's less about the number of hours you spend working on it than it is about the number of showers.
+Big problem sets (except for big 4) are due every Monday. These problems are typically more challenging, so I recommend you start them early. In my experience with solving tricky problems, it is more productive to work on them in short bursts, with breaks in between. To solve a hard problem, it's less about the number of hours you spend working on it than it is about the number of showers.
 
 # Policies
 
-You may collaborate with up to 4 other people (i.e. a group of up to 5 total) when completing exercises. You may additionally use external materials with following restrictions:
+If you opted into working with a cohort, your entire cohort may submit a single collaborative writeup. If you are not working in a cohort, you may collaborate with up to 5 other people (i.e. a group of up to 6 total) when completing exercises, but your collaboration must be [Whiteboard Only](/syllabus.html) You may additionally use external materials with following restrictions:
+
 
 - Your write-ups must be done entirely independently. You may take notes while meeting with your collaborators, but we expect that the answers you submit be expressed in your own words. 
 - You must understand everything you submit. Do not submit anything you could not explain to a member of the course staff.
@@ -19,24 +20,16 @@ You may collaborate with up to 4 other people (i.e. a group of up to 5 total) wh
 
 # Deliverables
 
-Unless otherwise indicated, each problem set will be submitted as either a pdf on the [Assignments page](https://www.kytos.cs.virginia.edu/cs4102), or as a python or java file as appropriate.
+Unless otherwise indicated, each problem set will be submitted as a pdf on the [Assignments page](https://www.kytos.cs.virginia.edu/cs4102). We do not have a preference for how the pdfs are generated (LaTeX, Microsoft Word, pictures of handwriting are all acceptable) so long as what is submitted is legible, and you use the appropriate mathematical symbols when necessary (please use the equation editor if you're using Word).
 
-# Exercises
+# Problem Sets
 
-## Divide and Conquer
+## Big 1
 
+Due 11:59pm Monday May 31.
 
-
-## Hashing and Sorting
-
-
-
-## Dynamic Programming
+This assignment is intended to give you experience with the design and analysis of divide-and-conquer algorithms. The problems will derive from content learned during the first week of lecture.
 
 
 
-## Greedy
 
-## Graphs
-
-## Reductions and NP-Completeness
