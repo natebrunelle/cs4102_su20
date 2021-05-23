@@ -2,7 +2,7 @@
 title: cs4102
 ...
 
-<div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[Join Lecture (Weekdays at 10:30am)]( https://virginia.zoom.us/j/95450131346)</div>
+<div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[Lecture Link in Collab (Weekdays at 10:30am)](collab.its.virginia.edu)</div>
 
 # Course Overview 
 
