@@ -32,6 +32,7 @@ This assignment is intended for getting you acquainted with the course. There ar
 
 1. **Beginning of course questionnaire**. Please complete this [google form](https://forms.gle/qV5XMy3GUd6rhsgc9).
 1. **Discrete Math and Data Structures review**. Please answer the questions on [this worksheet](files/littles/little1a_blank.pdf) ([tex source](files/littles/little1a.zip)). Submit your answers as a pdf.
+1. **Cohort Availability** (Optional). If you would like to work with a cohort, please commplete this [google form](https://forms.gle/s71Wsqy9roXmR9W97) to provide your availability.
 
 <!---
 ### Little 1b
