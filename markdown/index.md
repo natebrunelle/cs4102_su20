@@ -92,11 +92,11 @@ As I'm sure you're aware, there are challenges presented by the online course fo
 
 Course structures:
 
-1. **Lecture**: will be hosted live online via zoom. Recordings will be posted after (sometimes it takes zoom a few hours to master the video). Due to instances of "zoom bombing", you will need a password to join (find it on piazza)
+1. **Lecture**: will be hosted live online via zoom. Recordings will be posted after (sometimes it takes zoom a few hours to master the video). Due to instances of "zoom bombing", you will need to follow the link in collab (See "Online Meetings").
 1. **Cohorts**: you are invited to participate in a cohort if you choose. These will be groups of approximately 6 students total who will work together on many of the tasks throughout the session (rules and restrictions on the collaboration depend on the type of task).
 1. **Discord**: We will be using Discord for all course communication (announcements, office hours, memes, intra-cohort messaging, etc.). We highly encourage you to post questions or resources that you think could benefit your peers. This is also the best place to post questions outside of office hours.
 1. **Office Hours**: There will be instructor and TA office hours on all class days (at least) hosted via Discord. These will be open chat rooms for you to discuss with course staff and classmates.
-1. **Online submissions**: Problem set solutions must be submitted by pdf. Quizzes may be submitted as either a pdf or a txt file. We do not have a preference for how the pdfs are generated (LaTeX, Microsoft Word, pictures of handwriting are all acceptable) so long as what is submitted is legible, easy to follow, and you use the appropriate mathematical symbols when necessary (please use the equation editor if you're using Word). Please draft you submissions with readability in mind, submissions that appear as notes may not be accepted.
+1. **Kytos submission System**: We will use a [custom-built submittions system](https://kytos.cs.virginia.edu/cs4102) for all assignment submission and grading. Problem set solutions must be submitted by pdf. Quizzes may be submitted as either a pdf or a txt file. We do not have a preference for how the pdfs are generated (LaTeX, Microsoft Word, pictures of handwriting are all acceptable) so long as what is submitted is legible, easy to follow, and you use the appropriate mathematical symbols when necessary (please use the equation editor if you're using Word). Please draft you submissions with readability in mind, submissions that appear as notes or are otherwise difficult to comprehend may not be accepted.
 
 
 Some suggestions:

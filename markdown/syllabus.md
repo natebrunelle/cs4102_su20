@@ -6,7 +6,7 @@ title: Syllabus
 
 ## Meetings
 
-Live zoom lectures will be held Monday, Tuesday, Wednesday, Thursday, Friday, and some Saturdays (June 5 and June 12)  10:30am–12:45PM
+Live zoom lectures will be held Monday, Tuesday, Wednesday, Thursday, Friday, and some Saturdays (June 5 and June 12)  10:30am–12:45PM. You can find a link to our zoom room in collab.
 
 Lecture attendance is optional, but strongly encouraged. In the event you are unable to attend a lecture, recordings of lectures are provided on the [schedule page](schedule.html).
 
@@ -17,12 +17,12 @@ Lecture attendance is optional, but strongly encouraged. In the event you are un
 |--------|------------|-----|
 | Name | Nathan Brunelle | TBA |
 | Location | Rice 209 | TBA |
-| Office Hours | TBD | TBA |
+| Office Hours | 9am on all class days | TBA |
 | Phone | 243-3845 | (none) |
-| Email | <a href="mailto:njb2b@virginia.edu?subject=DMT1">njb2b@virginia.edu</a> | use Discord |
+| Email | <a href="mailto:njb2b@virginia.edu?subject=algorithms">njb2b@virginia.edu</a> | use Discord |
 
 For communication about course content, Discord is preferred to email.
-For communication about personal circumstances, email or in-person visits are preferred.
+For communication about personal circumstances, email or Discord DMs are preferred.
 If you email, include either "algorithms" or "4102" in the subject line to prevent your email from skipping my inbox and never getting read.
 
 Our TAs are students too, with duties and work outside of their TAing. Please do not ask them to act as your TA except at the scheduled on-the-clock times they have listed as their office hours. They are also kind people; please don't put them in the position of having to say no or (worse) being nice to you at the expense of their own schooling.

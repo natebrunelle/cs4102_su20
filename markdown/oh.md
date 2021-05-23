@@ -15,7 +15,7 @@ We will have scheduled office hours times. If you have questions outside of offi
 1. We will be using the `Closed OH` channels for individual office hours discussion. Once you've added yourself to the queue, please join the `waiting room` voice channel. A TA will move you into a `Closed OH` room when it's your turn on the queue. While in the waiting room, we encourage you to meet your fellow students!
 1. The `Open OH` channels are for group discussions. Feel free to join those at any time (even if you haven't added yourself to the queue).
 1. The `#tech-support` channel is intended for questions relating to course structures, e.g. "Where do I go to submit homework" or "The course webpage is down", etc.
-1. This Discord server is replacing face to face Office Hours and Piazza. If you have a question that you would put into text and get a text response, please ask it in the most relevant text channel. After this, either a fellow student or course staff will answer!
+1. This Discord server is serving as replacement for face to face Office Hours and Piazza. If you have a question that you would put into text and get a text response, please ask it in the most relevant text channel. After this, either a fellow student or course staff will answer!
 
 
 TAs will be helping you off the queue at the following times:
