@@ -113,7 +113,7 @@ readings can be <input type="button" value="shown" onclick="document.querySelect
 
 <script src="schedule.js"></script>
 
-To subscribe to the above calendar, add <http://www.cs.virginia.edu/~njb2b/cstheory/s2020/cal.ics> to your calender application of choice.
+To subscribe to the above calendar, add <http://www.cs.virginia.edu/~njb2b/cs4102/su21/cal.ics> to your calender application of choice.
 
 <hr/>
 
