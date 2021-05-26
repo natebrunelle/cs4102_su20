@@ -43,15 +43,16 @@ This assignment will help you to become acquainted with the kinds of arguments w
 
 Please answer the questions on [this worksheet](files/littles/little1b_blank.pdf) ([tex source](files/littles/little1b.zip)). Submit your answers as a pdf.
 
-<!---
+
 ### Little 1c
 
-Due 11:59pm Thursday June 18
+Due 11:59pm Thursday June May 27
 
-This assignment asks you to solve some recurrence relations and to design an analyze a divide-and-conquer algorithms.
+This assignment asks you to solve some recurrence relations and to design and analyze a divide-and-conquer algorithms.
 
-Please answer the questions on [this worksheet](files/littles/little1c_blank.pdf) ([tex source](files/littles/little1c_2020.zip)). Submit your answers as a pdf.
+Please answer the questions on [this worksheet](files/littles/little1c_blank.pdf) ([tex source](files/littles/little1c.zip)). Submit your answers as a pdf.
 
+<!---
 ## Week 2
 
 ### Little 2a
