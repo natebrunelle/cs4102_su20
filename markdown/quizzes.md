@@ -34,3 +34,5 @@ Quizzes may be submitted as a pdf file or a text file.
 Due at 11:59pm on Friday May 28.
 
 This quiz covers divide and conquer and solving recurrence relations.
+
+Please answer the questions in [this worksheet](files/quizzes/quiz1_blank.pdf)([tex source](files/quizzes/quiz1.zip)). Submit your answers as a pdf or as a txt file.
