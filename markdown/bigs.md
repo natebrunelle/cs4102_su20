@@ -30,6 +30,9 @@ Due 11:59pm Monday May 31.
 
 This assignment is intended to give you experience with the design and analysis of divide-and-conquer algorithms. The problems will derive from content learned during the first week of lecture.
 
+Please answer the questions on [this worksheet](files/bigs/big1_blank.pdf) ([tex source](files/bigs/big1.zip)). Submit your answers as a pdf.
+
+
 
 
 
