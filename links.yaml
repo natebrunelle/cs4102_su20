@@ -14,13 +14,10 @@
     recurrence math: files/recurrence_math.pdf
     video: https://virginia.zoom.us/rec/share/IpdAK9upk7HDTuR390uzYIXca0Sx33Xc58G9XpDRtZj83KiXTMp5q4x_mjxH7aM8.uzCpfFWF7PYpyl3B?startTime=1622039492000
     
-2020-09-03:
-    lecture slides (pptx): files/slides/lecture4_karatsuba.pptx
-    lecture slides (pdf): files/slides/lecture4_karatsuba.pdf
-    lecture recording: https://virginia.zoom.us/rec/share/AmpqgbgYsOB-Ugr5LYHOKTR3JkW5jMuxVwM6NIn91CwWoRG6lwUuYN5HUGk9U-Uq.MzT8QDnLDlDdNPWh?startTime=1599156075000
-    reurrence math: files/recurrence_math.pdf
-    workshop slides(pdf): https://www.cs.virginia.edu/dwu4/courses/fa20/W4.pdf
-    workshop recording: https://virginia.zoom.us/rec/share/AmpqgbgYsOB-Ugr5LYHOKTR3JkW5jMuxVwM6NIn91CwWoRG6lwUuYN5HUGk9U-Uq.MzT8QDnLDlDdNPWh?startTime=1599150681000
+2021-05-27:
+    slides (pptx): files/slides/lecture4_master_closestpair.pptx
+    lecture slides (pdf): files/slides/lecture4_master_closestpair.pdf
+    recurrence math: files/recurrence_math.pdf
 
 2020-09-08:
     workshop slides(pdf): files/slides/workshop4_max_sum_subarray.pdf
