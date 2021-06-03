@@ -71,15 +71,15 @@ This assignment is intended to give you experience with decision trees.
 
 Please answer the questions on [this worksheet](files/littles/little2b_blank.pdf) ([tex source](files/littles/little2b.zip)). Submit your answers as a pdf.
 
-<!---
 ### Little 2c
 
-Due 11:59pm Friday June 26
+Due 11:59pm Friday June 4
 
-This assignment is intended to give you acquainted with dynamic programming algorithms.
+This assignment is intended to show you use cases for linear time sorting algorithms.
 
-Please answer the questions on [this worksheet](files/littles/little2c_blank.pdf) ([tex source](files/littles/little2c_2020.zip)). Submit your answers as a pdf.
+Please answer the questions on [this worksheet](files/littles/little2c_blank.pdf) ([tex source](files/littles/little2c.zip)). Submit your answers as a pdf.
 
+<!---
 ## Week 3
 
 ### Little 3a
