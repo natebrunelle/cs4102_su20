@@ -32,7 +32,13 @@ This assignment is intended to give you experience with the design and analysis 
 
 Please answer the questions on [this worksheet](files/bigs/big1_blank.pdf) ([tex source](files/bigs/big1.zip)). Submit your answers as a pdf.
 
+## Big 2
 
+Due 11:59pm Monday June 7.
+
+This assignment is intended to give you experience with the design and analysis of dynamic programming algorithms. The problems will derive from content learned during the lectures given on June 3, June 4, and June 5.
+
+Please answer the questions on [this worksheet](files/bigs/big2_blank.pdf) ([tex source](files/bigs/big2.zip)). Submit your answers as a pdf.
 
 
 
