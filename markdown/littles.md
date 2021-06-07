@@ -84,7 +84,7 @@ Please answer the questions on [this worksheet](files/littles/little2c_blank.pdf
 
 ### Little 3a
 
-Due 11:59pm Wednesday July 1
+Due 11:59pm Tuesday June 8
 
 This assignment is intended to be an exercise in the design of dynamic programming algorithms, including where they can work when greedy cannot.
 
