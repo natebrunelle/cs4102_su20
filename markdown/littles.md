@@ -79,17 +79,18 @@ This assignment is intended to show you use cases for linear time sorting algori
 
 Please answer the questions on [this worksheet](files/littles/little2c_blank.pdf) ([tex source](files/littles/little2c.zip)). Submit your answers as a pdf.
 
-<!---
+
 ## Week 3
 
 ### Little 3a
 
 Due 11:59pm Wednesday July 1
 
-This assignment is intended to be an exercise in the design of dynamic programming algorithms.
+This assignment is intended to be an exercise in the design of dynamic programming algorithms, including where they can work when greedy cannot.
 
 Please answer the questions on [this worksheet](files/littles/little3a_blank.pdf) ([tex source](files/littles/little3a_2020.zip)). Submit your answers as a pdf.
 
+<!---
 ### Little 3b
 
 Due 11:59pm Thursday July 2
