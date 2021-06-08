@@ -90,15 +90,16 @@ This assignment is intended to be an exercise in the design of dynamic programmi
 
 Please answer the questions on [this worksheet](files/littles/little3a_blank.pdf) ([tex source](files/littles/little3a.zip)). Submit your answers as a pdf.
 
-<!---
+
 ### Little 3b
 
-Due 11:59pm Thursday July 2
+Due 11:59pm Wednesday June 9
 
-This assignment is intended to be an exercise in the design of dynamic programming algorithms.
+This assignment is intended to be an introduction in the design and justification of greedy algorithms.
 
-Please answer the questions on [this worksheet](files/littles/little3b_blank.pdf) ([tex source](files/littles/little3b_2020.zip)). Submit your answers as a pdf.
+Please answer the questions on [this worksheet](files/littles/little3b_blank.pdf) ([tex source](files/littles/little3b.zip)). Submit your answers as a pdf.
 
+<!---
 ### Little 3c
 
 Due 11:59pm Monday July 6
