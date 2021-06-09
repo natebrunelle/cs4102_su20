@@ -44,3 +44,11 @@ Due at 11:59pm on Monday June 7.
 This quiz covers properties of various sorting algorithms.
 
 Please answer the questions in [this worksheet](files/quizzes/quiz2_blank.pdf)([tex source](files/quizzes/quiz2.zip)). Submit your answers as a pdf or as a txt file.
+
+## Quiz 3
+
+Due at 11:59pm on Friday June 11.
+
+This quiz covers greedy algorithms and dynamic programming.
+
+Please answer the questions in [this worksheet](files/quizzes/quiz3_blank.pdf)([tex source](files/quizzes/quiz3.zip)). Submit your answers as a pdf or as a txt file.
