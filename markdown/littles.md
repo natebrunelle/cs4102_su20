@@ -122,6 +122,6 @@ Please answer the questions on [this worksheet](files/littles/little4a_blank.pdf
 
 Due 11:59pm Wednesday June 16
 
-This assignment is intended to give you experience with reductions and maxflow.
+This assignment is intended to give you experience with maxflow.
 
 Please answer the questions on [this worksheet](files/littles/little4b_blank.pdf) ([tex source](files/littles/little4b.zip)). Submit your answers as a pdf.
