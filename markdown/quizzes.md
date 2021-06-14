@@ -52,3 +52,11 @@ Due at 11:59pm on Friday June 11.
 This quiz covers greedy algorithms and dynamic programming.
 
 Please answer the questions in [this worksheet](files/quizzes/quiz3_blank.pdf)([tex source](files/quizzes/quiz3.zip)). Submit your answers as a pdf or as a txt file.
+
+## Quiz 4
+
+Due at 11:59pm on Wednesday June 16.
+
+This quiz covers reductions and NP-Completeness.
+
+Please answer the questions in [this worksheet](files/quizzes/quiz4_blank.pdf)([tex source](files/quizzes/quiz4.zip)). Submit your answers as a pdf or as a txt file.
