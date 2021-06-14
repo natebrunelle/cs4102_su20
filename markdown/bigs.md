@@ -48,3 +48,11 @@ Due 11:59pm Monday June 14.
 This assignment is intended to give you experience with the design and analysis of greedy algorithms. The problems will derive from content learned during the lectures given on June 7, June 8, June 9, and June 10.
 
 Please answer the questions on [this worksheet](files/bigs/big3_blank.pdf) ([tex source](files/bigs/big3.zip)). Submit your answers as a pdf.
+
+## Big 3
+
+Due 11:59pm Thursday June 17.
+
+This assignment is intended to give you experience with the design and analysis of algorithms using reductions, the use of reductions for giving worst-case lower bounds, and NP-Completeness. 
+
+Please answer the questions on [this worksheet](files/bigs/big4_blank.pdf) ([tex source](files/bigs/big4.zip)). Submit your answers as a pdf.
