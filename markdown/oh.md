@@ -18,7 +18,7 @@ title: Office Hours
 1. This Discord server is serving as replacement for face to face Office Hours and Piazza. If you have a question that you would put into text and get a text response, please ask it in the most relevant text channel. After this, either a fellow student or course staff will answer!-->
 
 
-TAs will be helping you at the following times:
+Course staff will be helping you at the following times:
 
 <iframe src="https://calendar.google.com/calendar/embed?src=do3p214dhtddi97rgiok5p6ha4%40group.calendar.google.com&ctz=America%2FNew_York&mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
