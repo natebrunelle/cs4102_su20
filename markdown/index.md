@@ -64,7 +64,7 @@ For each of the Discrete Math topics, the [Fall 2019 lectures](http://www.cs.vir
 
 # What to expect
 
-## In this course
+## In an algorithms course
 
 In the opinion of this instructor, an algorithms course should serve to:
 
@@ -85,5 +85,11 @@ A typical spring/fall semester at UVA is ~15 weeks long (including exams), where
 As a warning, with this 4x acceleration, it can be very difficult to catch up if you fall behind. Each lecture session this summer is 135 minutes. During a normal semester you have 150 minutes of instruction per week. This means that each summer lecture contains nearly a week's worth of content. Keep this in mind if you need to take a day off due to illness, etc.
 
 Now that I've sufficiently warned you, please take comfort that I have done my best in trying to make this course workable with a summer schedule. The structures have been designed based on extensive student feedback. The most successful students tend to approach this course like a full-time job, establishing a regular work schedule of 8-9 hours of work per day (amortized).
+
+# Can I take this course online?
+
+Officially, no. Unless specifically designated as an online course, all UVA courses are in-person. That being said, I will do my best to produce and share recordings of the in-person lectures, and will never take attendance. Assignments will be posted, submitted, and graded online. We will not have any graded in-class activities (including exams). However, office hours will be largely (if not exclusively, I still need to discuss with the TAs) in person. Additionally, most homework assignments are open for collaboration, which will be harder to do virtually. 
+
+In summary, it's hypothetically possible to participate exclusively virtually and succeed in the course, but I'm assuming that all students can appear in-person, and so you'll have a better experience if you are physically present.
 
 
