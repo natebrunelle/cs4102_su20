@@ -26,7 +26,7 @@ Unless otherwise indicated, each problem set will be submitted as a pdf on the [
 
 ### Little 1a
 
-Due 11:59pm Tuesday June 22
+Due 11:59pm Wednesday June 22
 
 This assignment is intended for getting you acquainted with the course. There are two tasks for this assignment. 
 
@@ -37,75 +37,66 @@ This assignment is intended for getting you acquainted with the course. There ar
 
 ### Little 1b
 
-Due 11:59pm Wednesday May 26
+Due 11:59pm Thursday June 23
 
 This assignment will help you to become acquainted with the kinds of arguments we'll need to make when evaluating divide-and-conquer algorithms. It includes an exercise in determining the recursion depth of such algorithms, and how to make arguments to demonstrate asymptotic complexities.
-
-Please answer the questions on [this worksheet](files/littles/little1b_blank.pdf) ([tex source](files/littles/little1b.zip)). Submit your answers as a pdf.
 
 
 ### Little 1c
 
-Due 11:59pm Thursday June May 27
+Due 11:59pm Friday June 24
 
 This assignment asks you to solve some recurrence relations and to design and analyze a divide-and-conquer algorithms.
 
-Please answer the questions on [this worksheet](files/littles/little1c_blank.pdf) ([tex source](files/littles/little1c.zip)). Submit your answers as a pdf.
 
 ## Week 2
 
 ### Little 2a
 
-Due 11:59pm Wednesday June 2
+Due 11:59pm Tuesday June 28
 
 This assignment is intended to help you to apply lessons learned in our discussion of Quicksort.
 
-Please answer the questions on [this worksheet](files/littles/little2a_blank.pdf) ([tex source](files/littles/little2a.zip)). Submit your answers as a pdf.
 
 
 ### Little 2b
 
-Due 11:59pm Thursday June 3
+Due 11:59pm Wednesday June 29
 
 This assignment is intended to give you experience with decision trees.
 
-Please answer the questions on [this worksheet](files/littles/little2b_blank.pdf) ([tex source](files/littles/little2b.zip)). Submit your answers as a pdf.
 
 ### Little 2c
 
-Due 11:59pm Friday June 4
+Due 11:59pm Thursday June 30
 
 This assignment is intended to show you use cases for linear time sorting algorithms.
 
-Please answer the questions on [this worksheet](files/littles/little2c_blank.pdf) ([tex source](files/littles/little2c.zip)). Submit your answers as a pdf.
 
 
 ## Week 3
 
 ### Little 3a
 
-Due 11:59pm Tuesday June 8
+Due 11:59pm Wednesday July 6
 
 This assignment is intended to be an exercise in the design of dynamic programming algorithms, including where they can work when greedy cannot.
 
-Please answer the questions on [this worksheet](files/littles/little3a_blank.pdf) ([tex source](files/littles/little3a.zip)). Submit your answers as a pdf.
 
 
 ### Little 3b
 
-Due 11:59pm Wednesday June 9
+Due 11:59pm Thursday July 7
 
 This assignment is intended to be an introduction in the design and justification of greedy algorithms.
 
-Please answer the questions on [this worksheet](files/littles/little3b_blank.pdf) ([tex source](files/littles/little3b.zip)). Submit your answers as a pdf.
 
 ### Little 3c
 
-Due 11:59pm Thursday June 10
+Due 11:59pm Friday July 8
 
 This assignment is intended to be an exercise in designing and proving the correctness of greedy algorithms.
 
-Please answer the questions on [this worksheet](files/littles/little3c_blank.pdf) ([tex source](files/littles/little3c.zip)). Submit your answers as a pdf.
 
 
 ## Week 4
@@ -116,7 +107,6 @@ Due 11:59pm Tuesday June 15
 
 This assignment is intended to stretch your understanding of shortest path algorithms and minimum spanning trees.
 
-Please answer the questions on [this worksheet](files/littles/little4a_blank.pdf) ([tex source](files/littles/little4a.zip)). Submit your answers as a pdf.
 
 ### Little 4b
 
@@ -124,4 +114,4 @@ Due 11:59pm Wednesday June 16
 
 This assignment is intended to give you experience with maxflow.
 
-Please answer the questions on [this worksheet](files/littles/little4b_blank.pdf) ([tex source](files/littles/little4b.zip)). Submit your answers as a pdf.
+

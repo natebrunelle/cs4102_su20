@@ -26,33 +26,31 @@ Unless otherwise indicated, each problem set will be submitted as a pdf on the [
 
 ## Big 1
 
-Due 11:59pm Monday May 31.
+Due 11:59pm Monday June 27.
 
-This assignment is intended to give you experience with the design and analysis of divide-and-conquer algorithms. The problems will derive from content learned during the first week of lecture.
+This assignment is intended to give you experience with the design and analysis of divide-and-conquer algorithms. The problems will derive from content learned during the first week of lecture (June 21, June 22, June 23, June 24, and June 25).
 
-Please answer the questions on [this worksheet](files/bigs/big1_blank.pdf) ([tex source](files/bigs/big1.zip)). Submit your answers as a pdf.
 
 ## Big 2
 
-Due 11:59pm Monday June 7.
+Due 11:59pm Tuesday July 5.
 
-This assignment is intended to give you experience with the design and analysis of dynamic programming algorithms. The problems will derive from content learned during the lectures given on June 3, June 4, and June 5.
-
-Please answer the questions on [this worksheet](files/bigs/big2_blank.pdf) ([tex source](files/bigs/big2.zip)). Submit your answers as a pdf.
+This assignment is intended to give you experience with the design and analysis of dynamic programming algorithms. The problems will derive from content learned during the lectures given on June 29, June 30, and July 1.
 
 
-## Big 3
-
-Due 11:59pm Monday June 14.
-
-This assignment is intended to give you experience with the design and analysis of greedy algorithms. The problems will derive from content learned during the lectures given on June 7, June 8, June 9, and June 10.
-
-Please answer the questions on [this worksheet](files/bigs/big3_blank.pdf) ([tex source](files/bigs/big3.zip)). Submit your answers as a pdf.
 
 ## Big 3
 
-Due 11:59pm Thursday June 17.
+Due 11:59pm Tuesday July 12.
 
-This assignment is intended to give you experience with the design and analysis of algorithms using reductions, the use of reductions for giving worst-case lower bounds, and NP-Completeness. 
+This assignment is intended to give you experience with the design and analysis of greedy algorithms. The problems will derive from content learned during the lectures given on July 5, July 6, July 7, and July 8.
 
-Please answer the questions on [this worksheet](files/bigs/big4_blank.pdf) ([tex source](files/bigs/big4.zip)). Submit your answers as a pdf.
+
+## Big 4
+
+Due 11:59pm Saturday July 16 (in lieue of a final exam).
+
+This assignment is intended to give you experience with the design and analysis of algorithms using reductions, the use of reductions for giving worst-case lower bounds, and NP-Completeness. The problems will primarily derive from content learned during the lectures given on July 11, July 12, July 13, and July 14, however due to the fact that reductions leverage algorithms that you already know, this problem set is best considered to be cumulative over the entire semester.
+
+
+

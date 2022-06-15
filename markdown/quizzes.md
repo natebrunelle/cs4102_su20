@@ -31,32 +31,30 @@ Quizzes may be submitted as a pdf file or a text file.
 
 ## Quiz 1
 
-Due at 11:59pm on Friday May 28.
+Due at 11:59pm on Saturday June 25.
 
 This quiz covers divide and conquer and solving recurrence relations.
 
-Please answer the questions in [this worksheet](files/quizzes/quiz1_blank.pdf)([tex source](files/quizzes/quiz1.zip)). Submit your answers as a pdf or as a txt file.
+
 
 ## Quiz 2
 
-Due at 11:59pm on Monday June 7.
+Due at 11:59pm on Friday July 1.
 
 This quiz covers properties of various sorting algorithms.
 
-Please answer the questions in [this worksheet](files/quizzes/quiz2_blank.pdf)([tex source](files/quizzes/quiz2.zip)). Submit your answers as a pdf or as a txt file.
 
 ## Quiz 3
 
-Due at 11:59pm on Friday June 11.
+Due at 11:59pm on Monday July 11.
 
 This quiz covers greedy algorithms and dynamic programming.
 
-Please answer the questions in [this worksheet](files/quizzes/quiz3_blank.pdf)([tex source](files/quizzes/quiz3.zip)). Submit your answers as a pdf or as a txt file.
 
 ## Quiz 4
 
-Due at 11:59pm on Wednesday June 16.
+Due at 11:59pm on Friday July 15.
 
 This quiz covers reductions and NP-Completeness.
 
-Please answer the questions in [this worksheet](files/quizzes/quiz4_blank.pdf)([tex source](files/quizzes/quiz4.zip)). Submit your answers as a pdf or as a txt file.
+
