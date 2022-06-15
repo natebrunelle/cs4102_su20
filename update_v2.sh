@@ -5,9 +5,9 @@ date >> hook.log
 here="$(dirname "$(readlink -m "$0")")/"
 self="$(readlink -m "$0")"
 cd "$here"
-target="/var/www/html/cs2102-s2021/website/"
-remote="portal.cs.virginia.edu:/u/lat7h/public_html/2102/S2021/"
-gsite="-Jportal.cs.virginia.edu kytos:dm/"
+target="/var/www/html/cs4102/website/"
+remote="portal.cs.virginia.edu:/u/njb2b/public_html/cs4102/su22/"
+gsite="/var/www/html/cs4102/"
 
 if ls ~/.local/pandoc*/bin/pandoc
 then pd="$(ls  ~/.local/pandoc*/bin/pandoc | tail -1)"
