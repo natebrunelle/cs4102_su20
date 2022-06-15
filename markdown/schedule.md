@@ -1,10 +1,7 @@
 ---
-title: Summer 2021 Schedule
+title: Summer 2022 Schedule
 ...
 
-<div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[Lecture Link in Collab (Weekdays at 10:30am)](https://collab.its.virginia.edu)</div>
-
-For Summer 2021, the Midpoint represents both the drop deadline as well as the grading mode decision deadline (Credit/No-Credit vs. Graded).
 
 <hr/>
 
