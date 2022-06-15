@@ -6,9 +6,9 @@ title: Syllabus
 
 ## Meetings
 
-Live zoom lectures will be held Monday, Tuesday, Wednesday, Thursday, Friday, and some Saturdays (June 5 and June 12)  10:30am–12:45PM. You can find a link to our zoom room in collab.
+Live zoom lectures will be held Monday, Tuesday, Wednesday, Thursday, Friday, and Saturday June 25 10:30am–12:45PM.
 
-Lecture attendance is optional, but strongly encouraged. In the event you are unable to attend a lecture, recordings of lectures are provided on the [schedule page](schedule.html).
+Lecture attendance is optional, but strongly encouraged. In the event you are unable to attend a lecture, recordings of lectures are automatically posted to Collab and I will additionally link to them on the [schedule page](schedule.html).
 
 
 ## Contact
@@ -42,25 +42,20 @@ Readings corresponding to each lecture will be posted on the course schedule.
 
 I do my best to make lectures as valuable, engaging, and enlightening as possible for all
 students. For a schedule of lecture topics, please see the [course webpage](schedule.html).
-Although we believe nearly all students will benefit from attending all classes, we also respect that as
-mature (ideally) college students, you are entrusted to figure out how best to learn and
-make use of your time here. Hence, I will not assess attendance or impose any penalties for missing
-class. 
-I will make a best effort to post all lecture materials (recordings, slides documents, etc.) on the course
-webpage, including video recordings of lectures. Be advised that there are occasional technical difficulties which sometimes cause the recordings to fail, and even when they do succeed these recordings are not an adequate substitute for
-attending class live.
+Although we believe nearly all students will benefit from attending all classes, we also respect that as mature (ideally) college students, you are entrusted to figure out how best to learn and make use of your time here. Hence, I will not assess attendance or impose any penalties for missing
+class. I will make a best effort to post all lecture materials (recordings, slides documents, etc.) on the course webpage, including video recordings of lectures. Be advised that there are occasional technical difficulties which sometimes cause the recordings to fail, and even when they do succeed these recordings may not be an adequate substitute for attending class live.
 
 
 
 ## Tasks {#tasks}
 
-You will be expected to read instructional material and either understand it or ask questions to clarify what you found confusing. We strongly recommend forming study groups that meet at least weekly all semester long to discuss readings, as even if they appear simple at first they will often contain nuances that will only emerge with conversions.
+You will be expected to read instructional material and either understand it or ask questions to clarify what you found confusing. We strongly recommend forming study groups that meet daily to discuss readings, as even if they appear simple at first they will often contain nuances that will only emerge with conversions.
 
 You will be asked to perform three kinds of evaluations:
 
 - **Quizzes**: Open-resource assessments of your understanding of broad course topics. These are intended to verify that you develop and maintain an intuitive understanding of the course concepts. These must be completed independently.
-- **Little Problem Sets**: Problems for you to solve. These may require that your design novel algorithms or compose formal mathematical arguments. These are to provide opportunities for you to develop working familiarity with course concepts. "Whiteboard-only" collaboration with a small work group of up to 6 people (yourself plus 5) is encouraged. These problem sets are short, and the tasks are more "bit-sized" in that they're expected to be completable in 1-2 sittings.
-- **Big Problem Sets**: Problems for you to solve. These may require that your design novel algorithms or compose formal mathematical arguments. These are to provide opportunities for you exercise and hone your skills with course concepts. If you choose to belong to a cohort, you may construct one collaborative submission for your entire cohort if you wish. If you are not in a cohort, "whiteboard-only" collaboration with a small work group of up to 6 people (yourself plus 5) is encouraged.  These problem sets are longer, and the tasks typically require deeper insight than those on the little problem sets. You are given longer to do them mostly to allow you time for more sittings. I suggest working on the problems in frequent 1-2 hours sessions, rather than trying to "cram" a solution.
+- **Little Problem Sets**: Problems for you to solve. These may require that you design novel algorithms or compose formal mathematical arguments. These are designed to provide opportunities for you to develop working familiarity with course concepts. "Whiteboard-only" collaboration with a small work group of up to 6 people (yourself plus 5) is encouraged. These problem sets are short, and the tasks are more "bite-sized" in that they're expected to be completable in 1-2 sittings.
+- **Big Problem Sets**: Problems for you to solve. These may require that you design novel algorithms or compose formal mathematical arguments. These are meant to provide opportunities for you exercise and hone your skills with course concepts. If you choose to belong to a cohort, you will construct one collaborative submission for your entire cohort. If you are not in a cohort, "Whiteboard-only" collaboration with a small work group of up to 6 people (yourself plus 5) is encouraged.  These problem sets are longer, and the tasks typically require deeper insight than those on the little problem sets. You are given longer to do them mostly to allow you time for more sittings. I suggest working on the problems in multiple 1-2 hours sessions, rather than trying to "cram" a solution.
 
 
 
@@ -85,9 +80,9 @@ We will consider the grade assigned by the following point-based breakdown to be
 
 Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
+Little Problem sets         50%     There will be 11 total, each worth 5% of your grade with the lowest being dropped
+Big Problem sets            40%     There will be 4 total, each worth 10% of your grade
 Quizzes                     10%     Due each Friday (except for quiz4 which is due on Thursday July 17 in lieue of a final exam). There will be 4 total, each worth 2.5% of your grade
-Little Problem sets         50%     Due each Tuesday, Wednesday, and Thursday. There will be 11 total, each worth 5% of your grade with the lowest being dropped
-Big Problem sets            40%     Due Each Monday (except the for Big4, which is due on Thursday July 17 in lieue of a final exam). There will be 4 total, each worth 10% of your grade
 Professionalism Penalty    0--100%  Excessive missed classes, rude behavior toward instructor or classmates, unauthorized homework assistance, contacting TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
 
 Your final letter grade will then be assigned as follows:
