@@ -1,0 +1,164 @@
+{"little_1a":
+  {"portion":"50"
+  ,"drop":1
+  ,"group":"little"
+  ,"due":"2022-06-22 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/su22/littles.html"
+  ,"weight":1
+  ,"files":"little_1a.pdf"
+  }
+,"little_1b":
+  {"portion":"50"
+  ,"drop":1
+  ,"group":"little"
+  ,"due":"2022-06-23 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/su22/littles.html"
+  ,"weight":1
+  ,"files":"little_1b.pdf"
+  }
+,"little_1c":
+  {"portion":"50"
+  ,"drop":1
+  ,"group":"little"
+  ,"due":"2022-06-24 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/su22/littles.html"
+  ,"weight":1
+  ,"files":"little_1c.pdf"
+  }
+,"quiz_1":
+  {"portion":"10"
+  ,"group":"quiz"
+  ,"due":"2022-06-25 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/su22/quizzes.html"
+  ,"weight":1
+  ,"files":["quiz1.pdf","quiz1.txt"]
+  }
+,"big_1":
+  {"portion":"40"
+  ,"group":"big"
+  ,"due":"2022-06-27 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/su22/bigs.html"
+  ,"weight":1
+  ,"files":"big_1.pdf"
+  }
+,"little_2a":
+  {"portion":"50"
+  ,"drop":1
+  ,"group":"little"
+  ,"due":"2022-06-28 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/su22/littles.html"
+  ,"weight":1
+  ,"files":"little_2a.pdf"
+  }
+,"little_2b":
+  {"portion":"50"
+  ,"drop":1
+  ,"group":"little"
+  ,"due":"2022-06-29 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/su22/littles.html"
+  ,"weight":1
+  ,"files":"little_2b.pdf"
+  }
+,"little_2c":
+  {"portion":"50"
+  ,"drop":1
+  ,"group":"little"
+  ,"due":"2022-06-30 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/su22/littles.html"
+  ,"weight":1
+  ,"files":"little_2c.pdf"
+  }
+,"quiz_2":
+  {"portion":"10"
+  ,"group":"quiz"
+  ,"due":"2022-07-01 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/su22/quizzes.html"
+  ,"weight":1
+  ,"files":["quiz2.pdf","quiz2.txt"]
+  }
+,"big_2":
+  {"portion":"40"
+  ,"group":"big"
+  ,"due":"2022-07-05 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/su22/bigs.html"
+  ,"weight":1
+  ,"files":"big_2.pdf"
+  }
+,"little_3a":
+  {"portion":"50"
+  ,"drop":1
+  ,"group":"little"
+  ,"due":"2022-07-06 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/su22/littles.html"
+  ,"weight":1
+  ,"files":"little_3a.pdf"
+  }
+,"little_3b":
+  {"portion":"50"
+  ,"drop":1
+  ,"group":"little"
+  ,"due":"2022-07-07 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html"
+  ,"weight":1
+  ,"files":"little_3b.pdf"
+  }
+,"little_3c":
+  {"portion":"50"
+  ,"drop":1
+  ,"group":"little"
+  ,"due":"2022-07-08 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/su22/littles.html"
+  ,"weight":1
+  ,"files":"little_3c.pdf"
+  }
+,"quiz_3":
+  {"portion":"10"
+  ,"group":"quiz"
+  ,"due":"2022-07-11 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/su22/quizzes.html"
+  ,"weight":1
+  ,"files":["quiz3.pdf","quiz3.txt"]
+  }
+,"big_3":
+  {"portion":"40"
+  ,"group":"big"
+  ,"due":"2022-07-12 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/su22/bigs.html"
+  ,"weight":1
+  ,"files":"big_3.pdf"
+  }
+,"little_4a":
+  {"portion":"50"
+  ,"drop":1
+  ,"group":"little"
+  ,"due":"2022-07-13 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/su22/littles.html"
+  ,"weight":1
+  ,"files":"little_4a.pdf"
+  }
+,"little_4b":
+  {"portion":"50"
+  ,"drop":1
+  ,"group":"little"
+  ,"due":"2022-07-14 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/su22/littles.html"
+  ,"weight":1
+  ,"files":"little_4b.pdf"
+  }
+,"quiz_4":
+  {"portion":"10"
+  ,"group":"quiz"
+  ,"due":"2022-07-15 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/su22/quizzes.html"
+  ,"weight":1
+  ,"files":["quiz4.pdf","quiz4.txt"]
+  }
+,"big_4":
+  {"portion":"40"
+  ,"group":"big"
+  ,"due":"2022-07-16 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/su22/bigs.html"
+  ,"weight":1
+  ,"files":"big_4.pdf"
+  }
+}
