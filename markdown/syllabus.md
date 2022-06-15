@@ -82,27 +82,27 @@ Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
 Little Problem sets         50%     There will be 11 total, each worth 5% of your grade with the lowest being dropped
 Big Problem sets            40%     There will be 4 total, each worth 10% of your grade
-Quizzes                     10%     Due each Friday (except for quiz4 which is due on Thursday July 17 in lieue of a final exam). There will be 4 total, each worth 2.5% of your grade
+Quizzes                     10%     There will be 4 total, each worth 2.5% of your grade
 Professionalism Penalty    0--100%  Excessive missed classes, rude behavior toward instructor or classmates, unauthorized homework assistance, contacting TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
 
 Your final letter grade will then be assigned as follows:
 
-You get  if you score  GPA value  COVID C/NC equivalent
--------- ------------- ---------  --------------------
-A+       near the top  4.0        CR
-A        ≥ 93%         4.0        CR
-A−       ≥ 90%         3.7        CR
-B+       ≥ 86%         3.3        CR
-B        ≥ 83%         3.0        CR
-B−       ≥ 80%         2.7        CR
-C+       ≥ 76%         2.3        CR
-C[^noCm] ≥ 70%         2.0        CR
-D+       ≥ 66%         1.3        GC
-D        ≥ 63%         1.0        GC
-D−       ≥ 60%         0.7        GC
-F        otherwise     0.0        NC
+You get  if you score  GPA value
+-------- ------------- ---------
+A+       near the top  4.0
+A        ≥ 93%         4.0
+A−       ≥ 90%         3.7
+B+       ≥ 86%         3.3
+B        ≥ 83%         3.0
+B−       ≥ 80%         2.7
+C+       ≥ 76%         2.3
+C        ≥ 73%         2.0
+C-       ≥ 70%         2.0
+D+       ≥ 66%         1.3
+D        ≥ 63%         1.0
+D−       ≥ 60%         0.7
+F        otherwise     0.0
 
-[^noCm]: Since the CS department uses C- as the lower threshold for prerequisites, the university guidelines say that GC cannot be used to satisfy re-requisites, and C- being categorized as GC by the university, in case there is a future course which uses CS4102 as a prerequisite we feel the most fair thing to do is to remove the C- level from the grading scale entirely, instead rounding up all C- grades to a C.
 
 **Rounding:** By default, grades will not be rounded in this course.
 
@@ -110,7 +110,7 @@ This numerical calculation is to be considered a **guideline** on your score in 
 
 ## Deadlines
 
-Deadlines for all assignments are available on the [schedule page](schedule.html). In general, you will have "little" assignments due every Tuesday, Wednesday, and Thursday, "big" assignments due Monday, and a quiz every Friday. There will be no assignments due on Saturdays, even if there is a class meeting on that day.
+Deadlines for all assignments are available on the [schedule page](schedule.html). In general, for any give week's content, expect to have 3 "little" assignments due during the week, 1 quiz due at the end of the week, and 1 "big" assignment due at the start of the next week. There are a few exceptions to this pattern, so please make sure you check the schedule.
 
 Due to the rapid pace of summer courses, late submissions of assignments will not be allowed by default. If you feel that extenuating circumstances justify late submission for any assignment, please request a deadline extension. You can do that on the same page where you would submit an assignment. There is no upper bound on the number of assignment extensions you may be granted, but please don't exploit this. 
 
@@ -120,7 +120,7 @@ We acknowledge that professors and TAs are people, and people make mistakes. For
 
 For **problem sets** (both **big** and **little**), please only submit a regrade request if you believe the rubric was misapplied to your submission. In your request, identify specifically what in your submission demonstrates the misapplication. If you submitted the big assignment as a cohort, only the original submitter should request the regrade.
 
-The goal of **quizzes** is to help you to form a better conceptual understanding of course materials, and therefore we consider them primarily as an opportunity to identify and correct misconceptions. For this reason, you may submit one regrade request per quiz to revise your answers.
+The goal of **quizzes** is to help you to form a better conceptual understanding of course materials, and therefore we consider them primarily as an opportunity to identify and correct misconceptions. For this reason, you may submit one regrade request per quiz to *revise* your answers.
 
 # Miscellanea
 
@@ -150,11 +150,11 @@ if you do something you regret, the sooner you tell me the sooner (and more leni
 **Quizzes**: You must complete quizzes entirely on your own, do not discuss the contents of a quiz with anyone outside the course staff prior to its deadline. You may use only officially-provided or personally-created materials when completing at-home quizzes. This means you may only use:
 
 - The course textbook
-- Anything on the course webpage or linked to from the course webpage
+- Anything on the course webpage or directly linked to from the course webpage
 - Your personal notes (or those of a note-taker if you receive them as accommodation)
 - Lecture recordings
 
-**Little Problem Sets**: You may collaborate with up to 5 other people (i.e. a group of up to 6 total), but your collaboration must be "Whiteboard-Only" (defined below). You writeup must be composed individually.
+**Little Problem Sets**: You may collaborate with up to 5 other people (i.e. a group of up to 6 total), but your collaboration must be "Whiteboard-Only" (defined below). Your writeup must be composed completely individually.
 
 **Big Problem Sets**: You may either produce a singular collaborative submission with your cohort or else you may compose and submit an individual writeup. If you are submitting an individual writeup, you may collaborate with up to 5 other people (i.e. a group of up to 6 total), but your collaboration must be "Whiteboard-Only" (defined below).
 
@@ -168,7 +168,7 @@ For either kind of problem set (big or little) you may additionally use external
 
 "Whiteboard Only" collaboration is meant to convey the type of discussion where participants gather around a whiteboard to solve a problem together, without taking any notes from their discussion, and then erasing the whiteboard before they disperse. 
 
-In particular, you may discuss problems and solutions, but the only thing you may take away from your discussion is your brain. This means you may not produce any records or artifacts from your collaborations, including: notes, screenshots, pictures, audio/video recordings, documents (inluding google docs), links, or any other digital or tangible thing. Nor may you share any files, links, etc. with other students outside of a collaboration session. Any substantially similar expression of the same solution can only occur if collaboration extends beyond "whiteboard only", and so will be considered as evidence of a policy violation.
+In particular, you may discuss problems and solutions, but the only thing you may take away from your discussion is your brain. This means you may not produce any records or artifacts from your collaborations, including: notes, screenshots, photos, figures, audio/video recordings, documents (inluding google docs), links, or any other digital or tangible thing. Nor may you share any files, links, etc. with other students outside of a collaboration session. Any substantially similar expression of the same solution can only occur if collaboration extends beyond "whiteboard only", and so will be considered as evidence of a policy violation.
 
 ### Consequences of Dishonesty
 
