@@ -117,6 +117,7 @@ then
     python3 cal2html.py
     scp "assignments.json" "/var/www/html/cs4102/meta/"
     scp "coursegrade.json" "/var/www/html/cs4102/meta/"
+    scp "course.json" "/var/www/html/cs4102/meta/"
 fi
 if [ schedule.html -nt markdown/schedule.md ]
 then
