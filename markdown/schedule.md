@@ -93,7 +93,6 @@ summary { margin-left: -1em; }
 
 </style>
 
-Lectures will be live-streamed via zoom. [Please join us!](https://virginia.zoom.us/j/95450131346)
 
 <p>View as 
 <label><input type="radio" name="viewmode" onchange="viewmode(this)" checked value="calendar" id="viewmode=calendar"> calendar</label>
@@ -110,7 +109,7 @@ readings can be <input type="button" value="shown" onclick="document.querySelect
 
 <script src="schedule.js"></script>
 
-To subscribe to the above calendar, add <http://www.cs.virginia.edu/~njb2b/cs4102/su21/cal.ics> to your calender application of choice.
+To subscribe to the above calendar, add <http://www.cs.virginia.edu/~njb2b/cs4102/su22/cal.ics> to your calender application of choice.
 
 <hr/>
 
