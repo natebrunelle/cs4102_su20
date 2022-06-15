@@ -57,7 +57,7 @@ You will be asked to perform three kinds of evaluations:
 - **Little Problem Sets**: Problems for you to solve. These may require that you design novel algorithms or compose formal mathematical arguments. These are designed to provide opportunities for you to develop working familiarity with course concepts. "Whiteboard-only" collaboration with a small work group of up to 6 people (yourself plus 5) is encouraged. These problem sets are short, and the tasks are more "bite-sized" in that they're expected to be completable in 1-2 sittings.
 - **Big Problem Sets**: Problems for you to solve. These may require that you design novel algorithms or compose formal mathematical arguments. These are meant to provide opportunities for you exercise and hone your skills with course concepts. If you choose to belong to a cohort, you will construct one collaborative submission for your entire cohort. If you are not in a cohort, "Whiteboard-only" collaboration with a small work group of up to 6 people (yourself plus 5) is encouraged.  These problem sets are longer, and the tasks typically require deeper insight than those on the little problem sets. You are given longer to do them mostly to allow you time for more sittings. I suggest working on the problems in multiple 1-2 hours sessions, rather than trying to "cram" a solution.
 
-
+Note that there are no graded in-class activities, and no traditional exams. In lieue of a final exam you will instead have a last "Big Problem Set" due.
 
 # Grading
 
