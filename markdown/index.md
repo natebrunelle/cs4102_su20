@@ -88,7 +88,7 @@ Now that I've sufficiently warned you, please take comfort that I have done my b
 
 # Can I take this course online?
 
-Officially, no. Unless specifically designated as an online course, all UVA courses are in-person. That being said, I will do my best to produce and share recordings of the in-person lectures, and will never take attendance. Assignments will be posted, submitted, and graded online. We will not have any graded in-class activities (including exams). However, office hours will be largely (if not exclusively, I still need to discuss with the TAs) in person. Additionally, most homework assignments are open for collaboration, which will be harder to do virtually. 
+Officially, no. Unless specifically designated as an online course, all UVA courses are in-person. That being said, I will do my best to produce and share recordings of the in-person lectures, and will never take attendance. Assignments will be posted, submitted, and graded online. We will not have any graded in-class activities (including exams). However, most (but not all) office hours in person. Additionally, most homework assignments are open for collaboration, which will be harder to do virtually. 
 
 In summary, it's hypothetically possible to participate exclusively virtually and succeed in the course, but I'm assuming that all students can appear in-person, and so you'll have a better experience if you are physically present.
 
