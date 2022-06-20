@@ -6,7 +6,7 @@ All "Little" problem sets will be posted here as they are released (at least 34 
 
 # Instructions
 
-Little problem sets are due every Tuesday, Wednesday, and Thursday. These problems were selected to hopefully be solvable in one "sitting" of a few hours. Sometimes the key insights required might come more slowly for any number of reasons, so do still start these early, and be patient with yourself. Each problem set will primarily depend on recent lecture material.
+Little problem sets are typically due every Tuesday, Wednesday, and Thursday. These problems were selected to hopefully be solvable in one "sitting" of a few hours. Sometimes the key insights required might come more slowly for any number of reasons, so do still start these early, and be patient with yourself. Each problem set will primarily depend on recent lecture material.
 
 # Policies
 
