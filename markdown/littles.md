@@ -41,6 +41,7 @@ Due 11:59pm Thursday June 23
 
 This assignment will help you to become acquainted with the kinds of arguments we'll need to make when evaluating divide-and-conquer algorithms. It includes an exercise in determining the recursion depth of such algorithms, and how to make arguments to demonstrate asymptotic complexities.
 
+ Please answer the questions on [this worksheet](files/littles/little1b_blank.pdf) ([tex source](files/littles/little1b.zip)). Submit your answers as a pdf.
 
 ### Little 1c
 
