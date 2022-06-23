@@ -8,11 +8,10 @@
     slides(pdf): files/slides/lecture2_divide_and_conquer.pdf
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a69c81fa-4aca-466c-9ba4-aebc00eefbaa
     
-2021-05-26:
+2022-06-23:
     slides(pptx): files/slides/lecture3_recurrences.pptx
     slides(pdf): files/slides/lecture3_recurrences.pdf
     recurrence math: files/recurrence_math.pdf
-    video: https://virginia.zoom.us/rec/share/IpdAK9upk7HDTuR390uzYIXca0Sx33Xc58G9XpDRtZj83KiXTMp5q4x_mjxH7aM8.uzCpfFWF7PYpyl3B?startTime=1622039492000
     
 2021-05-27:
     slides (pptx): files/slides/lecture4_master_closestpair.pptx
