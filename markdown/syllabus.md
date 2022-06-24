@@ -6,7 +6,7 @@ title: Syllabus
 
 ## Meetings
 
-Live zoom lectures will be held Monday, Tuesday, Wednesday, Thursday, Friday, and Saturday June 25 10:30am–12:45PM.
+In Person lectures will be held Mondays (except July 4), Tuesdays, Wednesdays, Thursdays, Fridays, and Saturday June 25 10:30am–12:45PM.
 
 Lecture attendance is optional, but strongly encouraged. In the event you are unable to attend a lecture, recordings of lectures are automatically posted to Collab and I will additionally link to them on the [schedule page](schedule.html).
 
