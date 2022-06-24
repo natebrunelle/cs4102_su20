@@ -35,6 +35,8 @@ Due at 11:59pm on Saturday June 25.
 
 This quiz covers divide and conquer and solving recurrence relations.
 
+Please answer the questions on [this worksheet](files/quizzes/quiz1_blank.pdf) ([tex source](files/quizzes/quiz1.zip)). Submit your answers as a pdf or text file.
+
 
 
 ## Quiz 2
