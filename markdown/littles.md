@@ -60,6 +60,8 @@ Due 11:59pm Tuesday June 28
 
 This assignment is intended to help you to apply lessons learned in our discussion of Quicksort.
 
+Please answer the questions on [this worksheet](files/littles/little2a_blank.pdf) ([tex source](files/littles/little2a.zip)). Submit your answers as a pdf.
+
 
 
 ### Little 2b
