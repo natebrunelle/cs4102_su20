@@ -39,6 +39,8 @@ Due 11:59pm Tuesday July 5.
 
 This assignment is intended to give you experience with the design and analysis of dynamic programming algorithms. The problems will derive from content learned during the lectures given on June 29, June 30, and July 1.
 
+Please answer the questions on [this worksheet](files/bigs/big2_blank.pdf) ([tex source](files/bigs/big2.zip)). Submit your answers as a pdf.
+
 
 
 ## Big 3
