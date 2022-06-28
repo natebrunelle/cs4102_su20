@@ -70,6 +70,7 @@ Due 11:59pm Wednesday June 29
 
 This assignment is intended to give you experience with decision trees.
 
+Please answer the questions on [this worksheet](files/littles/little2b_blank.pdf) ([tex source](files/littles/little2b.zip)). Submit your answers as a pdf.
 
 ### Little 2c
 
