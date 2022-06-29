@@ -78,7 +78,7 @@ Due 11:59pm Thursday June 30
 
 This assignment is intended to show you use cases for linear time sorting algorithms.
 
-
+Please answer the questions on [this worksheet](files/littles/little2c_blank.pdf) ([tex source](files/littles/little2c.zip)). Submit your answers as a pdf.
 
 ## Week 3
 
