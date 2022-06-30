@@ -45,6 +45,9 @@ Due at 11:59pm on Friday July 1.
 
 This quiz covers properties of various sorting algorithms.
 
+Please answer the questions on [this worksheet](files/quizzes/quiz2_blank.pdf) ([tex source](files/quizzes/quiz2.zip)). Submit your answers as a pdf or text file.
+
+
 
 ## Quiz 3
 
