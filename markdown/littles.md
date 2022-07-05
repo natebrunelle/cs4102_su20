@@ -88,6 +88,7 @@ Due 11:59pm Wednesday July 6
 
 This assignment is intended to be an exercise in the design of dynamic programming algorithms, including where they can work when greedy cannot.
 
+Please answer the questions on [this worksheet](files/littles/little3a_blank.pdf) ([tex source](files/littles/little3a.zip)). Submit your answers as a pdf.
 
 
 ### Little 3b
