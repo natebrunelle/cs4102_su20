@@ -97,6 +97,7 @@ Due 11:59pm Thursday July 7
 
 This assignment is intended to be an introduction in the design and justification of greedy algorithms.
 
+Please answer the questions on [this worksheet](files/littles/little3b_blank.pdf) ([tex source](files/littles/little3b.zip)). Submit your answers as a pdf.
 
 ### Little 3c
 
