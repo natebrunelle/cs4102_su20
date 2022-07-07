@@ -105,6 +105,8 @@ Due 11:59pm Friday July 8
 
 This assignment is intended to be an exercise in designing and proving the correctness of greedy algorithms.
 
+Please answer the questions on [this worksheet](files/littles/little3c_blank.pdf) ([tex source](files/littles/little3c.zip)). Submit your answers as a pdf.
+
 
 
 ## Week 4
