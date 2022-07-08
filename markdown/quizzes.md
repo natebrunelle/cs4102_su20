@@ -55,6 +55,8 @@ Due at 11:59pm on Monday July 11.
 
 This quiz covers greedy algorithms and dynamic programming.
 
+Please answer the questions on [this worksheet](files/quizzes/quiz3_blank.pdf) ([tex source](files/quizzes/quiz3.zip)). Submit your answers as a pdf or text file.
+
 
 ## Quiz 4
 
