@@ -58,5 +58,5 @@ Due 11:59pm Saturday July 16 (in lieue of a final exam).
 
 This assignment is intended to give you experience with the design and analysis of algorithms using reductions, the use of reductions for giving worst-case lower bounds, and NP-Completeness. The problems will primarily derive from content learned during the lectures given on July 11, July 12, July 13, and July 14, however due to the fact that reductions leverage algorithms that you already know, this problem set is best considered to be cumulative over the entire semester.
 
-
+Please answer the questions on [this worksheet](files/bigs/big4_blank.pdf) ([tex source](files/bigs/big4.zip)). Submit your answers as a pdf.
 
