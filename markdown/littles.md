@@ -113,14 +113,16 @@ Please answer the questions on [this worksheet](files/littles/little3c_blank.pdf
 
 ### Little 4a
 
-Due 11:59pm Tuesday June 15
+Due 11:59pm Wednesday July 13
 
 This assignment is intended to stretch your understanding of shortest path algorithms and minimum spanning trees.
+
+Please answer the questions on [this worksheet](files/littles/little4a_blank.pdf) ([tex source](files/littles/little4a.zip)). Submit your answers as a pdf.
 
 
 ### Little 4b
 
-Due 11:59pm Wednesday June 16
+Due 11:59pm Thursday July 14
 
 This assignment is intended to give you experience with maxflow.
 
