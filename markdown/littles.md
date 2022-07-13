@@ -126,4 +126,6 @@ Due 11:59pm Thursday July 14
 
 This assignment is intended to give you experience with maxflow.
 
+Please answer the questions on [this worksheet](files/littles/little4b_blank.pdf) ([tex source](files/littles/little4b.zip)). Submit your answers as a pdf.
+
 
