@@ -64,4 +64,7 @@ Due at 11:59pm on Friday July 15.
 
 This quiz covers reductions and NP-Completeness.
 
+Please answer the questions on [this worksheet](files/quizzes/quiz4_blank.pdf) ([tex source](files/quizzes/quiz4.zip)). Submit your answers as a pdf or text file.
+
+
 
