@@ -6,9 +6,12 @@ title: Syllabus
 
 ## Meetings
 
-In Person lectures will be held Mondays (except July 4), Tuesdays, Wednesdays, Thursdays, Fridays, and Saturday June 25 10:30am–12:45PM.
+In Person lectures will be held in Gilmer 301 at:
 
-Lecture attendance is optional, but strongly encouraged. In the event you are unable to attend a lecture, recordings of lectures are automatically posted to Collab and I will additionally link to them on the [schedule page](schedule.html).
+- 11:00am-12:15pm
+- 2:00pm-3:15pm
+
+Lecture attendance is optional, but strongly encouraged. In the event you are unable to attend a lecture, recordings of lectures are automatically posted to Collab. We will try to synchronize both lecture sections so that you are able to attend either lecture (either due to absense or because you want to hear it twice!). In some cases, however, it may happen that the sections are at slightly different places.
 
 
 ## Contact
@@ -23,7 +26,7 @@ Lecture attendance is optional, but strongly encouraged. In the event you are un
 
 For communication about course content, Discord is preferred to email.
 For communication about personal circumstances, email or Discord DMs are preferred.
-If you email, include either "algorithms" or "4102" in the subject line to prevent your email from skipping my inbox and never getting read.
+If you email, include either "algorithms", "3100", or "DSA2" in the subject line to prevent your email from skipping my inbox and never getting read.
 
 Our TAs are students too, with duties and work outside of their TAing. Please do not ask them to act as your TA except at the scheduled on-the-clock times they have listed as their office hours. They are also kind people; please don't put them in the position of having to say no or (worse) being nice to you at the expense of their own schooling.
 
@@ -54,10 +57,10 @@ You will be expected to read instructional material and either understand it or 
 You will be asked to perform three kinds of evaluations:
 
 - **Quizzes**: Open-resource assessments of your understanding of broad course topics. These are intended to verify that you develop and maintain an intuitive understanding of the course concepts. These must be completed independently.
-- **Little Problem Sets**: Problems for you to solve. These may require that you design novel algorithms or compose formal mathematical arguments. These are designed to provide opportunities for you to develop working familiarity with course concepts. "Whiteboard-only" collaboration with a small work group of up to 6 people (yourself plus 5) is encouraged. These problem sets are short, and the tasks are more "bite-sized" in that they're expected to be completable in 1-2 sittings.
-- **Big Problem Sets**: Problems for you to solve. These may require that you design novel algorithms or compose formal mathematical arguments. These are meant to provide opportunities for you exercise and hone your skills with course concepts. If you choose to belong to a cohort, you will construct one collaborative submission for your entire cohort. If you are not in a cohort, "Whiteboard-only" collaboration with a small work group of up to 6 people (yourself plus 5) is encouraged.  These problem sets are longer, and the tasks typically require deeper insight than those on the little problem sets. You are given longer to do them mostly to allow you time for more sittings. I suggest working on the problems in multiple 1-2 hours sessions, rather than trying to "cram" a solution.
+- **Programming Assignments**: Algorithms for you to implement in either Java or Python (your choice). These may require that you design novel algorithms to implement or implement an algorithm provided to you. These are designed to provide opportunities for you to develop working familiarity with course concepts. "Whiteboard-only" collaboration with a small work group of up to 3 people (yourself plus 2) is encouraged. Code may not be shared with, viewed by, or shown to anyone outside of the course staff. These tasks are more "bite-sized" in that they're expected to be completable in 1-2 sittings.
+- **Written Problem Sets**: Problems for you to solve. These may require that you design novel algorithms or compose formal mathematical arguments. These are meant to provide opportunities for you exercise and hone your skills with course concepts. If you choose to collaborate with a group, you must construct one collaborative submission for your entire group. If you are not in a group, "Whiteboard-only" collaboration with a small work group of up to 3 people (yourself plus 2) is acceptable.  These problem sets are longer, and the tasks typically require deeper insight than those on the programing assignments. You are given longer to do them mostly to allow you time for more sittings. I suggest working on the problems in several 1-2 hours sessions, rather than trying to "cram" a set of solutions.
 
-Note that there are no graded in-class activities, and no traditional exams. In lieue of a final exam you will instead have a last "Big Problem Set" due.
+Note that there are no graded in-class activities, and no traditional exams. In lieue of a final exam you will instead have the opportunity to re-attempt quizzes.
 
 # Grading
 
@@ -65,7 +68,7 @@ In February 2019 the CS faculty approved [a definition](http://ugrads.cs.virgini
 It is my intent to approximate that definition in this course.
 As a brief summary,
 
-Letter  Student demonstrated                Recommendation re future courses[^future]
+Letter  Student demonstrated                Recommendation re future courses
 ------  ---------------------------         ------------------------------------
 A       mastery of all topics               likely to do well
 B       competence in significant topics    able to do well with some review
@@ -73,16 +76,14 @@ C       sufficient competence               likely to be challenging
 D       minimal competence                  unlikely to succeed
 F       less than minimal competence        retake this course first
 
-[^future]:
-    While there are no regularly-offerred UVA undergraduate courses which list cs4102 as a prerequisite, this recommendation will be mostly relative to a hypothetical follow-on course.
 
 We will consider the grade assigned by the following point-based breakdown to be a **guideline** for the grade earned according to the definitions above.
 
 Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
-Little Problem sets         50%     There will be 11 total, each worth 5% of your grade with the lowest being dropped
-Big Problem sets            40%     There will be 4 total, each worth 10% of your grade
-Quizzes                     10%     There will be 4 total, each worth 2.5% of your grade
+Quizzes                     40%     There will be 7 total
+Programming Assignments     30%     There will be 14 total, the worst two will be dropped
+Written Problem Sets        30%     There will be 7 total
 Professionalism Penalty    0--100%  Excessive missed classes, rude behavior toward instructor or classmates, unauthorized homework assistance, contacting TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
 
 Your final letter grade will then be assigned as follows:
@@ -110,23 +111,19 @@ This numerical calculation is to be considered a **guideline** on your score in 
 
 ## Deadlines
 
-Deadlines for all assignments are available on the [schedule page](schedule.html). In general, for any give week's content, expect to have 3 "little" assignments due during the week, 1 quiz due at the end of the week, and 1 "big" assignment due at the start of the next week. There are a few exceptions to this pattern, so please make sure you check the schedule.
+Deadlines for all assignments are available on the [schedule page](schedule.html). In general, each week you should expect to have one programming assignments due during the week, and either a written problem set or a quiz due at the end of the week. There are a few exceptions to this pattern, so please make sure you check the schedule.
 
-Due to the rapid pace of summer courses, late submissions of assignments will not be allowed by default. If you feel that extenuating circumstances justify late submission for any assignment, please request a deadline extension. You can do that on the same page where you would submit an assignment. There is no upper bound on the number of assignment extensions you may be granted, but please don't exploit this. 
+Late submissions of assignments will not be allowed by default. If you feel that extenuating circumstances justify late submission for any assignment or that a short extension in a deadline will result in a grade that better reflects your understanding, please request a deadline extension. There is no upper bound on the number of assignment extensions you may be granted, but please don't exploit this. 
 
 ## Regrades
 
-We acknowledge that professors and TAs are people, and people make mistakes. For this reason, you are able to request regrades on assignments within 48 hours of your grade being returned.
-
-For **problem sets** (both **big** and **little**), please only submit a regrade request if you believe the rubric was misapplied to your submission. In your request, identify specifically what in your submission demonstrates the misapplication. If you submitted the big assignment as a cohort, only the original submitter should request the regrade.
-
-The goal of **quizzes** is to help you to form a better conceptual understanding of course materials, and therefore we consider them primarily as an opportunity to identify and correct misconceptions. For this reason, you may submit one regrade request per quiz to *revise* your answers.
+We acknowledge that professors and TAs are people, and people make mistakes. For this reason, you are able to request regrades on assignments within either one week of your grade being returned or by 11:59pm on May 13, which ever date is sooner. Please only submit a regrade request if you believe the rubric was misapplied to your submission. In your request, identify specifically what in your submission demonstrates the misapplication. If you submitted the big assignment as a cohort, only the original submitter should request the regrade.
 
 # Miscellanea
 
 ## Pledge
 
-All students of CS4102 are expected to abide by the [course pledge](pledge.html).
+All students of CS3100 are expected to abide by the [course pledge](pledge.html).
 
 ## Professionalism
 
