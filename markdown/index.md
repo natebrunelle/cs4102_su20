@@ -12,9 +12,8 @@ The goal of this course is to build a tool kit to better solve a variety of comp
 - Algorithm design strategies (including divide and conquer, dynamic programming, greedy, and reductions)
 - The impact of data-structure choice on algorithm design
 - Proving algorithm correctness
-- Proving worst-case lower bounds on algorithm efficiency
+- Proving worst-case lower bounds on algorithm efficiency using reductions
 - Algorithms on graphs
-- NP-Completeness
 
 ## Learning Outcomes
 
