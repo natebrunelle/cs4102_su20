@@ -180,7 +180,7 @@ assignments:
 
     PA11 ML:
         group: programming
-        due: 2023-05-03 23:59:00
+        due: 2023-05-02 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
