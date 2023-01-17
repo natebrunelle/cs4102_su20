@@ -216,7 +216,7 @@ assignments:
         
     PS6 P vs NP:
         group: written
-        due: 2023-04-27 23:59:00
+        due: 2023-04-25 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.pdf'
@@ -251,7 +251,7 @@ assignments:
     
     Q5 Reductions and P vs NP:
         group: written
-        due: 2023-05-02 23:59:00
+        due: 2023-04-27 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.pdf'
