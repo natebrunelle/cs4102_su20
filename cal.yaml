@@ -32,19 +32,14 @@ lectures:
     - Graphs Introduction, BFS, DFS
     - Topological Sort, Connected Components
     - Weighted Graphs, Dijkstra's, MSTs
-    - Asymptotics Divide and Conquer
-    - Karatsuba and Recurrences
+    - Divide and Conquer, Recurrences
+    - Tree Method, Karatsuba
     - Master Theorem and Closes Pair
-    - Strassens and Quicksort
-    - Random Quicksort and Decision Trees
-    - Sorting Properties and Linear Sorting
+    - Strassens and Quickselect
+    - Introduction to Greedy, Coin Change
     - Dynamic Programming part 1
     - Dynamic Programming part 2
     - Gerrymandering
-    - Greedy part 1
-    - Greedy part 2
-    - Graphs, MST
-    - Dijkstras, BFS, DFS
     - Maxflow/Mincut
     - Reductions
     - NP-Completeness part 1
