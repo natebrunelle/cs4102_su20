@@ -55,7 +55,7 @@ def raw2cal(data, links=None):
         if d == data['meta']['final']['start'].date():
             final = data['meta']['final']
             ans.append({
-                "title":"Final Exam",
+                "title":"Latest Quiz Deadline at 5pm",
                 "kind":"exam",
                 "from":final['start'],
                 "to":final['start'] + timedelta(0,60*final['duration']),
@@ -64,7 +64,7 @@ def raw2cal(data, links=None):
         for k,v in data['Special Dates'].items():
             if (v['start'] > d or v['end'] < d) if type(v) is dict else d not in v if type(v) is list else v != d:
                 continue # does not apply
-            if 'recess' in k or 'Reading' in k or 'break' in k:
+            if 'recess' in k.lower() or 'reading' in k.lower() or 'break' in k.lower():
                 return ans # no classes
             if 'exam' in k.lower() or 'test' in k.lower() or 'midterm' in k.lower():
                 isexam = True
@@ -119,6 +119,7 @@ def raw2cal(data, links=None):
                                 ans[-1]['reading'] = tmp[:]
                     ent['sidx'] += 1
                 # handle separate links file
+                #print('doing links')
                 if links and d in links:
                     for f in links[d].get('files',[]):
                         n = os.path.basename(f)
@@ -189,7 +190,7 @@ def raw2cal(data, links=None):
             })
             if 'hide' in ent: ans[-1]['hide'] = ent['hide']
             if 'link' in ent: ans[-1]['link'] = ent['link']
-        
+            
         return ans
 
     ans = []
@@ -205,6 +206,8 @@ def raw2cal(data, links=None):
 
 def cal2html(cal):
     """Uses divs only, with no week-level divs"""
+    print('doing cal2html')
+    print(cal[1][1])
     ans = ['<div id="schedule" class="calendar">']
     ldat = None
     for week in cal:
@@ -217,6 +220,7 @@ def cal2html(cal):
                 ans.append('<span class="date w{1}">{0}</span>'.format(day['date'].strftime('%d %b').strip('0'), day['date'].strftime('%w')))
                 ans.append('<div class="events">')
                 for e in day['events']:
+                    #if e.get('kind') == 'assignment' : continue
                     if e.get('kind') == 'oh': continue
                     if e.get('hide'): continue
                     classes = [e[k] for k in ('section','kind','group') if k in e]
@@ -438,4 +442,4 @@ if __name__ == '__main__':
         print(pjson.prettyjson(cal2assigments(cal, raw)), file=fh)
 
     with open('coursegrade.json', 'w') as f:
-        f.write(pjson.prettyjson(coursegrade_json(raw)))
+        f.write(pjson.prettyjson(coursegrade_json(raw), maxinline=16))
