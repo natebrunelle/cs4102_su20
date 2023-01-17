@@ -7,4 +7,13 @@
   ,"weight":1
   ,"files":"something.java"
   }
+,"PA2 Graphs":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2023-02-08 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.java"
+  }
 }
