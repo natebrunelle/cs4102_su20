@@ -33,6 +33,14 @@
   ,"weight":1
   ,"files":"something.java"
   }
+,"Q1 Graphs":
+  {"portion":"30"
+  ,"group":"written"
+  ,"due":"2023-02-21 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.pdf"
+  }
 ,"PA4 Divide and Conquer":
   {"portion":"30"
   ,"drop":2
@@ -58,6 +66,14 @@
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
+  }
+,"Q2 Divide and Conquer":
+  {"portion":"30"
+  ,"group":"written"
+  ,"due":"2023-03-14 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.pdf"
   }
 ,"PA6 Greedy":
   {"portion":"30"
@@ -85,6 +101,14 @@
   ,"weight":1
   ,"files":"something.java"
   }
+,"Q3 greedy":
+  {"portion":"30"
+  ,"group":"written"
+  ,"due":"2023-03-28 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.pdf"
+  }
 ,"PA8 DP":
   {"portion":"30"
   ,"drop":2
@@ -110,6 +134,14 @@
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
+  }
+,"Q4 DP":
+  {"portion":"30"
+  ,"group":"written"
+  ,"due":"2023-04-11 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.pdf"
   }
 ,"PA9 Reductions":
   {"portion":"30"
@@ -137,7 +169,23 @@
   ,"weight":1
   ,"files":"something.java"
   }
+,"Q5 Reductions and P vs NP":
+  {"portion":"30"
+  ,"group":"written"
+  ,"due":"2023-04-25 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.pdf"
+  }
 ,"PS6 P vs NP":
+  {"portion":"30"
+  ,"group":"written"
+  ,"due":"2023-04-27 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.pdf"
+  }
+,"Q6 ML":
   {"portion":"30"
   ,"group":"written"
   ,"due":"2023-04-27 23:59"
