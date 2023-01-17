@@ -35,11 +35,11 @@ lectures:
     - MSTs
     - Divide and Conquer, Recurrences
     - Tree Method, Karatsuba
-    - Master Theorem and Closes Pair
-    - Strassens and Quickselect
-    - Introduction to Greedy, Coin Change
-    - Dynamic Programming part 1
-    - Dynamic Programming part 2
+    - Master Theorem, Closes Pair
+    - Strassens, Quickselect
+    - Introduction to Greedy
+    - Greedy Lecture 2
+    - Greedy Lecture 3
     - Gerrymandering
     - Maxflow/Mincut
     - Reductions
