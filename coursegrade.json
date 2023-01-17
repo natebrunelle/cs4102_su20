@@ -12,7 +12,11 @@
   ,{"D-":0.6}
   ,{"F":0.0}
   ]
-,"weights":{"quiz":40,"programming":30,"written":30}
+,"weights":
+  {"quiz":40
+  ,"programming":30
+  ,"written":30
+  }
 ,"drops":{"programming":2}
 ,"includes":{}
 ,"excludes":{}
