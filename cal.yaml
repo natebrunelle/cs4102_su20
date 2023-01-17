@@ -170,3 +170,24 @@ assignments:
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
+        
+    PA10 NP Hard:
+        group: programming
+        due: 2023-04-19 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+    
+    PA11 ML:
+        group: programming
+        due: 2023-04-26 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+
+    PA12 ML:
+        group: programming
+        due: 2023-04-26 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
