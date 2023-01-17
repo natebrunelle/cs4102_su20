@@ -22,7 +22,7 @@
   ,"due":"2023-02-14 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
-  ,"files":"something.java"
+  ,"files":"something.pdf"
   }
 ,"PA3 Divide and Conquer":
   {"portion":"30"
@@ -41,6 +41,14 @@
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
+  }
+,"PS2 Divide and Conquer":
+  {"portion":"30"
+  ,"group":"written"
+  ,"due":"2023-02-28 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.pdf"
   }
 ,"PA5 Greedy":
   {"portion":"30"
