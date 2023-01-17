@@ -169,23 +169,7 @@
   ,"weight":1
   ,"files":"something.java"
   }
-,"Q5 Reductions and P vs NP":
-  {"portion":"30"
-  ,"group":"written"
-  ,"due":"2023-04-25 23:59"
-  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
-  ,"weight":1
-  ,"files":"something.pdf"
-  }
 ,"PS6 P vs NP":
-  {"portion":"30"
-  ,"group":"written"
-  ,"due":"2023-04-27 23:59"
-  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
-  ,"weight":1
-  ,"files":"something.pdf"
-  }
-,"Q6 ML":
   {"portion":"30"
   ,"group":"written"
   ,"due":"2023-04-27 23:59"
@@ -201,5 +185,21 @@
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
+  }
+,"Q5 Reductions and P vs NP":
+  {"portion":"30"
+  ,"group":"written"
+  ,"due":"2023-05-02 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.pdf"
+  }
+,"Q6 ML":
+  {"portion":"30"
+  ,"group":"written"
+  ,"due":"2023-05-09 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.pdf"
   }
 }
