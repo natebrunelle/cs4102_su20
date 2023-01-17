@@ -55,7 +55,7 @@ def raw2cal(data, links=None):
         if d == data['meta']['final']['start'].date():
             final = data['meta']['final']
             ans.append({
-                "title":"Latest Quiz Deadline at 5pm",
+                "title":"Final Attempt Quiz Deadline",
                 "kind":"exam",
                 "from":final['start'],
                 "to":final['start'] + timedelta(0,60*final['duration']),
