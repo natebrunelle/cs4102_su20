@@ -31,7 +31,8 @@ lectures:
     - Welcome
     - Graphs Introduction, BFS, DFS
     - Topological Sort, Connected Components
-    - Weighted Graphs, Dijkstra's, MSTs
+    - Weighted Graphs, Dijkstra's
+    - MSTs
     - Divide and Conquer, Recurrences
     - Tree Method, Karatsuba
     - Master Theorem and Closes Pair
