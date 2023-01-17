@@ -102,14 +102,6 @@
   ,"weight":1
   ,"files":"something.pdf"
   }
-,"PS5 Reductions":
-  {"portion":"30"
-  ,"group":"written"
-  ,"due":"2023-04-04 23:59"
-  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
-  ,"weight":1
-  ,"files":"something.pdf"
-  }
 ,"PA8 Reductions":
   {"portion":"30"
   ,"drop":2
@@ -118,6 +110,14 @@
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
+  }
+,"PS5 Reductions":
+  {"portion":"30"
+  ,"group":"written"
+  ,"due":"2023-04-11 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.pdf"
   }
 ,"PA9 Reductions":
   {"portion":"30"
