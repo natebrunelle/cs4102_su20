@@ -1,5 +1,5 @@
 ---
-title: cs3100 DSA2
+title: cs3100
 ...
 
 
