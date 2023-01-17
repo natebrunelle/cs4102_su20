@@ -40,11 +40,11 @@ lectures:
     - Introduction to Greedy
     - Greedy Lecture 2
     - Greedy Lecture 3
-    - Gerrymandering
+    - Dynamic Programming Lecture 1
+    - Dynamic Programming Lecture 2
+    - Dynamic Programming Lecture 3
     - Maxflow/Mincut
     - Reductions
-    - NP-Completeness part 1
-    - NP-Completeness part 2
     - Finale
 
 reading:
