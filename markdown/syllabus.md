@@ -82,7 +82,7 @@ We will consider the grade assigned by the following point-based breakdown to be
 Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
 Quizzes                     30%     There will be 6 total, worth 5% each
-Programming Assignments     40%     There will be 10 total, worth 5% each, with the worst two will be dropped
+Programming Assignments     40%     There will be 10 total, worth 5% each, with the worst two dropped
 Written Problem Sets        30%     There will be 6 total, worth 5% each
 Professionalism Penalty    0--100%  Excessive missed classes, rude behavior toward instructor or classmates, unauthorized homework assistance, contacting TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
 
