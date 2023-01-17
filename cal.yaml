@@ -184,3 +184,10 @@ assignments:
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
+        
+    PS1 Graphs:
+        group: written
+        due: 2023-02-01 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
