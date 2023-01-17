@@ -73,9 +73,19 @@ Since developing a skill is a much more substantial undertaking than understandi
 1. Think carefully and precisely: While I will not purposefully mislead you, I may ask questions that are specifically designed to expose and correct a misleading intuition or common misconception.
 1. Don't expect homework to match lecture perfectly: Lecture is designed to introduce topics/concepts/strategies, and show how they operate. To maximize the future usefulness of this course's content, I selected topics whose applications are broad, and try to demonstrate that breadth thorugh a combination of lecture and homework. Almost always, I will tell you which topics to employ. It may not be obvious how or why that concept is relevant, but I promise it is. The goal of the assignment is to broaden your understanding of the concept so that it will be more useful to you when you complete this class.
 
+# Platforms
+
+Platform                    Purpose
+-------------------------   ----------------------------------------------
+This Website                Repository of course information including: Syllabus, schedule, file hosting, readings, assignment writeups, etc.
+Collab                      Linking to all of the other tools, lecture recordings
+Piazza                      Course content and policy questions
+Discord                     Online office hours, informal interactions, homework collaboration
+Gradescope                  Homework submission and grading
+
 # Can I take this course online?
 
-Officially, no. Unless specifically designated as an online course, all UVA courses are in-person. That being said, I will do my best to produce and share recordings of the in-person lectures, and will never take attendance. Assignments will be posted, submitted, and graded online. We will not have any graded in-class activities (including exams). However, most (but not all) office hours are in person. Additionally, some homework assignments are open for collaboration, which may be harder to do virtually. Finally, lectures are designed to be interactive in order to maximize your opportunity to learn, and you'll miss out on that interactivity if you do not attend lecture live and in person.
+Officially, no. Unless specifically designated as an online course, all UVA courses are in-person. That being said, I will do my best to produce and share recordings of the in-person lectures and will never take attendance. Assignments will be posted, submitted, and graded online. We will not have any graded in-class activities (including exams). However, most (but not all) office hours are in person. Additionally, some homework assignments are open for collaboration, which may be harder to do virtually. Finally, lectures are designed to be interactive in order to maximize your opportunity to learn, and you'll miss out on that interactivity if you do not attend lecture live and in person.
 
 In summary, it's hypothetically possible to participate exclusively virtually and succeed in the course, but I'm assuming that all students can appear in-person, and so you'll have a better experience if you are physically present.
 
