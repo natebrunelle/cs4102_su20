@@ -77,7 +77,7 @@ Since developing a skill is a much more substantial undertaking than understandi
 
 Platform                    Purpose
 -------------------------   ----------------------------------------------
-This Website                Repository of course information including: Syllabus, schedule, file hosting, readings, assignment writeups, etc.
+This Website                Central repository of course information and content including: Syllabus, schedule, file hosting, readings, assignment writeups, etc.
 Collab                      Linking to all of the other tools, lecture recordings
 Piazza                      Course content and policy questions
 Discord                     Online office hours, informal interactions, homework collaboration
