@@ -79,7 +79,7 @@ We will consider the grade assigned by the following point-based breakdown to be
 
 Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
-Quizzes                     30%     There will be 6 total, worth 5% each
+Quizzes                     30%     There will be 6 total, worth 5% each. 
 Programming Assignments     40%     There will be 10 total, worth 5% each, with the worst two dropped
 Written Problem Sets        30%     There will be 6 total, worth 5% each
 Professionalism Penalty    0--100%  Excessive missed classes, rude behavior toward instructor or classmates, unauthorized homework assistance, contacting TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
@@ -115,7 +115,7 @@ Late submissions of assignments will not be allowed by default. If you feel that
 
 ## Regrades
 
-We acknowledge that professors and TAs are people, and people make mistakes. For this reason, you are able to request regrades on assignments within either one week of your grade being returned or by 11:59pm on May 13, which ever date is sooner. Please only submit a regrade request if you believe the rubric was misapplied to your submission. In your request, identify specifically what in your submission demonstrates the misapplication. If you submitted the big assignment as a cohort, only the original submitter should request the regrade.
+We acknowledge that professors and TAs are people (glad to get that confession off of my chest!), and people make mistakes. For this reason, you are able to request regrades on assignments within either one week of your grade being returned or by 11:59pm on May 13, which ever date is sooner. Please only submit a regrade request if you believe the rubric was misapplied to your submission or if there was a keying error for the problem. In your request, identify specifically what in your submission demonstrates the misapplication. 
 
 # Miscellanea
 
