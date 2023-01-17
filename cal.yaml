@@ -99,10 +99,10 @@ assignments:
         written:
             portion: "30"
             
-    little_1a:
-        group: little
-        due: 2022-06-22 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su22/littles.html'
+    PA1 Graphs:
+        group: programming
+        due: 2023-02-01 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
-        files: 'little_1a.pdf'
+        files: 'something.py', 'something.java'
 
