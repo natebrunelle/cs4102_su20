@@ -103,84 +103,84 @@ assignments:
             
     PA1 Graphs:
         group: programming
-        due: 2023-02-01 23:59:00
+        due: 2023-02-02 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
         
     PA2 Graphs:
         group: programming
-        due: 2023-02-08 23:59:00
+        due: 2023-02-09 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
        
     PA3 Divide and Conquer:
         group: programming
-        due: 2023-02-15 23:59:00
+        due: 2023-02-16 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
     
     PA4 Divide and Conquer:
         group: programming
-        due: 2023-02-22 23:59:00
+        due: 2023-02-23 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
         
     PA5 Greedy:
         group: programming
-        due: 2023-03-01 23:59:00
+        due: 2023-03-02 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
     
     PA6 Greedy:
         group: programming
-        due: 2023-03-15 23:59:00
+        due: 2023-03-16 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
 
     PA7 DP:
         group: programming
-        due: 2023-03-22 23:59:00
+        due: 2023-03-23 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
     
     PA8 DP:
         group: programming
-        due: 2023-03-29 23:59:00
+        due: 2023-03-30 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
         
     PA8 Reductions:
         group: programming
-        due: 2023-04-05 23:59:00
+        due: 2023-04-06 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
     
     PA9 Reductions:
         group: programming
-        due: 2023-04-12 23:59:00
+        due: 2023-04-13 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
         
     PA10 NP Hard:
         group: programming
-        due: 2023-04-19 23:59:00
+        due: 2023-04-20 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
 
     PA11 ML:
         group: programming
-        due: 2023-05-02 23:59:00
+        due: 2023-05-03 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
