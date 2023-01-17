@@ -20,9 +20,9 @@ Lecture attendance is optional, but strongly encouraged. In the event you are un
 |--------|------------|-----|
 | Name | Nathan Brunelle | TBA |
 | Location | Rice 209 | TBA |
-| Office Hours | 9am on all class days | TBA |
+| Office Hours | TBD | TBA |
 | Phone | 243-3845 | (none) |
-| Email | <a href="mailto:njb2b@virginia.edu?subject=algorithms">njb2b@virginia.edu</a> | use Discord |
+| Email | <a href="mailto:njb2b@virginia.edu?subject=algorithms">njb2b@virginia.edu</a> | use Discord/Piazza |
 
 For communication about course content, Discord is preferred to email.
 For communication about personal circumstances, email or Discord DMs are preferred.
