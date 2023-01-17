@@ -1,27 +1,28 @@
 Special Dates:
-  Courses begin: 2022-06-21
-  Courses end: 2022-07-15
-  Drop Deadline: 2022-07-01
-  saturday break: 2022-07-02
-  break: 2022-07-09
-  Independence Day break: 2022-07-04
-  Withdraw deadline: 2022-07-08
+  Courses begin: 2023-01-16
+  Courses end: 2023-05-02
+  Add Deadline: 2023-02-01
+  Drop Deadline: 2023-03-01
+  Spring break: 
+    start: 2023-03-04
+    end: 2023-03-12
+  Withdraw deadline: 2023-03-15
 
 meta:
   timezone: America/New_York
   name: Algorithms
   lecture exam: true
-  home: https://www.cs.virginia.edu/~njb2b/cs4102/su22/
+  home: https://www.cs.virginia.edu/~njb2b/cs3100/s23/
   final:
-    start: 2022-07-16 10:30:00
+    start: 2022-05-11 10:30:00
     duration: 180
     room: NA
 
 sections:
   Brunelle:
     type: lecture
-    room: NA
-    days: [Monday, Tuesday, Wednesday, Thursday, Friday, Saturday]
+    room: Gilmer 301
+    days: [Tuesday, Thursday]
     start: 14:00:00
     duration: 75
 
@@ -83,13 +84,13 @@ reading:
 
 assignments:
     ".groups":
-        big:
-            portion: "40"
-        little:
-            portion: "50"
-            drop: 1
         quiz:
-            portion: "10"
+            portion: "40"
+        programming:
+            portion: "30"
+            drop: 2
+        written:
+            portion: "30"
             
     little_1a:
         group: little
@@ -97,130 +98,4 @@ assignments:
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su22/littles.html'
         weight: 1
         files: 'little_1a.pdf'
-        
-    little_1b:
-        group: little
-        due: 2022-06-23 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su22/littles.html'
-        weight: 1
-        files: 'little_1b.pdf'
-        
-    little_1c:
-        group: little
-        due: 2022-06-24 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su22/littles.html'
-        weight: 1
-        files: 'little_1c.pdf'
-    
-    quiz_1:
-        group: quiz
-        due: 2022-06-25 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su22/quizzes.html'
-        weight: 1
-        files: ['quiz1.pdf', 'quiz1.txt']
-
-    big_1:
-        group: big
-        due: 2022-06-27 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su22/bigs.html'
-        weight: 1
-        files: 'big_1.pdf'
-
-    little_2a:
-        group: little
-        due: 2022-06-28 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su22/littles.html'
-        weight: 1
-        files: 'little_2a.pdf'
-        
-    little_2b:
-        group: little
-        due: 2022-06-29 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su22/littles.html'
-        weight: 1
-        files: 'little_2b.pdf'
-        
-    little_2c:
-        group: little
-        due: 2022-06-30 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su22/littles.html'
-        weight: 1
-        files: 'little_2c.pdf'
-    
-    quiz_2:
-        group: quiz
-        due: 2022-07-01 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su22/quizzes.html'
-        weight: 1
-        files: ['quiz2.pdf', 'quiz2.txt']
-
-    big_2:
-        group: big
-        due: 2022-07-05 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su22/bigs.html'
-        weight: 1
-        files: 'big_2.pdf'
-        
-    little_3a:
-        group: little
-        due: 2022-07-06 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su22/littles.html'
-        weight: 1
-        files: 'little_3a.pdf'
-        
-    little_3b:
-        group: little
-        due: 2022-07-07 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su22/littles.html'
-        weight: 1
-        files: 'little_3b.pdf'
-        
-    little_3c:
-        group: little
-        due: 2022-07-08 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su22/littles.html'
-        weight: 1
-        files: 'little_3c.pdf'
-
-    quiz_3:
-        group: quiz
-        due: 2022-07-11 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su22/quizzes.html'
-        weight: 1
-        files: ['quiz3.pdf', 'quiz3.txt']
-
-    big_3:
-        group: big
-        due: 2022-07-12 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su22/bigs.html'
-        weight: 1
-        files: 'big_3.pdf'
-        
-    little_4a:
-        group: little
-        due: 2022-07-13 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su22/littles.html'
-        weight: 1
-        files: 'little_4a.pdf'
-        
-    little_4b:
-        group: little
-        due: 2022-07-14 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su22/littles.html'
-        weight: 1
-        files: 'little_4b.pdf'
-
-    quiz_4:
-        group: quiz
-        due: 2022-07-15 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su22/quizzes.html'
-        weight: 1
-        files: ['quiz4.pdf', 'quiz4.txt']
-
-    big_4:
-        group: big
-        due: 2022-07-16 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su22/bigs.html'
-        weight: 1
-        files: 'big_4.pdf'
 
