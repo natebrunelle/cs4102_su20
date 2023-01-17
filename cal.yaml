@@ -29,6 +29,9 @@ sections:
 
 lectures:
     - Welcome
+    - Graphs Introduction, BFS, DFS
+    - Topological Sort, Connected Components
+    - Weighted Graphs, Dijkstra's, MSTs
     - Asymptotics Divide and Conquer
     - Karatsuba and Recurrences
     - Master Theorem and Closes Pair
