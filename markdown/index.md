@@ -57,7 +57,15 @@ In particular, we assume knowledge of (with recommended resources for review):
 
 For each of the Discrete Math topics, the [Fall 2019 lectures](http://www.cs.virginia.edu/luther/DMT1/F2019/schedule.html) are publicly available.
 
+# Platforms
 
+Platform                    Purpose
+-------------------------   ----------------------------------------------
+This Website                Central repository of course information and content including: syllabus, schedule, file hosting, readings, assignment writeups, etc.
+Collab                      Linking to all of the other tools, lecture recordings
+Piazza                      Course content and policy questions
+Discord                     Online office hours, informal interactions, homework collaboration
+Gradescope                  Homework submission and grading
 
 
 # What to expect in an algorithms course
@@ -73,20 +81,17 @@ Since developing a skill is a much more substantial undertaking than understandi
 1. Think carefully and precisely: While I will not purposefully mislead you, I may ask questions that are specifically designed to expose and correct a misleading intuition or common misconception.
 1. Don't expect homework to match lecture perfectly: Lecture is designed to introduce topics/concepts/strategies, and show how they operate. To maximize the future usefulness of this course's content, I selected topics whose applications are broad, and try to demonstrate that breadth thorugh a combination of lecture and homework. Almost always, I will tell you which topics to employ. It may not be obvious how or why that concept is relevant, but I promise it is. The goal of the assignment is to broaden your understanding of the concept so that it will be more useful to you when you complete this class.
 
-# Platforms
 
-Platform                    Purpose
--------------------------   ----------------------------------------------
-This Website                Central repository of course information and content including: syllabus, schedule, file hosting, readings, assignment writeups, etc.
-Collab                      Linking to all of the other tools, lecture recordings
-Piazza                      Course content and policy questions
-Discord                     Online office hours, informal interactions, homework collaboration
-Gradescope                  Homework submission and grading
 
-# Can I take this course online?
+# What to expect in office hours
 
-Officially, no. Unless specifically designated as an online course, all UVA courses are in-person. That being said, I will do my best to produce and share recordings of the in-person lectures and will never take attendance. Assignments will be posted, submitted, and graded online. We will not have any graded in-class activities (including exams). However, most (but not all) office hours are in person. Additionally, some homework assignments are open for collaboration, which may be harder to do virtually. Finally, lectures are designed to be interactive in order to maximize your opportunity to learn, and you'll miss out on that interactivity if you do not attend lecture live and in person.
+Instructor and TA office hours will be available to assist you in understanding course concepts and applying those concepts to your assignments. Office hours should never be used as a substitute for your own learning or for your own earnest effort. As such, the amount of assistance the course staff will provide should correlate with the amount of effort you've made and understanding you posess. In short, the more effort and understanding you have deonstrated before arriving to office hours, the more precise the help we will provide. If you're just beginning to solve the problem or are missing some concept then the help given will be more conceptual in nature.
 
-In summary, it's hypothetically possible to participate exclusively virtually and succeed in the course, but I'm assuming that all students can appear in-person, and so you'll have a better experience if you are physically present.
+The CS department allocation to a non-lab course (like this one) is 20 minutes of TA time per week per student. This accounts for all time the TA spends on any course activity (office hours, grading, staff meetings, personal prep, etc.), so TAs have less that 20 minutes per student to spend in office hours. Because this resouce can be scarce, here are some expectations and tips for managing office hours:
+
+-  When there is a queue in office hours, we will limit each student-TA interaction to addressing just a single question. To ask multiple questions you will need to re-enter the queue. The reason for this policy is to help as many students as quickly as possible, since after a first round of assistance you will have an opportunity to make more progress before your turn comes up again. I recommend arriving prepared with the question that is your biggest "blocker" to progress.
+- When asking for help with debugging a programming assignment it will be best if you come prepared with test cases where your code gives the correct answer, and test cases where it gives the incorrect answer. This demonstrates substantial understanding of what your code is supposed to do and what your code is currently doing, and also gives the TA a lot of information to go off of, so you're more likely to receive more specific help.
+- Work-in-progress code is often difficult for a third-party to read. Be prepared to help the course staff member to understand your approach.
+- For quick clarification questions, consider using Piazza first. Your question may already be answered there, and even if not then you may get an answer faster compared to going to office hours.
 
 
