@@ -80,7 +80,7 @@ We will consider the grade assigned by the following point-based breakdown to be
 Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
 Quizzes                     33.333%     There will be 6 total. 
-Programming Assignments     33.333%     There will be 11 total (including a LaTeX tutorial assignment), the lost assignment is dropped.
+Programming Assignments     33.333%     There will be 11 total (including a LaTeX tutorial assignment), your lowest PA grade is dropped.
 Written Problem Sets        33.333%     There will be 6 total.
 Professionalism Penalty    0--100%  Excessive missed classes, rude behavior toward instructor or classmates, unauthorized homework assistance, contacting TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
 
