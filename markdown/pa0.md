@@ -2,7 +2,11 @@
 title: PA0 Getting Started
 ...
 
-This "programming assignment" is intended to help you to get set up with the tools you'll need for the coming semester, namely: Java, Python, and LaTeX (Overleaf). Unlike with all future programming assignments, you will not actually be asked to submit a program. Instead, you will be asked to submit a pdf generated with LaTeX. 
+This "programming assignment" is intended to help you to get set up with the tools you'll need for the coming semester, namely: Java, Python, and LaTeX (Overleaf). Unlike with all future programming assignments, you will not actually be asked to submit a program. Instead, you will be asked to submit a pdf generated with LaTeX.
+
+# Setting up your programming Environment
+
+To set up your Java or Python3 programming environments, follow [this guide](https://www.cs.virginia.edu/~njb2b/cs3100/s2023/installing.html).
 
 # Getting Started with LaTeX
 LaTeX is essentially a programming language for documents. It’s the most powerful and widely-used tool for producing highly-readable documents with combinations of code, pseudo-code, mathematics, figures, etc. We will be using it for all written assignments this semester.
