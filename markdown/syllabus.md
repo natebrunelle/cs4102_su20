@@ -151,7 +151,7 @@ if you do something you regret, the sooner you tell me the sooner (and more leni
 
 **Programming Assignments**: You may collaborate with up to 2 other people (i.e. a group of up to 3 total), but your collaboration must be "Whiteboard-Only" (defined below). Your writeup must be composed completely individually.
 
-**Written Problem Sets**: You may either produce a singular collaborative submission with a group of up to 4 others (i.e. a group of 5 total) or else you may compose and submit an individual writeup. If you are submitting an individual writeup, you may collaborate with up to 2 other people (i.e. a group of up to 3 total), but your collaboration must be "Whiteboard-Only" (defined below).
+**Written Problem Sets**: You may either produce a singular collaborative submission with a group of up to 5 others (i.e. a group of 6 total) or else you may compose and submit an individual writeup. If you are submitting an individual writeup, you may collaborate with up to 2 other people (i.e. a group of up to 3 total), but your collaboration must be "Whiteboard-Only" (defined below).
 
 For either kind of problem set (big or little) you may additionally use external materials with following restrictions:
 
