@@ -102,6 +102,13 @@ assignments:
         written:
             portion: "30"
             
+    PA0 Getting Started:
+        group: programming
+        due: 2023-01-26 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.pdf'        
+            
     PA1 Graphs:
         group: programming
         due: 2023-02-02 23:59:00
