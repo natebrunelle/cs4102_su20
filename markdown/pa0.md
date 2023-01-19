@@ -30,4 +30,4 @@ You will have a separate Overleaf project for each exercise. The easiest way to 
 ## Deliverable
 - Modify the ps0.tex file to complete each problem. To see an example of what your submission might look like, see this pdf. You should reproduce the proof seen there for problem 2.
 - Learn how to include drawings in your documents with the includegraphics{file} command by including a caricature of Nathan Brunelle (or some other image) in the same pdf. Make sure the entire image fits on a single page. You may need to resize the image.
-- Submit the generated pdf on the kytos submission system. Name it exercise0.pdf.
+- Submit the generated **pdf** (NOT a .tex or .zip file) to Gradescipe.
