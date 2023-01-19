@@ -28,3 +28,5 @@ Due 11:00pm Thursday Jan 26 (but will remain open for submission until Thursday 
 
 This assignment is intended to get you set up for future written and programming assignments. Here is a link to the [PA0 Task Description](https://www.cs.virginia.edu/~njb2b/cs3100/s2023/pa0.html).
 
+Unlike with all future PAs, you may work and submit as a group of up to 5 on this assignment.
+
