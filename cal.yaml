@@ -30,7 +30,7 @@ sections:
 
 lectures:
     - Welcome
-    - Graphs Introduction, BFS, DFS
+    - Graphs Introduction, BFS
     - Topological Sort, Connected Components
     - Weighted Graphs, Dijkstra's
     - MSTs
@@ -59,6 +59,8 @@ lectures:
     - Finale
 
 reading:
+    Graphs Introduction, BFS:
+        - "CLRS Ch. 22.1-22.2"
     Asymptotics Divide and Conquer:
         - "CLRS ch.3 all, 4.1, 4.1"
     Karatsuba and Recurrences:
