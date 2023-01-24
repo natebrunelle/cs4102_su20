@@ -2,7 +2,7 @@
     slides(pptx): files/slides/lecture1_welcome.pptx
     slides(pdf): files/slides/lecture1_welcome.pdf
 
-2023-01-23:
+2023-01-24:
     slides(pptx): files/slides/lecture2_graphs.pptx
     slides(pdf): files/slides/lecture2_graphs.pdf
     bfs(python): files/code/bfs.py
