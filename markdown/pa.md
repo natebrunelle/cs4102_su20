@@ -34,7 +34,7 @@ Unlike with all future PAs, you may work and submit as a group of up to 5 on thi
 
 Due 11:59pm Thursday Feb 2. <span style="color: red;">My Gradescope autograder is broken, so submissions are not live right now. I'll update you when I've fixed it. Sorry!</span>
 
-This assignment is intended to provide you experience in building/manipulating adjacency list representations of graphs, and to exercise your ability to apply BFS and DFS to a novel problem. Here is a link to the [PA1 Task Description](/files/pa/pa1.pdf). Here is a [zip file](/files/pa/pa1.zip) with some starter code (in python and java both) and test cases. Modify the `DonorCycle.java` or `donor_cycle.py` file (you don't need to do both!) to solve the problem described in the writeup. To submit, re-zip the folder and upload to Gradescope.
+This assignment is intended to provide you experience in building/manipulating adjacency list representations of graphs, and to exercise your ability to apply BFS and DFS to a novel problem. Here is a link to the [PA1 Task Description](/files/pa/pa1_writeup.pdf). Here is a [zip file](/files/pa/pa1.zip) with some starter code (in python and java both) and test cases. Modify the `DonorCycle.java` or `donor_cycle.py` file (you don't need to do both!) to solve the problem described in the writeup. To submit, re-zip the folder and upload to Gradescope.
 
 Here is a summary of the test cases provided:
 
@@ -47,7 +47,7 @@ Here is a summary of the test cases provided:
 - `lollypop0.txt` is a graph with vertices in a "lollypop" shape, meaning there is a straight line of nodes connected to nodes in a loop. The query node is at the start of the "stick" of the lollypop, so the answer should be **False**.
 - `lollypop5.txt` is the same lollypop graph as above, but now the query node is in the candy portion of the lollypop. The answer should be **True**.
 
-To give input to your program, you should just run the program, then copy-paste the contents of a file into the console (the place that things print to in your IDE). To provide output, simply print to the consol. Make sure you do not have any print statements besides just your answer!
+To give input to your program, you should just run the program. At first nothing will appear to happen, but then if you copy-paste the contents of a file into the console (the place that things print to in your IDE) and hit "enter" the code should run. The starter code parses the input for you and invokes a function using those parameters. To provide output, simply print to the console. Make sure you do not have any print statements besides just your answer.
 
 There will be additional tests run when you submit that you will not have direct access to, so make sure you do some debugging on your own, too!
 
