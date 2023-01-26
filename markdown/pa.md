@@ -37,6 +37,7 @@ Due 11:59pm Thursday Feb 2. <span style="color: red;">My Gradescope autograder i
 This assignment is intended to provide you experience in building/manipulating adjacency list representations of graphs, and to exercise your ability to apply BFS and DFS to a novel problem. Here is a link to the [PA1 Task Description](https://www.cs.virginia.edu/~njb2b/cs3100/s2023/files/pa/pa1.pdf). Here is a zip file with some starter code (in python and java both) and test cases. Modify the `DonorCycle.java` or `donor_cycle.py` file (you don't need to do both!). To submit, re-zip the folder and upload to Gradescope.
 
 Here is a summary of the test cases provided:
+
 - `example.txt` is the example file in the writeup. The answer should be **True**.
 - `slides.txt` is the directed graph from the slides with the right-most node as the query. The answer should be **False**.
 - `straightline.txt` is just a line of vertices. The answer should be **False**.
