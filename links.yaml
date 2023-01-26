@@ -7,11 +7,11 @@
     slides(pdf): files/slides/lecture2_graphs.pdf
     bfs(python): files/code/bfs.py
     
-2022-06-23:
-    slides(pptx): files/slides/lecture3_recurrences.pptx
-    slides(pdf): files/slides/lecture3_recurrences.pdf
-    recurrence math: files/recurrence_math.pdf
-    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58a0cbbd-6cfd-4fe0-80ac-aebd00ef07b5
+2022-01-26:
+    slides(pptx): files/slides/lecture3_graphs.pptx
+    slides(pdf): files/slides/lecture3_graphs.pdf
+    bfs(python): files/code/bfs.py
+    dfs(python): files/code/dfs.py
     
 2022-06-24:
     slides (pptx): files/slides/lecture4_master_closestpair.pptx
