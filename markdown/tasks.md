@@ -4,7 +4,7 @@ title: Tasks
 
 # Programming Assignments
 
-- [PA0](/pa0.html)
+- [link to all pas](/pa.html)
 
 # Written Problem Sets
 
