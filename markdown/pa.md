@@ -37,4 +37,16 @@ Due 11:59pm Thursday Feb 2. <span style="color: red;">My Gradescope autograder i
 This assignment is intended to provide you experience in building/manipulating adjacency list representations of graphs, and to exercise your ability to apply BFS and DFS to a novel problem. Here is a link to the [PA1 Task Description](https://www.cs.virginia.edu/~njb2b/cs3100/s2023/files/pa/pa1.pdf). Here is a zip file with some starter code (in python and java both) and test cases. Modify the `DonorCycle.java` or `donor_cycle.py` file (you don't need to do both!). To submit, re-zip the folder and upload to Gradescope.
 
 Here is a summary of the test cases provided:
+- `example.txt` is the example file in the writeup. The answer should be **True**.
+- `slides.txt` is the directed graph from the slides with the right-most node as the query. The answer should be **False**.
+- `straightline.txt` is just a line of vertices. The answer should be **False**.
+- `biggerloop.txt` is 10 vertices in a circle. The answer should be **True**.
+- `almostcycle.txt` is 10 vertices in a cycle, but with one edge in the opposite direction from the rest. The answer should be **False**.
+- `complete.txt` is 10 vertices that are each connected to all the other vertices. The answer should be **True**.
+- `lollypop0.txt` is a graph with vertices in a "lollypop" shape, meaning there is a straight line of nodes connected to nodes in a loop. The query node is at the start of the "stick" of the lollypop, so the answer should be **False**.
+- `lollypop5.txt` is the same lollypop graph as above, but now the query node is in the candy portion of the lollypop. The answer should be **True**.
+
+To give input to your program, you should just run the program, then copy-paste the contents of a file into the console (the place that things print to in your IDE).
+
+There will be additional tests run when you submit that you will not have direct access to, so make sure you do some debugging on your own, too!
 
