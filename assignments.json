@@ -11,7 +11,7 @@
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
-  ,"due":"2023-02-02 23:59"
+  ,"due":"2023-02-09 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
@@ -33,15 +33,6 @@
   ,"weight":1
   ,"files":"something.pdf"
   }
-,"PA3 Divide and Conquer":
-  {"portion":"30"
-  ,"drop":2
-  ,"group":"programming"
-  ,"due":"2023-02-16 23:59"
-  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
-  ,"weight":1
-  ,"files":"something.java"
-  }
 ,"Q1 Graphs":
   {"portion":"30"
   ,"group":"written"
@@ -49,15 +40,6 @@
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.pdf"
-  }
-,"PA4 Divide and Conquer":
-  {"portion":"30"
-  ,"drop":2
-  ,"group":"programming"
-  ,"due":"2023-02-23 23:59"
-  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
-  ,"weight":1
-  ,"files":"something.java"
   }
 ,"PS2 Divide and Conquer":
   {"portion":"30"
@@ -67,15 +49,6 @@
   ,"weight":1
   ,"files":"something.pdf"
   }
-,"PA5 Greedy":
-  {"portion":"30"
-  ,"drop":2
-  ,"group":"programming"
-  ,"due":"2023-03-02 23:59"
-  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
-  ,"weight":1
-  ,"files":"something.java"
-  }
 ,"Q2 Divide and Conquer":
   {"portion":"30"
   ,"group":"written"
@@ -84,15 +57,6 @@
   ,"weight":1
   ,"files":"something.pdf"
   }
-,"PA6 Greedy":
-  {"portion":"30"
-  ,"drop":2
-  ,"group":"programming"
-  ,"due":"2023-03-16 23:59"
-  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
-  ,"weight":1
-  ,"files":"something.java"
-  }
 ,"PS3 greedy":
   {"portion":"30"
   ,"group":"written"
@@ -100,42 +64,6 @@
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.pdf"
-  }
-,"PA7 DP":
-  {"portion":"30"
-  ,"drop":2
-  ,"group":"programming"
-  ,"due":"2023-03-23 23:59"
-  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
-  ,"weight":1
-  ,"files":"something.java"
-  }
-,"PA8 DP":
-  {"portion":"30"
-  ,"drop":2
-  ,"group":"programming"
-  ,"due":"2023-03-30 23:59"
-  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
-  ,"weight":1
-  ,"files":"something.java"
-  }
-,"PA8 Reductions":
-  {"portion":"30"
-  ,"drop":2
-  ,"group":"programming"
-  ,"due":"2023-04-06 23:59"
-  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
-  ,"weight":1
-  ,"files":"something.java"
-  }
-,"PA9 Reductions":
-  {"portion":"30"
-  ,"drop":2
-  ,"group":"programming"
-  ,"due":"2023-04-13 23:59"
-  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
-  ,"weight":1
-  ,"files":"something.java"
   }
 ,"PA10 ML":
   {"portion":"30"
