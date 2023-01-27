@@ -30,6 +30,7 @@ sections:
 
 lectures:
     - Welcome
+    - Algorithm analysis and Asymptotics
     - Graphs Introduction, BFS
     - Topological Sort, Connected Components
     - Weighted Graphs, Dijkstra's
@@ -50,8 +51,7 @@ lectures:
     - Reductions
     - Worst case Lower Bounds
     - Hardness, Completeness
-    - P vs NP Lecture 1
-    - P vs NP Lecture 2
+    - P vs NP
     - Machine Learning Lecture 1
     - Machine Learning Lecture 2
     - Machine Learning Lecture 3
