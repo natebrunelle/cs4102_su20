@@ -42,6 +42,14 @@
   ,"weight":1
   ,"files":"something.java"
   }
+,"Q1 Graphs":
+  {"portion":"30"
+  ,"group":"written"
+  ,"due":"2023-02-21 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.pdf"
+  }
 ,"PA4 Divide and Conquer":
   {"portion":"30"
   ,"drop":2
@@ -67,6 +75,14 @@
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
+  }
+,"Q2 Divide and Conquer":
+  {"portion":"30"
+  ,"group":"written"
+  ,"due":"2023-03-14 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.pdf"
   }
 ,"PA6 Greedy":
   {"portion":"30"
