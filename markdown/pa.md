@@ -32,9 +32,9 @@ Unlike with all future PAs, you may work and submit as a group of up to 5 on thi
 
 ## PA1: Kidney Donation
 
-Due 11:59pm Thursday Feb 2. <span style="color: red;">My Gradescope autograder is broken, so submissions are not live right now. I'll update you when I've fixed it. Sorry!</span>
+Due 11:59pm Thursday Feb 9.
 
-This assignment is intended to provide you experience in building/manipulating adjacency list representations of graphs, and to reinforce your understanding of BFS and DFS by adapting them to solve a novel problem. Here is a link to the [PA1 Task Description](/files/pa/pa1_writeup.pdf). Here is a [zip file](/files/pa/KidneyDonation.zip) with some starter code (in python and java both) and test cases. Modify the `DonorCycle.java` or `donor_cycle.py` file (you don't need to do both!) to solve the problem described in the writeup. To submit, re-zip the folder and upload to Gradescope.
+This assignment is intended to provide you experience in building/manipulating adjacency list representations of graphs, and to reinforce your understanding of BFS and DFS by adapting them to solve a novel problem. Here is a link to the [PA1 Task Description](/files/pa/pa1_writeup.pdf). Here is a [zip file](/files/pa/KidneyDonation.zip) with some starter code (in python and java both) and test cases. Modify the `DonorCycle.java` or `donor_cycle.py` file (you don't need to do both!) to solve the problem described in the writeup. To submit, simplyt upload your `DonorCycle.java` or `donor_cycle.py` file to gradescope.
 
 Here is a summary of the test cases provided:
 
