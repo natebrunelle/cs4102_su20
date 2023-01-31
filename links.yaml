@@ -3,21 +3,19 @@
     slides(pdf): files/slides/lecture1_welcome.pdf
 
 2023-01-24:
-    slides(pptx): files/slides/lecture2_graphs.pptx
-    slides(pdf): files/slides/lecture2_graphs.pdf
-    bfs(python): files/code/bfs.py
+    slides(pptx): files/slides/lecture2_analysis.pptx
+    slides(pdf): files/slides/lecture2_analysis.pdf
     
 2023-01-26:
-    slides(pptx): files/slides/lecture3_graphs.pptx
-    slides(pdf): files/slides/lecture3_graphs.pdf
+    slides(pptx): files/slides/lecture3_bfs.pptx
+    slides(pdf): files/slides/lecture3_bfs.pdf
     bfs(python): files/code/bfs.py
-    dfs(python): files/code/dfs.py
     
-2022-06-24:
-    slides (pptx): files/slides/lecture4_master_closestpair.pptx
-    slides (pdf): files/slides/lecture4_master_closestpair.pdf
-    recurrence math: files/recurrence_math.pdf
-    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1ca52d27-6f60-4c44-a26f-aebe00ef7248
+    
+2021-01-31:
+    slides (pptx): files/slides/lecture4_dfs.pptx
+    slides (pdf): files/slides/lecture4_dfs.pdf
+    dfs(python): files/code/dfs.py
 
 2022-06-25:
     slides(pdf): files/slides/lecture5_strassens_quicksort.pdf
