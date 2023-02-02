@@ -21,15 +21,13 @@ There are two ways you may attempt the problem set: with a group of up to 6 (you
 
 To form a group you could either select your own members and then upload a group submission to gradescope, or else complete this [Random Teammate Request Form](https://docs.google.com/forms/d/e/1FAIpQLScHNVL79Np4hWT1_Uwy_Uy5Pwu1r4d_mQL9cRTYjdIbmThcTg/viewform?usp=sf_link) so I can assign one for you.
 
-# Deliverables
-
-Unless otherwise indicated, each program (either a .py file or a .java file) will be submitted in Gradescope. 
-
 # Assignments
 
 ## PS1: Graphs
 
 Due 11:59pm Thursday Feb 21.
+
+If seeking a random team, please submit the form by 11:59pm on Monday 2/6.
 
 You may view a pdf of the problem set [here](/files/ps/ps1_blank.pdf).
 
