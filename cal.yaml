@@ -33,7 +33,7 @@ lectures:
     - Algorithm analysis and Asymptotics
     - Graphs Introduction, BFS
     - DFS, Topological Sort
-    - Connected Components, Dijkstra's
+    - Connected Components, Dijkstra
     - Divide and Conquer, Recurrences
     - Tree Method, Karatsuba
     - Master Theorem, Closes Pair
@@ -64,7 +64,7 @@ reading:
         - "CLRS ch.3 all"
     DFS, Topological Sort:
         - "CLRS ch. 22.3-22.4
-    Connected Components, Dijkstra's:
+    Connected Components, Dijkstra:
         - "CLRS ch. 22.5, 24.3"
     Karatsuba and Recurrences:
         - "CLRS ch.4 all"
