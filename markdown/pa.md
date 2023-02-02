@@ -51,3 +51,17 @@ To give input to your program, you should just run the program. At first nothing
 
 There will be additional tests run when you submit that you will not have direct access to, so make sure you do some debugging on your own, too!
 
+## PA2: Amazon Subprime
+
+Due 11:59pm Thursday Feb 16.
+
+This assignment is intended to provide you experience in building/manipulating adjacency list representations of weighted graphs, and to reinforce your understanding of Dijkstra's algorithm by adapting it to solve a novel problem. Here is a link to the [PA2 Task Description](/files/pa/pa2_writeup.pdf). Here is a [zip file](/files/pa/AmazonSubprim.zip) with some starter code (in python and java both) and test cases. Modify the `Subprime.java` or `subprime.py` file (you don't need to do both!) to solve the problem described in the writeup. To submit, simplyt upload your `Subprime.java` or `subprime.py` file to gradescope. Sample implementations of Dijkstra's algorithm is also provided for both Java and Python. You're welcome to use that code however you wish, but your program will not have access to those files when being autograded, so any code you use should be copy-pasted into the program you submit.
+
+There are two test cases provided:
+
+- `test0.txt` is the test from the writeup. Its shortest path should be 0,2,3 and have cost 120
+- `test1.txt` is a larger graph. Its shortest path should be 0,4,5,6,7,3 and have cost 70
+
+To give input to your program, you should just run the program. At first nothing will appear to happen, but then if you copy-paste the contents of a file into the console (the place that things print to in your IDE) and hit "enter" the code should run. The starter code parses the input for you and invokes a function using those parameters. To provide output, simply print to the console. Make sure you do not have any print statements besides just your answer.
+
+There will be additional tests run when you submit that you will not have direct access to (in fact the majority are hidden for this assignment), so make sure you do some debugging on your own, too!
