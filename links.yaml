@@ -16,12 +16,13 @@
 2023-01-31:
     slides (pptx): files/slides/lecture4_dfs.pptx
     slides (pdf): files/slides/lecture4_dfs.pdf
+    annotated slides (11am): files/slides/lecture4_dfs_11am.pdf
+    annotated slides (2pm): files/slides/lecture4_dfs_2pm.pdf
     dfs(python): files/code/dfs.py
 
-2022-06-25:
-    slides(pdf): files/slides/lecture5_strassens_quicksort.pdf
-    slides(pptx): files/slides/lecture5_strassens_quicksort.pptx
-    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3ce11c7b-6ee6-4785-9557-aebf00eedfd5
+2023-02-02:
+    slides(pdf): files/slides/lecture5_dijkstra.pdf
+    slides(pptx): files/slides/lecture5_dijkstra.pptx\
     
 2022-06-27:
     slides (pptx): files/slides/lecture6_random_sorting.pptx
