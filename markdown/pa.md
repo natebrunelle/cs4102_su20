@@ -65,3 +65,13 @@ There are two test cases provided:
 To give input to your program, you should just run the program. At first nothing will appear to happen, but then if you copy-paste the contents of a file into the console (the place that things print to in your IDE) and hit "enter" the code should run. The starter code parses the input for you and invokes a function using those parameters. To provide output, simply print to the console. Make sure you do not have any print statements besides just your answer.
 
 There will be additional tests run when you submit that you will not have direct access to (in fact the majority are hidden for this assignment), so make sure you do some debugging on your own, too!
+
+## PA3: Depth Finder
+
+Due 11:59pm Thursday Feb 23. **Warning: Since folks have been asking for this assignment I wanted to go ahead an post it. I have not yet had adequate time to test the autograder or starter code, so there may be some bugs. I'll remove this message once I have more confidence in their stability. If you decide to work on this assignment in the meantime, notifying me of issues would be appreciated.**
+
+This assignment is intended to provide you experience in designing and implementing divide and conquer algorithms. Here is a link to the [PA3 Task Description](/files/pa/pa3_writeup.pdf). Here is a [zip file](/files/pa/DepthFinder.zip) with some starter code (in python and java both). Modify  the `GamePlayer.java` or `gameplayer.py` file (you don't need to do both!) to solve the problem described in the writeup. To submit, simply upload your `GamePlayer.java` or `gameplayer.py` file to gradescope. Do not submit the other files (the autograder will be using a different version of each to ensure rules are followed).
+
+There are no pre-defined tests for this assignment. Instead, tests are generated randomly each time. To run your code, run the `PlayGame.java` or `playgame.py` program, then give an integer greater than 4 in the console to identify the size of the test to run. Since the tests are random it would be wise to run your code several times for many different input sizes before concluding that it is correct.
+
+To truly test your program, in addition to the random tests of various sizes, the autograder will run your program against a gameboard that "cheats". This adversarial gameboard will derives answers answers per-ping to guarantee that it will cause your algorithm to exceed the ping limit if any input can. The autograder tests marked "random" use the same implementation given to you in the starter code. The tests marked "adversary" use the cheating implementation.
