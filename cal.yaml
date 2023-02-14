@@ -66,16 +66,14 @@ reading:
         - "CLRS ch. 22.3-22.4"
     Connected Components, Dijkstra:
         - "CLRS ch. 22.5, 24.3"
-    Karatsuba and Recurrences:
+    Divide and Conquer, Recurrences:
         - "CLRS ch.4 all"
-    Master Theorem and Closes Pair:
+    Tree Method, Karatsuba:
+        - "ch.4 all"
+    Master Theorem, Closes Pair:
         - "CLRS 33.4"
-    Strassens and Quicksort:
-        - "CLRS 4.2 and 4.5"
-    Random Quicksort and Decision Trees:
-        - "CLRS ch. 7 and ch. 9"
-    Sorting Properties and Linear Sorting:
-        - "CLRS ch. 8"
+    Strassens, Quickselect:
+        - "CLRS ch.4.2 and CLRS ch. 9 all"
     Dynamic Programming part 1:
         - "CLRS 15.1, 15.2, 15.3"
     Dynamic Programming part 1:
