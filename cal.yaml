@@ -36,7 +36,8 @@ lectures:
     - Connected Components, Dijkstra
     - Divide and Conquer, Recurrences
     - Tree Method, Karatsuba
-    - Master Theorem, Closes Pair
+    - Master Theorem
+    - Guess and Check, Closes Pair
     - Strassens, Quickselect
     - Introduction to Greedy
     - Greedy Lecture 2
