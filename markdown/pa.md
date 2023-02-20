@@ -75,3 +75,10 @@ This assignment is intended to provide you experience in designing and implement
 There are no pre-defined tests for this assignment. Instead, tests are generated randomly each time. To run your code, run the `PlayGame.java` or `playgame.py` program, then give an integer greater than 4 in the console to identify the size of the test to run. Since the tests are random it would be wise to run your code several times for many different input sizes before concluding that it is correct.
 
 To truly test your program, in addition to the random tests of various sizes, the autograder will run your program against a gameboard that "cheats". This adversarial gameboard will derives answers answers per-ping to guarantee that it will cause your algorithm to exceed the ping limit if any input can. The autograder tests marked "random" use the same implementation given to you in the starter code. The tests marked "adversary" use the cheating implementation.
+
+# PA4: Median Finder
+
+Due 11:59pm Thursday March 2. 
+
+This assignment is intended to provide you experience in designing and implementing divide and conquer algorithms. Here is a link to the [PA4 Task Description](/files/pa/pa4_writeup.pdf). Here is a [zip file](/files/pa/pa4.zip) with some starter code (in python and java both). Modify  the `MedianFinder.java` or `medianfinder.py` file (you don't need to do both!) to solve the problem described in the writeup. To submit, simply upload your `MedianFinder.java` or `medianfinder.py` file to gradescope. Do not submit the other files (the autograder will be using a different version of each to ensure rules are followed).
+
