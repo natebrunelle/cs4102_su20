@@ -25,11 +25,22 @@ To form a group you could either select your own members and then upload a group
 
 ## PS1: Graphs
 
-Due 11:59pm Thursday Feb 21.
+Due 11:59pm Tuesday Feb 21.
 
 If seeking a random team, please submit the form by 11:59pm on Monday 2/6.
 
 You may view a pdf of the problem set [here](/files/ps/ps1_blank.pdf).
 
 You may download the template (suitable for uploading to Overleaf) [here](/files/ps/ps1.zip).
+
+
+## PS2: Divide and Conquer
+
+Due 11:59pm Thursday March 16.
+
+If seeking a random team, please submit the form by 11:59pm on Saturday 2/25.
+
+You may view a pdf of the problem set [here](/files/ps/ps2_blank.pdf).
+
+You may download the template (suitable for uploading to Overleaf) [here](/files/ps/ps2.zip).
 
