@@ -54,6 +54,7 @@ Here is what you'll be expected to do on the quiz:
   - Dijkstra's Algorithm
 
 Here are some vague hypothetical questions that could be asked and additionally some actual questions that I discarded from the quiz to keep it of appropriate length:
+
 - Show that $f(n)\in O(g(n))$
 - If $f(n)$ and $g(n)$ represent the worst case running time of two different algorithms, what does $f(n)\in \Omega(g(n))$ tell us about how many operations they'll do for large inputs?
 - Suppose we did a DFS on the given graph starting from node $0$, what type of edge is $(3,4)$? Is it a tree edge, back edge, forward edge, or cross edge?
