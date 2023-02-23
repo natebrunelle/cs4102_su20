@@ -30,7 +30,7 @@ Quizzes will be delivered and submitted on Gradescope. You will have 60 minutes 
 
 This quiz will be based off of all content convered through our discussion of Dijkstra's Algorithm (which we concluded on Feb 6). Here is what you'll be expected to do on the quiz
 
-- Intuitively understand the definitions of $$O$$, $$\Omega$$, $$\Theta$$, $$o$$, $$\omega$$ and how they relate to evaluating the running time of algorithms
+- Intuitively understand the definitions of $O$, $\Omega$, $\Theta$, $o$, $\omega$ and how they relate to evaluating the running time of algorithms
 - Be able to demonstrate asymptotic bounds of functions
 - Understand the definition of a graph and definitions of various properties of graphs including:
     - Directed Graph
