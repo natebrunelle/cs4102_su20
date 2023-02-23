@@ -61,6 +61,6 @@ Here are some vague hypothetical questions that could be asked and additionally 
 - Is it possible to run DFS on an acyclic graph and find cross edges? If so, then give and example graph and start node. If not, argue why.
 - Suppose we did a BFS on the given graph starting from node $5$, which node would be the last one removed from the queue?
 - Suppose we had a graph were all edge weights were positive and unique. Could our implementation of Dijkstra's algorithm from class ever add the same node to the priority queue twice?
-- Suppose we had a graph with $n$ nodes and $m$ strongly connected components. What is the maximum number of edges in this graph?
+- Suppose we had a graph with $n$ nodes and $2$ strongly connected components. What is the maximum number of edges in this graph?
 - In our implementation of Dijkstra's algorithm from class, inside the for loop that iterates over all of the neighbors of the current node, we have the conditional `if not done[neighbor]`. Suppose we removed that if statement so that the body of the loop occurred every time for every neighbor. Would the algorithm still be guaranteed to terminate, or could we have an infinite loop?
 
