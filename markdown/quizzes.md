@@ -53,7 +53,7 @@ Here is what you'll be expected to do on the quiz:
   - Depth-First Search (DFS)
   - Dijkstra's Algorithm
 
-Here are some vague hypothetical questions that could be asked:
+Here are some vague hypothetical questions that could be asked and additionally some actual questions that I discarded from the quiz to keep it of appropriate length:
 - Show that $f(n)\in O(g(n))$
 - If $f(n)$ and $g(n)$ represent the worst case running time of two different algorithms, what does $f(n)\in \Omega(g(n))$ tell us about how many operations they'll do for large inputs?
 - Suppose we did a DFS on the given graph starting from node $0$, what type of edge is $(3,4)$? Is it a tree edge, back edge, forward edge, or cross edge?
@@ -61,5 +61,5 @@ Here are some vague hypothetical questions that could be asked:
 - Suppose we did a BFS on the given graph starting from node $5$, which node would be the last one removed from the queue?
 - Suppose we had a graph were all edge weights were positive and unique. Could our implementation of Dijkstra's algorithm from class ever add the same node to the priority queue twice?
 - Suppose we had a graph with $n$ nodes and $m$ strongly connected components. What is the maximum number of edges in this graph?
-- In our implementation of Dijkstra's algorithm from class, inside the for loop that iterates over all of the neighbors of the current node, we have the conditional `if not done[neighbor]`. Suppose we removed that if statement so that the body of the loop occurred every time for every neighbor. Would the algorithm still be guaranteed to terminate, or could we hve an infinite loop?
+- In our implementation of Dijkstra's algorithm from class, inside the for loop that iterates over all of the neighbors of the current node, we have the conditional `if not done[neighbor]`. Suppose we removed that if statement so that the body of the loop occurred every time for every neighbor. Would the algorithm still be guaranteed to terminate, or could we have an infinite loop?
 
