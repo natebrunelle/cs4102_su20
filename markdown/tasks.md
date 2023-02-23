@@ -19,3 +19,5 @@ You are welcome to work on and submit written problem sets in groups. If you for
 [link to all PS's](/ps.html)
 
 # Quizzes
+
+[link to Quiz guides](/quizzes.html)
