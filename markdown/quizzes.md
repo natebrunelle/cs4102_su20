@@ -24,3 +24,30 @@ You will be asked to pledge on each quiz that you've observed these directives.
 
 Quizzes will be delivered and submitted on Gradescope. You will have 60 minutes from the time that you first open the quiz to complete the quiz. This includes the time required to scan/photograph and upload any hand-written work, so familiarize yourself with the tool you will use to do this before beginning the quiz.
 
+# Quiz Guides
+
+## Quiz 1: Graphs and Asymptotics
+
+This quiz will be based off of all content convered through our discussion of Dijkstra's Algorithm (which we concluded on Feb 6). Here is what you'll be expected to do on the quiz
+
+- Intuitively understand the definitions of $$O$$, $$\Omega$$, $$\Theta$$, $$o$$, $$\omega$$ and how they relate to evaluating the running time of algorithms
+- Be able to demonstrate asymptotic bounds of functions
+- Understand the definition of a graph and definitions of various properties of graphs including:
+    - Directed Graph
+    - Undirected Graph
+    - Weighted Graph
+    - Node degree (including in-degree and out-degree)
+    - Path
+    - Cycle
+    - Simple Path
+    - Connected Graph
+    - Cyclic Graph
+    - Topological sort
+    - Strongly Connected Component
+    - Bipartite
+- Be able to reason about the tradeoffs between using an adjacency list representation of a graph vs. an adjacency matrix representation
+- Understand the following algorithms/traversals to the extent that you could step through them manually and reason about hypothetical changes to them:
+  - Breadth-First Search (BFS)
+  - Depth-First Search (DFS)
+  - Dijkstra's Algorithm
+
