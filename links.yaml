@@ -50,7 +50,7 @@
     slides (pptx): files/slides/lecture10_closest_pair.pptx
     slides (pdf): files/slides/lecture10_closest_pair.pdf
     
-2022-07-05:
+2023-07-05:
     slides (pptx): files/slides/lecture11_greedy.pptx
     slides (pdf): files/slides/lecture11_greedy.pdf
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1cfa4ee5-6174-4e6e-82b6-aec900ef8a7f
@@ -81,10 +81,9 @@
     slides (pdf): files/slides/lecture16_reductions.pdf
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b711df3e-d828-4dc4-b92b-aed000f06f86
     
-2022-07-13:
-    slides (pptx): files/slides/lecture17_reductions2.pptx
-    slides (pdf): files/slides/lecture17_reductions2.pdf
-    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=59406bfc-58a2-4c96-ac42-aed100f0cca5
+2022-01-23:
+    slides (pptx): files/slides/lecture11_DandC_wrap.pptx
+    slides (pdf): files/slides/lecture11_DandC_wrap.pdf
 
 2022-07-14:
     slides (pptx): files/slides/lecture18_npcomplete.pptx
