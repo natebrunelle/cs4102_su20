@@ -28,7 +28,9 @@ Quizzes will be delivered and submitted on Gradescope. You will have 60 minutes 
 
 ## Quiz 1: Graphs and Asymptotics
 
-This quiz will be based off of all content convered through our discussion of Dijkstra's Algorithm (which we concluded on Feb 6). Here is what you'll be expected to do on the quiz
+This quiz will be based off of all content convered through our discussion of Dijkstra's Algorithm (which we concluded on Feb 6). This Quiz will be released during the evening of Thursday 2/23 and due at 11:59pm on Tuesday 2/28. The Quiz will consist of multiple choice questions and written questions. You should solve the written questions on your own paper, then scan/photograph and upload your solutions to gradescope. Your 60 minutes includes the time to do this, so please have a plan before you begin the quiz.
+
+Here is what you'll be expected to do on the quiz:
 
 - Intuitively understand the definitions of $O$, $\Omega$, $\Theta$, $o$, $\omega$ and how they relate to evaluating the running time of algorithms
 - Be able to demonstrate asymptotic bounds of functions
@@ -50,4 +52,14 @@ This quiz will be based off of all content convered through our discussion of Di
   - Breadth-First Search (BFS)
   - Depth-First Search (DFS)
   - Dijkstra's Algorithm
+
+Here are some vague hypothetical questions that could be asked:
+- Show that $f(n)\in O(g(n))$
+- If $f(n)$ and $g(n)$ represent the worst case running time of two different algorithms, what does $f(n)\in \Omega(g(n))$ tell us about how many operations they'll do for large inputs?
+- Suppose we did a DFS on the given graph starting from node $0$, what type of edge is $(3,4)$? Is it a tree edge, back edge, forward edge, or cross edge?
+- Is it possible to run DFS on an acyclic graph and find cross edges? If so, then give and example graph and start node. If not, argue why.
+- Suppose we did a BFS on the given graph starting from node $5$, which node would be the last one removed from the queue?
+- Suppose we had a graph were all edge weights were positive and unique. Could our implementation of Dijkstra's algorithm from class ever add the same node to the priority queue twice?
+- Suppose we had a graph with $n$ nodes and $m$ strongly connected components. What is the maximum number of edges in this graph?
+- In our implementation of Dijkstra's algorithm from class, inside the for loop that iterates over all of the neighbors of the current node, we have the conditional `if not done[neighbor]`. Suppose we removed that if statement so that the body of the loop occurred every time for every neighbor. Would the algorithm still be guaranteed to terminate, or could we hve an infinite loop?
 
