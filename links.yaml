@@ -58,10 +58,9 @@
     slides (pptx): files/slides/lecture12_greedy.pptx
     slides (pdf): files/slides/lecture12_greedy.pdf
     
-2022-07-07:
-    slides (pptx): files/slides/lecture13_mst_dijkstra.pptx
-    slides (pdf): files/slides/lecture13_mst_dijkstra.pdf
-    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29a757cb-053e-4e9c-b9f7-aecb00ef8c7d
+2023-03-02:
+    slides (pptx): files/slides/lecture13_huffman.pptx
+    slides (pdf): files/slides/lecture13_huffman.pdf
     
 2022-07-08:
     slides (pptx): files/slides/lecture14_dijkstra_bfs_dfs.pptx
