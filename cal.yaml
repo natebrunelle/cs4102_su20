@@ -37,11 +37,11 @@ lectures:
     - Divide and Conquer, Recurrences
     - Tree Method, Karatsuba
     - Master Theorem
-    - Guess and Check, Closes Pair
-    - Strassens, Quickselect
-    - Introduction to Greedy
-    - Greedy Lecture 2
-    - Greedy Lecture 3
+    - Guess and Check
+    - Closest Pair, Strassens
+    - Parallism, wrapping up Divide and Conquer
+    - Greedy, Coin change, Interval Scheduling
+    - Huffman Coding
     - Greedy Lecture 4
     - Dynamic Programming Lecture 1
     - Dynamic Programming Lecture 2
