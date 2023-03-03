@@ -82,3 +82,8 @@ Due 11:59pm Thursday March 2.
 
 This assignment is intended to provide you experience in designing and implementing divide and conquer algorithms. Here is a link to the [PA4 Task Description](/files/pa/pa4_writeup.pdf). Here is a [zip file](/files/pa/pa4.zip) with some starter code (in python and java both). Modify  the `MedianFinder.java` or `medianfinder.py` file (you don't need to do both!) to solve the problem described in the writeup. To submit, simply upload your `MedianFinder.java` or `medianfinder.py` file to gradescope. Do not submit the other files (the autograder will be using a different version of each to ensure rules are followed).
 
+# PA5: Greedy Choices
+
+
+This assignment is intended to provide you experience in designing and implementing greedy choice functions. Here is a link to the [PA5 Task Description](/files/pa/pa5_writeup.pdf). Here is a [zip file](/files/pa/pa5.zip) with some starter code (in python and java both). You will be writings three different greedy choice functions (the choice functions only, I do the rest of the algorithm for you). One test case per greedy choice is provided just so you can see input format. You will need to build confidence for yourself on the correctness of your function, because no autograder feedback will be provided for you except to indicate whether or not there was an error when running your code.
+
