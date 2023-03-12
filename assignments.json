@@ -67,13 +67,31 @@
   ,"weight":1
   ,"files":"something.pdf"
   }
-,"Q2 Divide and Conquer":
+,"PA5 Greedy":
   {"portion":"30"
-  ,"group":"written"
+  ,"drop":2
+  ,"group":"programming"
   ,"due":"2023-03-21 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
+  ,"files":"something.java"
+  }
+,"Q2 Divide and Conquer":
+  {"portion":"30"
+  ,"group":"written"
+  ,"due":"2023-03-23 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
   ,"files":"something.pdf"
+  }
+,"PA6 Greedy":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2023-03-28 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.java"
   }
 ,"PA10 ML":
   {"portion":"30"
