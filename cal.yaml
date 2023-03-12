@@ -52,11 +52,11 @@ lectures:
     - Reductions
     - Worst case Lower Bounds
     - Hardness, Completeness
-    - P vs NP
     - Machine Learning Lecture 1
     - Machine Learning Lecture 2
     - Machine Learning Lecture 3
     - Machine Learning Lecture 4
+    - Finale
 
 reading:
     Graphs Introduction, BFS:
