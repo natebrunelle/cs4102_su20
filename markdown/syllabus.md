@@ -111,7 +111,28 @@ This numerical calculation is to be considered a **guideline** on your score in 
 
 Deadlines for all assignments are available on the [schedule page](schedule.html). In general, each week you should expect to have one programming assignments due during the week, and either a written problem set or a quiz due at the end of the week. There are a few exceptions to this pattern, so please make sure you check the schedule.
 
-PAs will have a 48-hour penalty-free late submission window. Late submissions of other assignments (PSs and quizzes) will not be allowed by default. If you feel that extenuating circumstances justify late submission for any assignment or that a short extension in a deadline will result in a grade that better reflects your understanding, please request a deadline extension. There is no upper bound on the number of assignment extensions you may be granted, but please don't exploit this. 
+PAs will have a 48-hour penalty-free late submission window. Late submissions of other assignments (PSs and quizzes) will not be allowed by default. If you feel that extenuating circumstances justify late submission for any assignment or that a short extension in a deadline will result in a grade that better reflects your understanding, please request a deadline extension. There is no upper bound on the number of assignment extensions you may be granted, but please don't exploit this. Deadline extension requests must be made 24 hours in advance of the original assignment deadline whenver possible. Requests made after this time must have additional reasoning for why the extension could not have been requested earlier.
+
+Here are non-exhaustive lists of pre-approved and pre-declined reasons for an extension.
+
+The following reasons are NOT sufficient justification for an extension:
+
+- Congestion of assignments/exams/projects/etc. with other courses
+- Confusion on course material
+- Mild illness
+- Job Interviews (tasks are released with sufficient lead time that you can plan around it)
+- Club activities or non-varsity sports
+- Non-working code
+- Most other foreseeable circumstances
+
+The following reasons would be acceptable justification for an extension:
+
+- SDAC accommodation
+- Severe Illness
+- Personal or family tragedy
+- Legal obligations
+- Varsity Athletics Competitions
+- Religious Observances
 
 ## Regrades
 
