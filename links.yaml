@@ -63,8 +63,8 @@
     slides (pdf): files/slides/lecture13_huffman.pdf
     
 2023-03-14:
-    slides (pptx): files/slides/Greedy_Knapsack.pptx
-    slides (pdf): files/slides/Greedy_Knapsack.pdf
+    slides (pptx): markdown/files/slides/Greedy_Knapsack.pptx
+    slides (pdf): markdown/files/slides/Greedy_Knapsack.pdf
 
 2022-03-15:
     slides (pptx): files/slides/lecture15_maxflow.pptx
