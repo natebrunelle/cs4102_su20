@@ -111,7 +111,7 @@ This numerical calculation is to be considered a **guideline** on your score in 
 
 Deadlines for all assignments are available on the [schedule page](schedule.html). In general, each week you should expect to have one programming assignments due during the week, and either a written problem set or a quiz due at the end of the week. There are a few exceptions to this pattern, so please make sure you check the schedule.
 
-Late submissions of assignments will not be allowed by default. If you feel that extenuating circumstances justify late submission for any assignment or that a short extension in a deadline will result in a grade that better reflects your understanding, please request a deadline extension. There is no upper bound on the number of assignment extensions you may be granted, but please don't exploit this. 
+PAs will have a 48-hour penalty-free late submission window. Late submissions of other assignments (PSs and quizzes) will not be allowed by default. If you feel that extenuating circumstances justify late submission for any assignment or that a short extension in a deadline will result in a grade that better reflects your understanding, please request a deadline extension. There is no upper bound on the number of assignment extensions you may be granted, but please don't exploit this. 
 
 ## Regrades
 
