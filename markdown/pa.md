@@ -87,3 +87,7 @@ This assignment is intended to provide you experience in designing and implement
 
 This assignment is intended to provide you experience in designing and implementing greedy choice functions. Here is a link to the [PA5 Task Description](/files/pa/pa5_writeup.pdf). Here is a [zip file](/files/pa/pa5.zip) with some starter code (in python and java both). You will be writings three different greedy choice functions (the choice functions only, I do the rest of the algorithm for you). One test case per greedy choice is provided just so you can see input format. You will need to build confidence for yourself on the correctness of your function, because no autograder feedback will be provided for you except to indicate whether or not there was an error when running your code.
 
+# PA6: Clustering
+
+This assignment is intended to provide you experience in implementing and applying Minimum Spanning Tree algorithms. Here is a link to the [PA6 Task Description](/files/pa/pa6_writeup.pdf). Here is a [zip file](/files/pa/pa6.zip) with some starter code (in python and java both). The test cases provided are simply random 2-d arrays of distances. To particular corner cases, edge cases, or misconceptions are intentionally tested for. You score should be visible immediately after the autograder checks your code.
+
