@@ -64,3 +64,17 @@ Here are some vague hypothetical questions that could be asked and additionally 
 - Suppose we had a graph with $n$ nodes and $2$ strongly connected components. What is the maximum number of edges in this graph?
 - In our implementation of Dijkstra's algorithm from class, inside the for loop that iterates over all of the neighbors of the current node, we have the conditional `if not done[neighbor]`. Suppose we removed that if statement so that the body of the loop occurred every time for every neighbor. Would the algorithm still be guaranteed to terminate, or could we have an infinite loop?
 
+## Quiz 2: Divide and Conquery
+
+This quiz will be based off of all content convered relating the Divide and Conquer algorithms (which we concluded on Feb 23). The Quiz will consist of multiple choice questions and written questions. You should solve the written questions on your own paper, then scan/photograph and upload your solutions to gradescope. Your 60 minutes includes the time to do this, so please have a plan before you begin the quiz.
+
+Here is what you'll be expected to do on the quiz:
+
+- Reason about the divide and conquer algorithms discussed in class
+    - Mergesort
+    - Karatsuba
+    - Closest Pair of Points
+    - Strassen's
+- Provide a recurrence relation to express the running time of a divide and conquer algorithm
+- Solve recurrence relations using the Master Theorem and the Tree method
+- Evaluate the running time of a divide and conquer algorithm running in parallel
