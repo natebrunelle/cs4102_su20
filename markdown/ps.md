@@ -46,6 +46,8 @@ You may view a pdf of the problem set [here](/files/ps/ps2_blank.pdf).
 
 You may download the template (suitable for uploading to Overleaf) [here](/files/ps/ps2.zip).
 
+You may view a pdf containing sample solutions [here](/files/ps/ps2_solutions.pdf).
+
 ## PS3: Greedy
 
 Due 11:59pm Thursday March 30.
