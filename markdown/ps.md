@@ -46,3 +46,13 @@ You may view a pdf of the problem set [here](/files/ps/ps2_blank.pdf).
 
 You may download the template (suitable for uploading to Overleaf) [here](/files/ps/ps2.zip).
 
+## PS3: Greedy
+
+Due 11:59pm Thursday March 30.
+
+If seeking a random team, please submit the form by 11:59pm on Tuesday 3/21.
+
+You may view a pdf of the problem set [here](/files/ps/ps3_blank.pdf).
+
+You may download the template (suitable for uploading to Overleaf) [here](/files/ps/ps3.zip).
+
