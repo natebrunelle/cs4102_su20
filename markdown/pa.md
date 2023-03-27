@@ -89,5 +89,8 @@ This assignment is intended to provide you experience in designing and implement
 
 # PA6: Clustering
 
-This assignment is intended to provide you experience in implementing and applying Minimum Spanning Tree algorithms. Here is a link to the [PA6 Task Description](/files/pa/pa6_writeup.pdf). Here is a [zip file](/files/pa/pa6.zip) with some starter code (in python and java both). The test cases provided are simply random 2-d arrays of distances. To particular corner cases, edge cases, or misconceptions are intentionally tested for. You score should be visible immediately after the autograder checks your code.
+This assignment is intended to provide you experience in implementing and applying Minimum Spanning Tree algorithms. Here is a link to the [PA6 Task Description](/files/pa/pa6_writeup.pdf). Here is a [zip file](/files/pa/pa6.zip) with some starter code (in python and java both). The test cases provided are simply random 2-d arrays of distances. No particular corner cases, edge cases, or misconceptions are intentionally tested for. You score should be visible immediately after the autograder checks your code.
 
+# PA7: Birthday Prank
+
+This assignment is intended to provide you experience in implementing Dynamic Programming algorithms. Here is a link to the [PA7 Task Description](/files/pa/pa7_writeup.pdf). Here is a [zip file](/files/pa/pa7.zip) with some starter code (in python and java both). Most test cases were designed to have cases were there are many options of boxes that nest but are not part of an optimal solution. There are also test cases where nearly every box should be included and one case where no two boxes fit teogher. You score should be visible immediately after the autograder checks your code, there are no hidden tests
