@@ -94,3 +94,4 @@ This assignment is intended to provide you experience in implementing and applyi
 # PA7: Birthday Prank
 
 This assignment is intended to provide you experience in implementing Dynamic Programming algorithms. Here is a link to the [PA7 Task Description](/files/pa/pa7_writeup.pdf). Here is a [zip file](/files/pa/pa7.zip) with some starter code (in python and java both). Most test cases were designed to have cases were there are many options of boxes that nest but are not part of an optimal solution. There are also test cases where nearly every box should be included and one case where no two boxes fit teogher. You score should be visible immediately after the autograder checks your code, there are no hidden tests
+
