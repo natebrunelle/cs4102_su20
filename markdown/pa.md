@@ -76,22 +76,22 @@ There are no pre-defined tests for this assignment. Instead, tests are generated
 
 To truly test your program, in addition to the random tests of various sizes, the autograder will run your program against a gameboard that "cheats". This adversarial gameboard will derives answers answers per-ping to guarantee that it will cause your algorithm to exceed the ping limit if any input can. The autograder tests marked "random" use the same implementation given to you in the starter code. The tests marked "adversary" use the cheating implementation.
 
-# PA4: Median Finder
+## PA4: Median Finder
 
 Due 11:59pm Thursday March 2. 
 
 This assignment is intended to provide you experience in designing and implementing divide and conquer algorithms. Here is a link to the [PA4 Task Description](/files/pa/pa4_writeup.pdf). Here is a [zip file](/files/pa/pa4.zip) with some starter code (in python and java both). Modify  the `MedianFinder.java` or `medianfinder.py` file (you don't need to do both!) to solve the problem described in the writeup. To submit, simply upload your `MedianFinder.java` or `medianfinder.py` file to gradescope. Do not submit the other files (the autograder will be using a different version of each to ensure rules are followed).
 
-# PA5: Greedy Choices
+## PA5: Greedy Choices
 
 
 This assignment is intended to provide you experience in designing and implementing greedy choice functions. Here is a link to the [PA5 Task Description](/files/pa/pa5_writeup.pdf). Here is a [zip file](/files/pa/pa5.zip) with some starter code (in python and java both). You will be writings three different greedy choice functions (the choice functions only, I do the rest of the algorithm for you). One test case per greedy choice is provided just so you can see input format. You will need to build confidence for yourself on the correctness of your function, because no autograder feedback will be provided for you except to indicate whether or not there was an error when running your code.
 
-# PA6: Clustering
+## PA6: Clustering
 
 This assignment is intended to provide you experience in implementing and applying Minimum Spanning Tree algorithms. Here is a link to the [PA6 Task Description](/files/pa/pa6_writeup.pdf). Here is a [zip file](/files/pa/pa6.zip) with some starter code (in python and java both). The test cases provided are simply random 2-d arrays of distances. No particular corner cases, edge cases, or misconceptions are intentionally tested for. You score should be visible immediately after the autograder checks your code.
 
-# PA7: Birthday Prank
+## PA7: Birthday Prank
 
 This assignment is intended to provide you experience in implementing Dynamic Programming algorithms. Here is a link to the [PA7 Task Description](/files/pa/pa7_writeup.pdf). Here is a [zip file](/files/pa/ps7.zip) with some starter code (in python and java both). Most test cases were designed to have cases were there are many options of boxes that nest but are not part of an optimal solution. There are also test cases where nearly every box should be included and one case where no two boxes fit teogher. You score should be visible immediately after the autograder checks your code, there are no hidden tests
 
