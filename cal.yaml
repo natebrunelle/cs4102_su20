@@ -248,7 +248,7 @@ assignments:
 
     Q3 greedy:
         group: written
-        due: 2022-03-28 23:59:00
+        due: 2022-04-06 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.pdf'
