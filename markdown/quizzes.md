@@ -64,7 +64,7 @@ Here are some vague hypothetical questions that could be asked and additionally 
 - Suppose we had a graph with $n$ nodes and $2$ strongly connected components. What is the maximum number of edges in this graph?
 - In our implementation of Dijkstra's algorithm from class, inside the for loop that iterates over all of the neighbors of the current node, we have the conditional `if not done[neighbor]`. Suppose we removed that if statement so that the body of the loop occurred every time for every neighbor. Would the algorithm still be guaranteed to terminate, or could we have an infinite loop?
 
-## Quiz 2: Divide and Conquery
+## Quiz 2: Divide and Conquer
 
 This quiz will be based off of all content convered relating the Divide and Conquer algorithms (which we concluded on Feb 23). The Quiz will consist of multiple choice questions and written questions. You should solve the written questions on your own paper, then scan/photograph and upload your solutions to gradescope. Your 60 minutes includes the time to do this, so please have a plan before you begin the quiz.
 
@@ -78,3 +78,17 @@ Here is what you'll be expected to do on the quiz:
 - Provide a recurrence relation to express the running time of a divide and conquer algorithm
 - Solve recurrence relations using the Master Theorem and the Tree method
 - Evaluate the running time of a divide and conquer algorithm running in parallel
+
+## Quiz 3: Greedy
+
+This quiz will be based off of all content convered relating the Divide and Conquer algorithms (which we concluded on March 16). The Quiz will consist of multiple choice questions and written questions. You should solve the written questions on your own paper, then scan/photograph and upload your solutions to gradescope. Your 60 minutes includes the time to do this, so please have a plan before you begin the quiz.
+
+Here is what you may be expected to do on the quiz:
+
+- Know and reason about the definitions and importance of Optimal Substructure and Greedy Choice Functions
+- Prove a problem has optimal substructure
+- Be able to find counterexamples for potential Greedy Choice Functions
+- Know the definition of a Minimum Spanning Tree
+- Know the Cut Property of Minimum Spanning Trees
+- Know Prim's and Kruskal's algorithms to the extent that you could do them by hand and know the differences between them
+- Understand the knapsack problem and why the fractional version allows for a greedy solution whereas the 0/1 version does not
