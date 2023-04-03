@@ -92,4 +92,3 @@ Here is what you may be expected to do on the quiz:
 - Know the Cut Property of Minimum Spanning Trees
 - Know Prim's and Kruskal's algorithms to the extent that you could do them by hand and know the differences between them
 - Understand the knapsack problem and why the fractional version allows for a greedy solution whereas the 0/1 version does not
-- 
