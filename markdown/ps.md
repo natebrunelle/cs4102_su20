@@ -58,3 +58,5 @@ You may view a pdf of the problem set [here](/files/ps/ps3_blank.pdf).
 
 You may download the template (suitable for uploading to Overleaf) [here](/files/ps/ps3.zip).
 
+You may view a pdf containing sample solutions [here](/files/ps/ps3_solutions.pdf).
+
