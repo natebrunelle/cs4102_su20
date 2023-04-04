@@ -164,7 +164,7 @@ assignments:
     
     PA8 DP:
         group: programming
-        due: 2022-03-30 23:59:00
+        due: 2023-04-11 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
