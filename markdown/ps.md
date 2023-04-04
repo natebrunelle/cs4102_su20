@@ -60,13 +60,13 @@ You may download the template (suitable for uploading to Overleaf) [here](/files
 
 You may view a pdf containing sample solutions [here](/files/ps/ps3_solutions.pdf).
 
-## PS3: Greedy
+## PS4: Dynamic Programming
 
 Due 11:59pm Thursday April 13.
 
-If seeking a random team, please submit the form by 11:59pm on Tuesday 4/03.
+If seeking a random team, please submit the form by 11:59pm on Tuesday 4/3.
 
-You may view a pdf of the problem set [here](/files/ps/ps3_blank.pdf).
+You may view a pdf of the problem set [here](/files/ps/ps4_blank.pdf).
 
-You may download the template (suitable for uploading to Overleaf) [here](/files/ps/ps3.zip).
+You may download the template (suitable for uploading to Overleaf) [here](/files/ps/ps4.zip).
 
