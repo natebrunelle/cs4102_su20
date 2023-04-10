@@ -178,7 +178,7 @@ assignments:
     
     PA9 Reductions:
         group: programming
-        due: 2022-04-13 23:59:00
+        due: 2023-04-18 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
@@ -220,7 +220,7 @@ assignments:
     
     PS5 Reductions:
         group: written
-        due: 2022-04-18 23:59:00
+        due: 2023-04-20 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.pdf'
@@ -260,9 +260,9 @@ assignments:
         weight: 1
         files: 'something.pdf'
     
-    Q5 Reductions and P vs NP:
+    Q5 Reductions:
         group: written
-        due: 2022-05-02 23:59:00
+        due: 2022-04-27 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.pdf'
