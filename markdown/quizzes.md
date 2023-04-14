@@ -92,3 +92,24 @@ Here is what you may be expected to do on the quiz:
 - Know the Cut Property of Minimum Spanning Trees
 - Know Prim's and Kruskal's algorithms to the extent that you could do them by hand and know the differences between them
 - Understand the knapsack problem and why the fractional version allows for a greedy solution whereas the 0/1 version does not
+
+## Quiz 4: Dynamic Programming
+
+This quiz will be based off of all content convered relating to Dynamic PRogramming algorithms (which we concluded on March 30). The Quiz will consist of multiple choice questions and written questions. You should solve the written questions on your own paper, then scan/photograph and upload your solutions to gradescope. Your 60 minutes includes the time to do this, so please have a plan before you begin the quiz.
+
+Here is what you may be expected to do on the quiz:
+
+- Know and reason about the definitions and importance of Optimal Substructure, memoization, and overlapping subproblems as they relate to dynamic programming
+- Explain the differences and similarities between a top-down and bottom-up dynamic programming algorithm
+- Use a description of a problems optimal substructure to:
+    - Write a dynamic programming algorithm (either top-down or bottom-up)
+    - Identify the base case of a dynamic programming algorithm
+    - Identify the base case of a dynamic programming algorithm
+    - Evaluate the running time of the dynamic programming algorithm
+    - Reason about the size/shape of the memory used to store subproblems' solutions
+    - Finish filling in an incomplete memory
+- Understand the dynamic programming algorithms discussed in class to be able to:
+    - Execute them by hand for a small number of steps
+    - Fill in cells in the memory
+    - Identify what problems might depend on other problems
+    - Use a completed memory to do backtracking
