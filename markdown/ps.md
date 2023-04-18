@@ -70,4 +70,14 @@ You may view a pdf of the problem set [here](/files/ps/ps4_blank.pdf).
 
 You may download the template (suitable for uploading to Overleaf) [here](/files/ps/ps4.zip).
 
+## PS5: Reductions
+
+Due 11:59pm Thursday April 27.
+
+If seeking a random team, please submit the form by 11:59pm on Tuesday 4/18.
+
+You may view a pdf of the problem set [here](/files/ps/ps5_blank.pdf).
+
+You may download the template (suitable for uploading to Overleaf) [here](/files/ps/ps5.zip).
+
 
