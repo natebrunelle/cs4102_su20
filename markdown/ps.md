@@ -70,6 +70,8 @@ You may view a pdf of the problem set [here](/files/ps/ps4_blank.pdf).
 
 You may download the template (suitable for uploading to Overleaf) [here](/files/ps/ps4.zip).
 
+You may view a pdf containing sample solutions [here](/files/ps/ps4_solutions.pdf).
+
 ## PS5: Reductions
 
 Due 11:59pm Thursday April 27.
