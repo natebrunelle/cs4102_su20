@@ -103,3 +103,7 @@ This assignment is intended to provide you experience in implementing Dynamic Pr
 
 This assignment is intended to provide you experience in using maxflow to solve a non-graph problem by way of reduction. Here is a link to the [PA9 Task Description](/files/pa/pa9_writeup.pdf). Here is a [zip file](/files/pa/pa9.zip) with some starter code (in python and java both). Your score should be visible immediately after the autograder checks your code, there are no hidden tests. To complete this assignment you should use the input provided to construct a graph (using the flownetwork class provided), run maxflow on the graph (using the code provided), then select your answer depending on just the amount of flow found in the graph. There may be other ways to solve the problem as well, but this process is going to be the easiest.
 
+## PA10: K Means Clustering
+
+This assignment is intended to provide you experience in implementing a machine learning algorithm. Here is a link to the [PA10 Task Description](/files/pa/pa10_writeup.pdf). Here is a [zip file](/files/pa/pa10.zip) with some starter code (in python and java both). The test cases provided are collections of points. No particular corner cases, edge cases, or misconceptions are intentionally tested for. You score should be visible immediately after the autograder checks your code.
+
