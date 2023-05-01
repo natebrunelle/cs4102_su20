@@ -95,7 +95,7 @@ Here is what you may be expected to do on the quiz:
 
 ## Quiz 4: Dynamic Programming
 
-This quiz will be based off of all content convered relating to Dynamic PRogramming algorithms (which we concluded on March 30). The Quiz will consist of multiple choice questions and written questions. You should solve the written questions on your own paper, then scan/photograph and upload your solutions to gradescope. Your 60 minutes includes the time to do this, so please have a plan before you begin the quiz.
+This quiz will be based off of all content convered relating to Dynamic Programming algorithms (which we concluded on March 30). The Quiz will consist of multiple choice questions and written questions. You should solve the written questions on your own paper, then scan/photograph and upload your solutions to gradescope. Your 60 minutes includes the time to do this, so please have a plan before you begin the quiz.
 
 Here is what you may be expected to do on the quiz:
 
@@ -113,4 +113,24 @@ Here is what you may be expected to do on the quiz:
     - Fill in cells in the memory
     - Identify what problems might depend on other problems
     - Use a completed memory to do backtracking
-  
+
+## Quiz 5: Reductions
+
+This quiz will be based off of all content convered relating to Max Flow and Reductions (which we concluded on April 13). The Quiz will consist of multiple choice questions and written questions. You should solve the written questions on your own paper, then scan/photograph and upload your solutions to gradescope. Your 60 minutes includes the time to do this, so please have a plan before you begin the quiz.
+
+Here is what you may be expected to do on the quiz:
+
+- Understand the definition of a flow network and the max flow problem
+- Be able to convert between a flow network and a residual graph
+- Know the definition of and be able to find an augmenting path
+- How to evaluate the running time of the Edmonds-Karp Algorithm
+- Understand the Ford-Fulkerson algorithm to a sufficient degree to be able to run it by hand.
+- Understand the relationship between Max Flow and Min Cut
+- Understand and recall details about the reductions presented in class including:
+    - Maximum Bipartite Matching to Max Flow
+    - Vertex Disjoint Paths to Edge Disjoint Paths
+    - Edge Disjoint Paths to Max Flow
+    - Closest Pair of Points to Element Uniqueness
+- Understand how to use reductions to apply a worst-case-lower-bound from one problem to another
+- Understand why reductions demonstrate worst-case-lower-bounds
+- Draw and/or reason about decision trees.
