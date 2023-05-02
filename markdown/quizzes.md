@@ -142,6 +142,8 @@ During the final exam period there is only one required quiz due (Quiz 5). You m
 
 If you would like feedback on quizzes to decide whether you'd like to do a replacement quiz we will provide your opportunity to do so. The course staff will hold 2 intermediate grading sessions during the final exam period. During each of these sessions we will clear out all quizzes submitted prior to the start of the session. Sessions will be held on May 5 at 4pm and May 7 at 4pm.
 
-As with all other quizzes, the quizzes will be delivered remotely on gradescope. The will be released throughout the day on May 3 and due at 11:59pm on May 9. You may start them at any time in this window, but you have a 60 minute time window to complete each quiz.
+As with all other quizzes, the quizzes will be delivered remotely on gradescope. They will be released throughout the day on May 3 and due at 11:59pm on May 9. You may start them at any time in this window, but you have a 60 minute time window to complete each quiz.
+
+The difficulty level and content coverage of each replacement quiz will match that of the original quizzes as closely as possible. Please keep in mind, though, that it is not possible to do this perfectly, and opinions will vary, so you may find some quizzes to be somewhat easier or harder than the original.
 
 
